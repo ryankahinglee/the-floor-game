@@ -1,0 +1,99 @@
+{
+  "Car Brands": [
+    {
+      "image": "images/car-brands/ferrari.svg",
+      "answer": "Ferrari",
+      "aliases": [
+        "Ferrari"
+      ]
+    },
+    {
+      "image": "images/car-brands/toyota.svg",
+      "answer": "Toyota",
+      "aliases": [
+        "Toyota"
+      ]
+    },
+    {
+      "image": "images/car-brands/bmw.svg",
+      "answer": "BMW",
+      "aliases": [
+        "BMW",
+        "B M W"
+      ]
+    },
+    {
+      "image": "images/car-brands/porsche.svg",
+      "answer": "Porsche",
+      "aliases": [
+        "Porsche"
+      ]
+    }
+  ],
+  "Theme Parks": [
+    {
+      "image": "images/theme-parks/tokyo-disneyland.svg",
+      "answer": "Tokyo Disneyland",
+      "aliases": [
+        "Tokyo Disneyland",
+        "Disneyland Tokyo"
+      ]
+    },
+    {
+      "image": "images/theme-parks/universal-studios-japan.svg",
+      "answer": "Universal Studios Japan",
+      "aliases": [
+        "Universal Studios Japan",
+        "USJ"
+      ]
+    },
+    {
+      "image": "images/theme-parks/ferrari-world.svg",
+      "answer": "Ferrari World",
+      "aliases": [
+        "Ferrari World"
+      ]
+    },
+    {
+      "image": "images/theme-parks/lotte-world.svg",
+      "answer": "Lotte World",
+      "aliases": [
+        "Lotte World"
+      ]
+    }
+  ],
+  "Movie Franchises": [
+    {
+      "image": "images/movie-franchises/harry-potter.svg",
+      "answer": "Harry Potter",
+      "aliases": [
+        "Harry Potter",
+        "Potter"
+      ]
+    },
+    {
+      "image": "images/movie-franchises/star-wars.svg",
+      "answer": "Star Wars",
+      "aliases": [
+        "Star Wars"
+      ]
+    },
+    {
+      "image": "images/movie-franchises/jurassic-park.svg",
+      "answer": "Jurassic Park",
+      "aliases": [
+        "Jurassic Park",
+        "Jurassic World"
+      ]
+    },
+    {
+      "image": "images/movie-franchises/fast-and-furious.svg",
+      "answer": "Fast & Furious",
+      "aliases": [
+        "Fast and Furious",
+        "Fast & Furious",
+        "Furious"
+      ]
+    }
+  ]
+}

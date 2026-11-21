@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101827">
+  <title>The Floor — Duel Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app-shell">
+    <header class="topbar">
+      <div class="brand"><span class="brand-mark">F</span><span>THE FLOOR <small>DUEL NIGHT</small></span></div>
+      <button id="fullscreenBtn" class="icon-button" type="button" title="Toggle full screen">⛶ <span>Full screen</span></button>
+    </header>
+
+    <section id="setupScreen" class="setup-screen panel">
+      <div class="eyebrow">HOST CONTROL</div>
+      <h1>Set up your duel.</h1>
+      <p class="muted">Choose a category, name your contestants and set each player's clock.</p>
+      <div class="setup-grid">
+        <label>Contestant 1<input id="player1Input" maxlength="22" value="Player 1"></label>
+        <label>Contestant 2<input id="player2Input" maxlength="22" value="Player 2"></label>
+        <label>Category<select id="categorySelect"></select></label>
+        <label>Time per contestant
+          <select id="durationSelect">
+            <option value="30">30 seconds</option>
+            <option value="45" selected>45 seconds</option>
+            <option value="60">60 seconds</option>
+            <option value="90">90 seconds</option>
+          </select>
+        </label>
+      </div>
+      <div class="setup-note"><strong>How it works:</strong> A correct answer passes the turn to the other contestant. Only the active contestant's timer runs. The host judges answers using the buttons or keyboard shortcuts.</div>
+      <button id="startBtn" class="primary-button" type="button">Start duel <span>→</span></button>
+      <p id="loadStatus" class="status-line" aria-live="polite">Loading categories…</p>
+    </section>
+
+    <section id="gameScreen" class="game-screen hidden">
+      <div class="duel-heading">
+        <div><div class="eyebrow">HEAD-TO-HEAD DUEL</div><h1 id="categoryHeading">Category</h1></div>
+        <div class="round-chip">ONE CATEGORY · ONE WINNER</div>
+      </div>
+
+      <div class="players">
+        <article id="playerCard0" class="player-card active">
+          <div class="player-label"><span class="turn-dot"></span><span id="playerName0">Player 1</span></div>
+          <div id="timer0" class="timer">00:45</div>
+          <div class="timer-track"><div id="timerBar0" class="timer-bar"></div></div>
+        </article>
+        <article id="playerCard1" class="player-card">
+          <div class="player-label"><span class="turn-dot"></span><span id="playerName1">Player 2</span></div>
+          <div id="timer1" class="timer">00:45</div>
+          <div class="timer-track"><div id="timerBar1" class="timer-bar"></div></div>
+        </article>
+      </div>
+
+      <section class="question-panel">
+        <div class="question-topline"><span id="turnLabel">PLAYER 1'S TURN</span><span id="questionCount">IMAGE 1</span></div>
+        <div class="image-stage">
+          <img id="questionImage" alt="Guess the image">
+          <div id="imageFallback" class="image-fallback hidden">Image couldn't load.<br><small>Check the image path in categories.json.</small></div>
+        </div>
+        <div class="question-bottom">
+          <div><div class="eyebrow">IDENTIFY THE IMAGE</div><h2>What's the answer?</h2></div>
+          <div class="host-controls">
+            <button id="skipBtn" class="secondary-button" type="button">Skip <kbd>Space</kbd></button>
+            <button id="correctBtn" class="primary-button" type="button">Correct <kbd>Enter</kbd></button>
+          </div>
+        </div>
+        <p id="hostMessage" class="host-message" aria-live="polite">Host: confirm the answer, then pass the turn.</p>
+      </section>
+
+      <div class="utility-controls">
+        <button id="pauseBtn" class="utility-button" type="button">Ⅱ Pause <kbd>P</kbd></button>
+        <button id="restartBtn" class="utility-button" type="button">↻ Restart duel <kbd>R</kbd></button>
+        <button id="newDuelBtn" class="utility-button" type="button">New duel</button>
+        <button id="revealBtn" class="utility-button" type="button">Reveal answer</button>
+      </div>
+    </section>
+
+    <section id="resultScreen" class="result-screen panel hidden">
+      <div class="eyebrow">DUEL COMPLETE</div>
+      <div class="trophy">🏆</div>
+      <h1 id="winnerHeading">Player wins!</h1>
+      <p id="resultDescription" class="muted"></p>
+      <div class="result-actions">
+        <button id="againBtn" class="primary-button" type="button">Play again</button>
+        <button id="setupAgainBtn" class="secondary-button" type="button">Change setup</button>
+      </div>
+    </section>
+
+    <footer>HOST MODE · Enter = correct · Space = skip · P = pause · R = restart</footer>
+  </main>
+  <script src="game.js"></script>
+</body>
+</html>
