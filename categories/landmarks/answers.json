@@ -1,5 +1,6 @@
 {
   "name": "Famous Landmarks",
+  "summary": "A world tour in 45 seconds. Pack your passport, and don't call the Brandenburg Gate the Arc de Triomphe.",
   "images": [
     {"file": "eiffel-tower.jpg", "answer": "Eiffel Tower", "description": "Paris, France"},
     {"file": "leaning-tower-of-pisa.jpg", "answer": "Leaning Tower of Pisa", "aliases": ["Tower of Pisa"], "description": "Pisa, Italy"},

@@ -1,5 +1,6 @@
 {
   "name": "TV Shows",
+  "summary": "Binge-watchers, this one's yours. A group of friends in New York could be more than one show...",
   "images": [
     {"file":"big-bang-theory.jpg","answer":"The Big Bang Theory","aliases":["Big Bang Theory","TBBT"],"description":"Kunal Nayyar, Jim Parsons, Kaley Cuoco, Simon Helberg, Johnny Galecki"},
     {"file":"how-i-met-your-mother.jpg","answer":"How I Met Your Mother","aliases":["HIMYM"],"description":"Neil Patrick Harris, Cobie Smulders, Jason Segel, Alyson Hannigan, Josh Radnor"},

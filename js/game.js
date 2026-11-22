@@ -9,6 +9,7 @@ const TICK_MS = 100;
 
 const state = {
   categories: {},
+  summaries: {},           // category name → short description (from "summary" in answers.json)
   categoryName: "",
   questions: [],
   questionIndex: 0,
@@ -37,8 +38,10 @@ async function loadCategories() {
     // loadAllCategories() lives in js/categories.js
     const { categories, problems } = await loadAllCategories();
     state.categories = {};
+    state.summaries = {};
     categories.forEach(category => {
       state.categories[category.name] = category.questions;
+      state.summaries[category.name] = category.summary; // short description for the popup
     });
     buildCategoryTiles();
     $("loadStatus").textContent = problems.join(" ");
@@ -145,7 +148,11 @@ function openStarterPicker(categoryName) {
     return;
   }
   state.categoryName = categoryName;
-  $("starterCategory").textContent = categoryName.toUpperCase();
+  $("starterCategory").textContent = categoryName;
+  // Show the category's short description, or hide the line if it doesn't have one.
+  const summary = state.summaries[categoryName] || "";
+  $("starterSummary").textContent = summary;
+  $("starterSummary").classList.toggle("hidden", !summary);
   chooseStarter(state.starter);
   $("starterModal").classList.remove("hidden");
   document.querySelector(".starter-choice.selected").focus();

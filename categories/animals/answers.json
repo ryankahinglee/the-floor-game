@@ -1,5 +1,6 @@
 {
   "name": "Animals",
+  "summary": "Spots aren't enough to save you. Cheetah or leopard? Look at the face!",
   "images": [
     {"file":"lion.jpg","answer":"Lion","aliases":["Lioness"]},
     {"file":"tiger.jpg","answer":"Tiger"},

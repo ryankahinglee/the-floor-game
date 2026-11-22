@@ -1,5 +1,6 @@
 {
   "name": "Game Franchises",
+  "summary": "Cosplay, plushies and fan photos only. If you can tell your survival horrors apart, you're already ahead.",
   "images": [
     {"file":"angry-birds.jpg","answer":"Angry Birds","description":"Red bird plush"},
     {"file":"animal-crossing.jpg","answer":"Animal Crossing","description":"Isabelle costume"},

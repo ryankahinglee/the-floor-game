@@ -1,5 +1,6 @@
 {
   "name": "Tools & Kitchen Utensils",
+  "summary": "Half the shed, half the kitchen drawer. If you've ever called a spatula a 'flippy thing', this is your redemption.",
   "images": [
     {"file": "hammer.jpg", "answer": "Hammer"},
     {"file": "screwdriver.jpg", "answer": "Screwdriver"},

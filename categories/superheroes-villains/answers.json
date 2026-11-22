@@ -1,5 +1,6 @@
 {
   "name": "Superheroes & Villains",
+  "summary": "Marvel, DC and beyond, in cosplay. Not every Spider-Man is Peter Parker...",
   "images": [
     {"file":"spider-man.jpg","answer":"Spider-Man","aliases":["Spiderman","Peter Parker"],"description":"Hero · Marvel"},
     {"file":"miles-morales.jpg","answer":"Miles Morales","aliases":["Spider-Man (Miles)"],"description":"Hero · Marvel"},

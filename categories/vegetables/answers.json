@@ -1,5 +1,6 @@
 {
   "name": "Vegetables",
+  "summary": "Your mum told you to eat them. Now name them. Swede or turnip? Choose wisely.",
   "images": [
     {"file": "carrot.jpg", "answer": "Carrot"},
     {"file": "potato.jpg", "answer": "Potato"},

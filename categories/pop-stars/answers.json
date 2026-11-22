@@ -1,5 +1,6 @@
 {
   "name": "Pop Stars",
+  "summary": "Chart-toppers from Madonna to Chappell Roan. Sing along if you have to, just get the name right.",
   "images": [
     {"file": "taylor-swift.png", "answer": "Taylor Swift"},
     {"file": "beyonce.jpg", "answer": "Beyoncé", "aliases": ["Beyonce"]},

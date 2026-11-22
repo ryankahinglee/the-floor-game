@@ -198,6 +198,9 @@ body:has(#gameScreen:not(.hidden)) main > footer { display: none; }
 /* ---------- "Who's starting?" popup ---------- */
 .modal-backdrop { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; padding: 16px; background: rgba(5, 9, 16, .75); backdrop-filter: blur(4px); }
 .modal { width: min(520px, 100%); text-align: center; animation: reveal-in .2s ease-out; }
+.starter-category { font-size: clamp(26px, 3.2vw, 36px); margin: 6px 0 10px; }
+.starter-summary { color: var(--muted); font-size: clamp(14px, 1.5vw, 17px); line-height: 1.55; margin: 0 auto 4px; max-width: 44ch; }
+.starter-question { font: 700 13px 'DM Sans', Arial, sans-serif; letter-spacing: 2px; text-transform: uppercase; color: var(--text); margin: 22px 0 0; padding-top: 18px; border-top: 1px solid var(--line); }
 .starter-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0; }
 .starter-choice {
   --pc: var(--p1);

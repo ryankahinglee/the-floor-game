@@ -1,5 +1,6 @@
 {
   "name": "Desserts & Sweets",
+  "summary": "Pavlova, lamingtons and treats from around the world. Éclair or profiterole? Same pastry, very different shape.",
   "images": [
     {"file":"pavlova.jpg","answer":"Pavlova","aliases":["Pav"]},
     {"file":"lamington.jpg","answer":"Lamington"},

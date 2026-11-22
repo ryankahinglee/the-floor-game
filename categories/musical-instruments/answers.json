@@ -1,5 +1,6 @@
 {
   "name": "Musical Instruments",
+  "summary": "The orchestra is warming up. Clarinet and oboe look like cousins, so listen to your eyes.",
   "images": [
     {"file": "piano.jpg", "answer": "Piano"},
     {"file": "acoustic-guitar.jpg", "answer": "Acoustic Guitar", "aliases": ["Guitar"]},

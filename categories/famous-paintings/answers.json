@@ -1,5 +1,6 @@
 {
   "name": "Famous Paintings",
+  "summary": "Gallery-goers, it's your time to shine. Monet painted a LOT of water, so read the brushstrokes carefully.",
   "images": [
     {"file": "mona-lisa.jpg", "answer": "Mona Lisa", "aliases": ["La Gioconda", "La Joconde"], "description": "Leonardo da Vinci, c. 1503"},
     {"file": "the-starry-night.jpg", "answer": "The Starry Night", "aliases": ["Starry Night"], "description": "Vincent van Gogh, 1889"},

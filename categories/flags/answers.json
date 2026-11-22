@@ -1,5 +1,6 @@
 {
   "name": "Countries (Flags)",
+  "summary": "Red, white and stripes everywhere. Can you tell Indonesia from Poland when it counts?",
   "images": [
     {"file": "united-states.png", "answer": "United States", "aliases": ["USA", "America", "United States of America"]},
     {"file": "united-kingdom.png", "answer": "United Kingdom", "aliases": ["UK", "Great Britain", "Britain"]},

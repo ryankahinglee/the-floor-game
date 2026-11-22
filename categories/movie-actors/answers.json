@@ -1,5 +1,6 @@
 {
   "name": "Movie Actors",
+  "summary": "Hollywood's biggest faces, plus a few Aussie exports. Warning: Hollywood has far too many Chrises.",
   "images": [
     {"file":"tom-holland.jpg","answer":"Tom Holland"},
     {"file":"zendaya.jpg","answer":"Zendaya"},

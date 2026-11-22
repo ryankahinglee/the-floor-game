@@ -1,5 +1,6 @@
 {
   "name": "Sports Equipment",
+  "summary": "Balls, bats, racquets and the odd pommel horse. True blue Aussies know a footy is NOT a rugby ball.",
   "images": [
     {"file": "soccer-ball.jpg", "answer": "Soccer Ball", "aliases": ["Football"]},
     {"file": "basketball.png", "answer": "Basketball"},

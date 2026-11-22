@@ -1,5 +1,6 @@
 {
   "name": "Greek Mythology",
+  "summary": "Gods, heroes and monsters from Mount Olympus. One holds a lightning bolt, one holds a trident. Choose wisely.",
   "images": [
     {"file":"zeus.jpg","answer":"Zeus","aliases":["Jupiter"],"description":"King of the gods"},
     {"file":"hera.jpg","answer":"Hera","aliases":["Juno"],"description":"Queen of the gods, wife of Zeus"},

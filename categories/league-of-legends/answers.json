@@ -1,5 +1,6 @@
 {
   "name": "League of Legends Champions",
+  "summary": "Splash art only, no names. One wrong guess and you'll be feeding like a bronze Yasuo main.",
   "images": [
     {"file": "ahri-0.jpg", "answer": "Ahri"},
     {"file": "yasuo-57.jpg", "answer": "Prestige Inkshadow Yasuo", "aliases": ["Yasuo"], "description": "Champion: Yasuo"},

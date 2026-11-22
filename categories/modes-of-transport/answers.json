@@ -1,5 +1,6 @@
 {
   "name": "Modes of Transport",
+  "summary": "Planes, trains and some very weird rides. One paddle or two? That's the canoe vs kayak question.",
   "images": [
     {"file": "train.jpg", "answer": "Train", "aliases": ["Passenger train"]},
     {"file": "monorail.jpg", "answer": "Monorail"},

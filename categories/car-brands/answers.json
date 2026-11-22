@@ -1,5 +1,6 @@
 {
   "name": "Car Brands",
+  "summary": "Just the badge, nothing else. Two H's, two very different car companies. Honda or Hyundai?",
   "images": [
     {"file": "abarth.png", "answer": "Abarth", "description": "Italy (Fiat performance brand)"},
     {"file": "acura.png", "answer": "Acura", "description": "Japan (Honda's luxury brand)"},

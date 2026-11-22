@@ -1,5 +1,6 @@
 {
   "name": "Famous Athletes",
+  "summary": "Olympians, GOATs and a lot of Aussies. Bonus points for spotting the McLaren driver.",
   "images": [
     {"file":"usain-bolt.jpg","answer":"Usain Bolt","description":"Sprinter, Jamaica"},
     {"file":"michael-phelps.jpg","answer":"Michael Phelps","description":"Swimmer, USA"},

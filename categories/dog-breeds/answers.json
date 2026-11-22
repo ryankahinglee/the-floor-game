@@ -1,5 +1,6 @@
 {
   "name": "Dog Breeds",
+  "summary": "Good boys and girls only. Husky or malamute? Size matters here.",
   "images": [
     {"file":"labrador.jpg","answer":"Labrador","aliases":["Labrador Retriever","Lab"]},
     {"file":"golden-retriever.jpg","answer":"Golden Retriever","aliases":["Goldie"]},

@@ -1,5 +1,6 @@
 {
   "name": "Dishes of the World",
+  "summary": "Don't play this one hungry. Gyros and shawarma will test your kebab-shop knowledge.",
   "images": [
     {"file": "sushi.jpg", "answer": "Sushi"},
     {"file": "pizza.jpg", "answer": "Pizza"},

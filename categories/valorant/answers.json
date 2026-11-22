@@ -1,5 +1,6 @@
 {
   "name": "Valorant",
+  "summary": "Maps, guns, agents and ultimates. Vandal or Phantom? Pick wrong and that's a whole round lost.",
   "images": [
     {"file":"map-ascent.jpg","answer":"Ascent","description":"Map"},
     {"file":"map-split.jpg","answer":"Split","description":"Map"},

@@ -1,5 +1,6 @@
 {
   "name": "Historical Figures",
+  "summary": "Kings, queens, scientists and revolutionaries. Two President Roosevelts are in here. Good luck!",
   "images": [
     {"file": "mahatma-gandhi.jpg", "answer": "Mahatma Gandhi", "aliases": ["Gandhi"], "description": "Indian independence leader", "fact": "Led India's peaceful struggle for independence from Britain (1869–1948)."},
     {"file": "napoleon.jpg", "answer": "Napoleon", "aliases": ["Napoleon Bonaparte", "Bonaparte"], "description": "Emperor of France", "fact": "French general who crowned himself Emperor and conquered much of Europe, until his defeat at Waterloo in 1815."},

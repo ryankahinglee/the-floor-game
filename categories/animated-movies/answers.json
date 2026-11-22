@@ -1,5 +1,6 @@
 {
   "name": "Animated Movies",
+  "summary": "Childhood throwback incoming! Here's a hint: the penguins got their own movie.",
   "images": [
     {"file":"a-bugs-life.png","answer":"A Bug's Life"},
     {"file":"aladdin.png","answer":"Aladdin"},

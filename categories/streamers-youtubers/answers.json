@@ -1,5 +1,6 @@
 {
   "name": "Streamers & YouTubers",
+  "summary": "Hit subscribe on this round. Fair warning: the Paul brothers are both here.",
   "images": [
     {"file": "mrbeast.jpg", "answer": "MrBeast", "aliases": ["Jimmy Donaldson", "Mr Beast"], "description": "YouTuber, giant challenges"},
     {"file": "pewdiepie.jpg", "answer": "PewDiePie", "aliases": ["Felix Kjellberg", "Pewds"], "description": "YouTuber, Sweden"},

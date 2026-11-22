@@ -1,5 +1,6 @@
 {
   "name": "Flowers",
+  "summary": "Garden favourites and Aussie natives. The waratah and the protea are a classic trap.",
   "images": [
     {"file":"rose.jpg","answer":"Rose"},
     {"file":"tulip.jpg","answer":"Tulip"},

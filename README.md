@@ -58,6 +58,7 @@ Tip: use a new round number for each game so players can't learn the order.
    ```json
    {
      "name": "Famous Landmarks",
+     "summary": "How well-travelled are you? Don't confuse the Arc de Triomphe with the Brandenburg Gate!",
      "images": [
        { "file": "eiffel-tower.jpg", "answer": "Eiffel Tower" },
        { "file": "big-ben.jpg", "answer": "Big Ben", "aliases": ["Elizabeth Tower"] },
@@ -66,6 +67,7 @@ Tip: use a new round number for each game so players can't learn the order.
    }
    ```
    - `name` is what appears on the home-screen tile.
+   - `summary` (optional) is a one-line description of the category, shown under the category name in the "Who's starting?" popup.
    - `aliases` (optional) are other answers the host should accept.
    - `description` (optional) is an extra note for the host. It only shows on the answer sheet.
    - `fact` (optional) is a short fun fact shown on the TV under the answer, after Correct or Skip. Example: `"fact": "Led India's peaceful struggle for independence."`

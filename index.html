@@ -117,8 +117,11 @@
     <!-- Popup shown after picking a category: choose who goes first. -->
     <div id="starterModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="starterTitle">
       <div class="modal panel">
-        <div id="starterCategory" class="eyebrow">CATEGORY</div>
-        <h2 id="starterTitle">Who's starting?</h2>
+        <div class="eyebrow">CATEGORY</div>
+        <h2 id="starterCategory" class="starter-category">Category</h2>
+        <!-- Short description of the category (the "summary" line in its answers.json) -->
+        <p id="starterSummary" class="starter-summary"></p>
+        <h3 id="starterTitle" class="starter-question">Who's starting?</h3>
         <div class="starter-choices">
           <button class="starter-choice player-one selected" type="button" data-player="0">Player 1 <kbd>1</kbd></button>
           <button class="starter-choice player-two" type="button" data-player="1">Player 2 <kbd>2</kbd></button>

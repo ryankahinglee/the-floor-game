@@ -1,5 +1,6 @@
 {
   "name": "Anime",
+  "summary": "Shonen, Ghibli and everything in between. If you've seen a Miyazaki film, you've got a head start.",
   "images": [
     {"file":"100-meters.jpg","answer":"100 Meters","aliases":["Hyakuemu"]},
     {"file":"a-silent-voice.jpg","answer":"A Silent Voice","aliases":["Koe no Katachi"]},

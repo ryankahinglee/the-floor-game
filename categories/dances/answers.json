@@ -1,5 +1,6 @@
 {
   "name": "Dances",
+  "summary": "From ballet to the haka. Lion or dragon? Count the legs before you answer.",
   "images": [
     {"file":"ballet.jpg","answer":"Ballet","description":"France / Italy","fact":"Started in Italian and French royal courts. Dancers train at a barre and dance on their toes \"en pointe\"."},
     {"file":"tango.jpg","answer":"Tango","aliases":["Argentine tango"],"description":"Argentina / Uruguay","fact":"Born in the 1880s in Buenos Aires and Montevideo. Known for close holds and sharp, dramatic moves."},

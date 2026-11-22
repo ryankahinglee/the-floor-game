@@ -1,5 +1,6 @@
 {
   "name": "Fruits",
+  "summary": "From the fruit bowl to the tropics. Lychee, rambutan, longan... hairy or smooth, you'd better know which is which.",
   "images": [
     {"file":"apple.jpg","answer":"Apple"},
     {"file":"banana.jpg","answer":"Banana"},

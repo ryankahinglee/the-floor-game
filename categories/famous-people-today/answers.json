@@ -1,5 +1,6 @@
 {
   "name": "Famous People 2026",
+  "summary": "Presidents, billionaires and people who are always in the news. Aussie politics fans, this is your moment.",
   "images": [
     {"file": "donald-trump.jpg", "answer": "Donald Trump", "aliases": ["Trump"], "description": "US President (45th and 47th)", "fact": "Businessman and former host of The Apprentice who won the US presidency in 2016 and again in 2024."},
     {"file": "jd-vance.jpg", "answer": "JD Vance", "aliases": ["Vance", "J.D. Vance"], "description": "US Vice President", "fact": "Became Vice President in 2025. He wrote the bestselling memoir Hillbilly Elegy."},

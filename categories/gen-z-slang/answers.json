@@ -1,5 +1,6 @@
 {
   "name": "Gen Z Slang",
+  "summary": "No cap, this round is bussin'. Read the meaning, name the slang, and try not to get cooked.",
   "type": "text",
   "questions": [
     {"text":"Charm, or the skill of attracting someone","answer":"Rizz","description":"\"He's got so much rizz.\""},

@@ -1,5 +1,6 @@
 {
   "name": "Pasta",
+  "summary": "Every Nonna's favourite round. Penne and ziti are basically twins, so look closely at the ends.",
   "images": [
     {"file": "spaghetti.jpg", "answer": "Spaghetti"},
     {"file": "penne.png", "answer": "Penne"},

@@ -82,7 +82,8 @@ async function loadAllCategories() {
         description: item.description || "",
         fact: item.fact || ""          // optional fun fact shown on the TV with the answer
       }));
-      categories.push({ folder, name: data.name || folder, questions });
+      // "summary" (optional) is a one-line description shown in the "Who's starting?" popup.
+      categories.push({ folder, name: data.name || folder, summary: data.summary || "", questions });
     } catch (error) {
       problems.push(error.message);
     }

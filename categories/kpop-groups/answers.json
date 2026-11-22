@@ -1,5 +1,6 @@
 {
   "name": "K-pop Groups",
+  "summary": "Stan culture meets speed round. IVE and ILLIT are only one letter apart, so no pressure.",
   "images": [
     {"file": "bts.jpg", "answer": "BTS", "aliases": ["Bangtan Boys"]},
     {"file": "blackpink.png", "answer": "Blackpink"},
