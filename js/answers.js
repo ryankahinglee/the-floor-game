@@ -82,6 +82,16 @@ function showList() {
       text.appendChild(small);
     }
 
+    // Text questions (like proverbs) have no image, so leave the thumbnail spot empty.
+    if (!question.image) {
+      const empty = document.createElement("span");
+      empty.className = "answer-row-thumb no-image";
+      row.append(number, text, empty);
+      row.addEventListener("click", () => highlightRow(row));
+      list.appendChild(row);
+      return;
+    }
+
     const thumb = document.createElement("img");
     thumb.className = "answer-row-thumb";
     thumb.src = question.image;

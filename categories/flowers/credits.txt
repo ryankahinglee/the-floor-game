@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized to 800px wide by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+rose.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Red_rose_with_black_background.jpg
+  Author: Laitche
+  Licence: CC BY-SA 4.0
+
+tulip.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Red_and_white_tulip_at_Myddelton_House,_Enfield,_London.jpg
+  Author: Acabashi
+  Licence: CC BY-SA 4.0
+
+sunflower.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sunflower_head_2026_G1.jpg
+  Author: George Chernilevsky
+  Licence: CC BY 4.0
+
+daisy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pink_twinged_daisy_on_table_edit.jpg
+  Author: Photo by and (c) 2007 Jina Lee. Edited by User:Ram-Man.
+  Licence: CC BY-SA 3.0
+
+lily.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lilium_'Stargazer'_(the_'Stargazer_lily').jpg
+  Author: Subhrajyoti07
+  Licence: CC BY-SA 4.0
+
+orchid.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Phalaenopsis_cultivar_(Moth_orchid).jpg
+  Author: Serigalakampus
+  Licence: CC BY-SA 4.0
+
+lotus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nelumno_nucifera_open_flower_-_botanic_garden_adelaide2.jpg
+  Author: Peripitus
+  Licence: CC BY-SA 4.0
+
+waratah.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Telopea_speciosissima_Ingar_Falls_crop.jpg
+  Author: Casliber
+  Licence: CC BY-SA 3.0
+
+golden-wattle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Acacia_pycnantha_Golden_Wattle.jpg
+  Author: Melburnian
+  Licence: CC BY-SA 3.0
+
+kangaroo-paw.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Anigozanthos_Bush_Pizzazz.jpg
+  Author: Toby Hudson
+  Licence: CC BY-SA 3.0
+
+bottlebrush.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Callistemon_'Little_John'_flowers_-_HNT.jpg
+  Author: Eric Polk
+  Licence: CC BY-SA 4.0
+
+banksia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Banksia_serrata_Henry_Hd_email.jpg
+  Author: Cas Liber
+  Licence: Public domain
+
+hibiscus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hibiscus_petal.jpg
+  Author: Nvineeth
+  Licence: CC BY-SA 3.0
+
+frangipani.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Plumeria_(Frangipani)_flowers.jpg
+  Author: Basile Morin
+  Licence: CC BY-SA 4.0
+
+lavender.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lavandula_angustifolia_in_Sedovo_1.jpg
+  Author: Andrey Butko
+  Licence: CC BY-SA 3.0
+
+lilac.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Syringa_microphylla_'Superba'_flowers_at_Hulda_Klager_Lilac_Gardens.jpg
+  Author: Dcoetzee
+  Licence: CC0
+
+daffodil.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Daffodil_(Narcissus)_flower_-_geograph.org.uk_-_4395629.jpg
+  Author: Evelyn Simak
+  Licence: CC BY-SA 2.0
+
+iris.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Iris_×_germanica_flower.jpg
+  Author: Hüseyin Cahid Doğan
+  Licence: CC BY-SA 4.0
+
+poppy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Camomille_sauvage_(Matricaria_chamomilla),_coquelicots_(Papaver_rhoeas)_au_bord_d'un_champ_d'orge_(Hordeum_vulgare).jpg
+  Author: JackyM59
+  Licence: CC BY-SA 4.0
+
+carnation.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dianthus_caryophyllus_in_China_(9).jpg
+  Author: Dinkun Chen
+  Licence: CC BY-SA 4.0
+
+chrysanthemum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chrysanthemum_morifolium_08NOV.jpg
+  Author: 池田正樹 (talk)masaki ikeda
+  Licence: Public domain
+
+dahlia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dahlia_'Bishop_of_Auckland.JPG
+  Author: Dominicus Johannes Bergsma
+  Licence: CC BY-SA 3.0
+
+peony.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paeonia_lactiflora_'Bowl_of_Beauty'-2459.jpg
+  Author: Julie Anne Workman
+  Licence: CC BY-SA 3.0
+
+hydrangea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hydrangea_macrophylla_-_Hortensia_hydrangea.jpg
+  Author: Raul654
+  Licence: CC BY-SA 3.0
+
+magnolia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Magnolia_×_soulangeana_blossom.jpg
+  Author: James F.
+  Licence: CC BY 1.0
+
+cherry-blossom.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cerisier_du_Japon_(Prunus_serrulata)_(3).jpg
+  Author: Gzen92
+  Licence: CC BY-SA 4.0
+
+bird-of-paradise.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Strelitzia_larger.jpg
+  Author: Scott Bauer, USDA
+  Licence: Public domain
+
+marigold.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Große_Blaue_Holzbiene_Tagetes-20241026-RM-152720.jpg
+  Author: Reinhold Möller Ermell
+  Licence: CC BY-SA 4.0
+
+pansy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yellow_Pansy_Flower_Raindrops_Ooty_Sep26_A7CR_13223-71_zsp.jpg
+  Author: This Photo was taken by Timothy A. Gonsalves. Feel free to use my photos, but please mention me as the author. I would much appreciate if you send me an email tagooty@yahoo.com or write on my talk page, for my information. Please contact me before commercial use. Please do not upload an edited image here without consulting me. I would like to make corrections only at my own source to ensure that the changes improve the image and are preserved.Otherwise you may upload an edited image with a new name. Please use one of the templates derivative or extract.
+  Licence: CC BY-SA 4.0
+
+geranium.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pelargonium_2025_G1.jpg
+  Author: George Chernilevsky
+  Licence: CC BY 4.0
+
+jasmine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:(MHNT)_Jasminum_polyanthum_–_flowers_and_buds.jpg
+  Author: Didier Descouens
+  Licence: CC BY-SA 4.0
+
+gardenia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gardenia_Jasminoides_Flower.jpg
+  Author: qwright10
+  Licence: CC0
+
+camellia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Camellia_japonica_NBG.jpg
+  Author: PumpkinSky
+  Licence: CC BY-SA 3.0
+
+azalea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rhododendron_'Concina'_03.JPG
+  Author: Kor!An (Андрей Корзун)
+  Licence: CC BY-SA 3.0
+
+bluebell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hyacinthoides_non-scripta_(Common_Bluebell).jpg
+  Author: MichaelMaggs
+  Licence: CC BY-SA 3.0
+
+forget-me-not.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Myosotis_scorpioides_-_Niitvälja_bog.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+snowdrop.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Galanthus_nivalis_close-up_aka.jpg
+  Author: André Karwath aka Aka
+  Licence: CC BY-SA 2.5
+
+crocus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Crocus_vernus_20150308.jpg
+  Author: Uoaei1
+  Licence: CC BY-SA 4.0
+
+hyacinth.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hyacinthus_orientalis_et_apis_melifera.jpg
+  Author: Dinkum
+  Licence: CC BY-SA 3.0
+
+lily-of-the-valley.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lelietje-van-dalen_of_meiklokje_(Convallaria_majalis)._14-05-2021_(actm.)_01.jpg
+  Author: Agnes Monkelbaan
+  Licence: CC BY-SA 4.0
+
+gerbera.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gerbera_flower_at_Bharat_Bhavan_garden.jpg
+  Author: Suyash Dwivedi
+  Licence: CC BY-SA 4.0
+
+foxglove.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bloemen_en_knoppen_van_Vingerhoedskruid_(Digitalis_purpurea)._Locatie,_Tuinreservaat_Jonkervallei_01.jpg
+  Author: Dominicus Johannes Bergsma
+  Licence: CC BY-SA 4.0
+
+snapdragon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Snapdragon_flowers_in_Herb_World_Akita.jpg
+  Author: 掬茶
+  Licence: CC BY-SA 4.0
+
+sweet-pea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edelwicke_(Lathyrus_odoratus)_Blüte_focus_stack-20200628-RM-175552.jpg
+  Author: Ermell
+  Licence: CC BY-SA 4.0
+
+morning-glory.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ipomoea_purpurea_2016_G1.jpg
+  Author: George Chernilevsky
+  Licence: Public domain
+
+bougainvillea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bougainvillea_Flowers,_Location-_Jorhat,_Assam.jpg
+  Author: BhuyanBhaskar
+  Licence: CC BY 4.0
+
+king-protea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Protéa_royale_à_Stellenbosch_(Afrique_du_Sud).jpg
+  Author: © Pierre André
+  Licence: CC BY-SA 4.0
+
+water-lily.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Daubeny's_water_lily_at_BBG_(50824).jpg
+  Author: Rhododendrites
+  Licence: CC BY-SA 4.0
+
+calla-lily.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zantedeschia_aethiopica_(Witte_aronskelk)_01.JPG
+  Author: Dominicus Johannes Bergsma
+  Licence: CC BY-SA 3.0
+
+wisteria.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Wisteria_sinensis_kz05.jpg
+  Author: Krzysztof Ziarnek, Kenraiz
+  Licence: CC BY-SA 4.0
+
+edelweiss.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Alpen_Edelweiß,_Leontopodium_alpinum_2.JPG
+  Author: Böhringer Friedrich
+  Licence: CC BY-SA 2.5
+
+dandelion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Taraxacum_officinale,_2020-06-05,_Beechview,_01.jpg
+  Author: Cbaile19
+  Licence: CC0
+
+thistle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cirsium_arvense_with_Bees_Richard_Bartz.jpg
+  Author: Richard Bartz, Munich aka Makro Freak
+  Licence: CC BY-SA 2.5
+
+buttercup.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Thricops_semicinereus_on_Ranunculus_acris.jpg
+  Author: Richard Bartz, Munich Makro Freak
+  Licence: CC BY-SA 2.5
+
+passionflower.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Passiflora_caerulea_(makro_close-up).jpg
+  Author: Petar Milošević
+  Licence: CC BY-SA 4.0
+
+sturts-desert-pea.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sturt's_desert_pea_(Swainsona_formosa)_in_the_Pilbara_region_of_Western_Australia,_June_2023_09.jpg
+  Author: Calistemon
+  Licence: CC BY-SA 4.0
+
+titan-arum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_titan_arum_in_bloom_at_the_Botanic_Garden_(9341030611).jpg
+  Author: USCapitol
+  Licence: Public domain
+
+fuchsia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fuchsia_'Twinny'._Bloeiwijze_01.jpg
+  Author: Dominicus Johannes Bergsma
+  Licence: CC BY-SA 4.0
+
+lupin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lupinus_polyphyllus_UA_2015_G5.jpg
+  Author: George Chernilevsky
+  Licence: Public domain
+
+gladiolus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gladiolus_dalenii_flower_Ooty_Jul25_A7CR_06187-224_zsp.jpg
+  Author: Timothy A. Gonsalves
+  Licence: CC BY-SA 4.0

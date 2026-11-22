@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized to max 1280x960.
+Where a licence is CC BY, CC BY-SA or GFDL, credit goes to the author listed.
+
+train.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%D0%9F%D0%BE%D0%B5%D0%B7%D0%B4_%D0%BD%D0%B0_%D1%84%D0%BE%D0%BD%D0%B5_%D0%B3%D0%BE%D1%80%D1%8B_%D0%A8%D0%B0%D1%82%D1%80%D0%B8%D1%89%D0%B5._%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D0%B5%D0%B6%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D1%8C.jpg
+  Author: Алексей Задонский
+  Licence: CC BY-SA 4.0
+
+monorail.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chongqing_Rail_Transit_Line_3_Monorail_Train_near_Xuetangwan_Station.jpg
+  Author: Baycrest
+  Licence: CC BY-SA 2.5
+
+bicycle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Left_side_of_Flying_Pigeon.jpg
+  Author: 齐健 from Peking, People's Republic of China
+  Licence: CC BY 2.0
+
+scooter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lithium_Awesome_-_Flickr_-_Czar_Hey.jpg
+  Author: Enoch Leung from Canada
+  Licence: CC BY-SA 2.0
+
+electric-scooter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Xiaomi_M365_blanche.jpg
+  Author: Axel.206
+  Licence: CC0
+
+moped.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Honda_Hobbit.jpg
+  Author: Michael Hicks
+  Licence: CC BY 2.0
+
+motorbike.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Honda_XL1000V_Varadero_side_view.jpg
+  Author: S de Santi
+  Licence: CC BY 2.0
+
+car.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White_Toyota_Corolla_sedan_in_San_Jose_California_dllu.jpg
+  Author: Daniel Lu (User:dllu)
+  Licence: CC BY-SA 4.0
+
+bus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Qbuzz_U-OV_Mercedes-Benz_Citaro_4055_19-08-2022.jpg
+  Author: Robbie Klinkenberg
+  Licence: CC0
+
+double-decker-bus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Abellio_LT157_(LTZ1157)_Holborn_Viaduct_20.01.2024.jpg
+  Author: Martin Ruthe's Transport Photos
+  Licence: CC BY-SA 2.0
+
+tram.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Muzeum_MHD,_tramvaje_T3_8084_a_6149,_zep%C5%99edu.jpg
+  Author: ŠJů (cs:ŠJů)
+  Licence: CC BY-SA 3.0
+
+ferry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DFDS_Transmanche_Ferry_loading_at_Newhaven_Harbour.jpg
+  Author: FrogsLegs71
+  Licence: CC BY-SA 3.0
+
+cruise-ship.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Icon_of_the_Seas_Puerto_Rico_2025_(cropped).jpg
+  Author: Corey Seeman
+  Licence: CC BY-SA 4.0
+
+aeroplane.jpg
+  Source: https://commons.wikimedia.org/wiki/File:United_Airlines_Boeing_777-200_Meulemans.jpg
+  Author: Jules Meulemans
+  Licence: GFDL
+
+helicopter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:VH-SUF_Taking_Off.jpg
+  Author: Fly45yt
+  Licence: CC BY 4.0
+
+hot-air-balloon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2006_Ojiya_balloon_festival_011.jpg
+  Author: Kropsoq
+  Licence: CC BY-SA 3.0
+
+airship.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_100708-N-9174G-005_-_A_U.S._Navy_MZ-3A_manned_airship_Advanced_Airship_Flying_Laboratory_derived_from_the_commercial_A-170_series_blimp_lands_at_Lake_Front_Airport.jpg
+  Author: Petty Officer 2nd Class Andrew Geraci, U.S. Navy
+  Licence: Public domain
+
+gondola.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gondola_Ride.jpg
+  Author: Njsmith3
+  Licence: CC BY-SA 4.0
+
+cable-car.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Corona_Cable_Cars,_Table_Mountain.jpg
+  Author: Fin.Seaman
+  Licence: CC0
+
+chairlift.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sierra_Nevada_Laguna_skilift_3.jpg
+  Author: kallerna
+  Licence: CC BY-SA 4.0
+
+canoe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Morris-canoe-600.jpg
+  Author: Motorrad-67 at English Wikipedia
+  Licence: Attribution
+
+kayak.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sea_Kayak.JPG
+  Author: Thruxton
+  Licence: CC BY 3.0
+
+sailboat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sailing_on_Lake_Constance,_(1X7A9987).jpg
+  Author: Matti Blume
+  Licence: CC BY-SA 4.0
+
+speedboat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Motorboat_at_Kankaria_lake.JPG
+  Author: Kondicherry
+  Licence: CC BY-SA 3.0
+
+rowing-boat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Portland_Pudgy_safety_dinghy,_rowing.JPG
+  Author: Poe artist
+  Licence: CC BY-SA 3.0
+
+submarine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:US_Navy_040730-N-1234E-002_PCU_Virginia_(SSN_774)_returns_to_the_General_Dynamics_Electric_Boat_shipyard.jpg
+  Author: U.S. Navy photo by General Dynamics Electric Boat
+  Licence: Public domain
+
+hovercraft.jpg
+  Source: https://commons.wikimedia.org/wiki/File:03.11.20_Ryde_Hoverport_GH2160_%22Solent_Flyer%22_(50565908956).jpg
+  Author: Phil Richards from London, UK
+  Licence: CC BY-SA 2.0
+
+jet-ski.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Couple_of_teenagers_riding_a_jetski_splashing_on_the_Mekong_in_Laos.jpg
+  Author: Basile Morin
+  Licence: CC BY-SA 4.0
+
+paddle-steamer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:PS_Emmylou_(Echuca_Wet_Dock,_2021).png
+  Author: Thom Devereux
+  Licence: CC BY-SA 4.0
+
+container-ship.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MAERSK_MC_KINNEY_M%C3%96LLER_%26_MARSEILLE_MAERSK_(48694054418).jpg
+  Author: kees torn
+  Licence: CC BY-SA 2.0
+
+rickshaw.jpg
+  Source: https://commons.wikimedia.org/wiki/File:JapaneseRickshaw.jpg
+  Author: unknown
+  Licence: Public domain
+
+tuk-tuk.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bajaj_auto-rickshaw_in_Sri_Lanka.jpg
+  Author: calflier001, cropped by uploader Mr.choppers
+  Licence: CC BY-SA 2.0
+
+segway.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Black_x2_and_white_i2.jpg
+  Author: Source: aleehk82 [1] Derivative work: 丁 (talk)
+  Licence: CC BY 2.0
+
+skateboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Skateboarding_at_Mexico_City_-_Ollie_-_033.JPG
+  Author: Jarek Tuszyński
+  Licence: CC BY 4.0
+
+roller-skates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Roller-skate.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+unicycle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jamesunicycle.jpg
+  Author: BuckyB89
+  Licence: CC BY-SA 4.0
+
+tandem-bicycle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tandem_bike_with_double_electric_batteries.jpg
+  Author: FrogsLegs71
+  Licence: CC BY-SA 3.0
+
+penny-farthing.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Penny-farthing_bicycle_rider_(3689011934).jpg
+  Author: Shaun C. Williams from USA
+  Licence: CC BY 2.0
+
+horse-and-carriage.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Horse_of_Buckingham_Palace,_Londres_cropped_straightened.jpg
+  Author: Ibex73
+  Licence: CC BY 4.0
+
+camel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:07._Camel_Profile,_near_Silverton,_NSW,_07.07.2007.jpg
+  Author: Jjron
+  Licence: CC BY-SA 3.0
+
+dog-sled.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Trond_Hansen_(8436514576).jpg
+  Author: Femundløpet Presse from Røros, Norge
+  Licence: CC BY 2.0
+
+snowmobile.jpg
+  Source: https://commons.wikimedia.org/wiki/File:SnowmobilesYellowstone.jpg
+  Author: (NPS Photo), uploaded by en:User:Great Scott.
+  Licence: Public domain
+
+taxi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:(USA-New_York)_NYC_Medallion_Cab_Toyota_RAV4_NY-Taxi-Y202490C_2024-06-15.jpg
+  Author: S5A-0043
+  Licence: CC BY 4.0
+
+truck.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kenworth_W900_semi_in_red.jpg
+  Author: PRA
+  Licence: CC BY 2.5
+
+ute.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Holden_Ute_2.jpg
+  Author: Alexander Nie
+  Licence: CC BY-SA 2.0
+
+campervan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White_Fiat_Ducato_Campervan_2006.jpg
+  Author: User3204
+  Licence: CC BY 4.0
+
+limousine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:98-02_Lincoln_Town_Car_limousine.jpg
+  Author: IFCAR
+  Licence: Public domain
+
+bullet-train.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_HIroshima_Station_2_2025-03-27.jpg
+  Author: Eric Salard
+  Licence: CC BY-SA 2.0
+
+steam-train.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Number_4468_Mallard_in_York.jpg
+  Author: PTG Dudva
+  Licence: CC BY-SA 3.0
+
+metro.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Seoul-metro-2009-20180916-103548.jpg
+  Author: LERK
+  Licence: CC BY-SA 4.0
+
+rocket.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Soyuz_TMA-9_launch.jpg
+  Author: Bill Ingalls
+  Licence: Public domain
+
+space-shuttle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:STS120LaunchHiRes-edit1.jpg
+  Author: NASA; edited by jjron (tilt corrected)
+  Licence: Public domain
+
+glider.jpg
+  Source: https://commons.wikimedia.org/wiki/File:PH-1274_Rolladen-Schneider_LS-4b.JPG
+  Author: AlfvanBeem
+  Licence: CC0
+
+hang-glider.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hang_gliding_hyner.jpg
+  Author: Audrey from USA
+  Licence: CC BY 2.0
+
+paraglider.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paragliding_1350361.jpg
+  Author: Nevit Dilmen (talk)
+  Licence: CC BY-SA 3.0
+
+quad-bike.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Four_wheeler.jpg
+  Author: fir0002 flagstaffotos [at] gmail.com Canon 20D + Tamron 28-75mm f/2.8
+  Licence: GFDL 1.2
+
+go-kart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kosmic_TS28.JPG
+  Author: Oscar3kings
+  Licence: CC BY-SA 3.0
+
+golf-cart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yamaha_Drive_2_golf_car.jpg
+  Author: Eveningbeach
+  Licence: CC0
+
+hoverboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Red_self-balancing_two-wheeled_board_with_a_person_standing_on_it.png
+  Author: Soar Boards (www.soarboards.com)
+  Licence: CC BY 2.0
+
+toboggan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ann_MacDonald_riding_a_toboggan_Ann_MacDonald_sur_un_toboggan_(49165523207).jpg
+  Author: BiblioArchives / LibraryArchives from Canada
+  Licence: CC BY 2.0

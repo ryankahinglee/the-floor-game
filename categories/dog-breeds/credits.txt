@@ -1,0 +1,307 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized to max 800px wide.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+labrador.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DSC09611a_Search_and_Rescue_Dog,_Austrian_Red_Cross_Perchtoldsdorf,_2024-10.jpg
+  Author: Aciarium
+  Licence: CC BY 4.0
+
+golden-retriever.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dülmen,_Hausdülmen,_Golden_Retriever_--_2022_--_5945.jpg
+  Author: Dietmar Rabich
+  Licence: CC BY-SA 4.0
+
+german-shepherd.jpg
+  Source: https://commons.wikimedia.org/wiki/File:German_shepherd_guard_dog.jpg
+  Author: PROPOLI87
+  Licence: CC BY-SA 4.0
+
+border-collie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Border_Collie_600.jpg
+  Author: Unknown
+  Licence: CC BY-SA 3.0
+
+kelpie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hilu_the_Australian_Kelpie_dog.jpg
+  Author: Pertti Kärppä
+  Licence: Public domain
+
+blue-heeler.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Australian_Cattle_Dog_22.04.2012_5pl.jpg
+  Author: Pleple2000
+  Licence: CC BY-SA 3.0
+
+australian-shepherd.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Wet_Australian_Shepherd_dog,_side_view.jpg
+  Author: Joselodos
+  Licence: CC0
+
+staffy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Staffordshire_Bull_Terrier_brindle_portrait.jpg
+  Author: Gemma Longman
+  Licence: CC BY 2.0
+
+pug.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pug_-_1_year_Old.jpg
+  Author: Augustus Binu : flickr
+  Licence: CC BY-SA 3.0
+
+french-bulldog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:French_Bulldog_-_Bouledogue_Français.jpg
+  Author: AlessandroPhoto
+  Licence: CC BY 3.0
+
+bulldog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bulldog_portrait_Frank.jpg
+  Author: Flickr user jjsawrey
+  Licence: CC BY 2.0
+
+beagle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Beagle_in_Viroinval_(DSC04556).jpg
+  Author: Trougnouf (Benoit Brummer)
+  Licence: CC BY 4.0
+
+dachshund.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Teckel_-_39.jpg
+  Author: Another one of my pictures: This photograph was taken by Medium69 (William Crochot) and released under the license stated below. You are free to use it for any purpose as long as you credit the author (William Crochot), the Source (Wikimedia Commons) and the license (CC-BY-SA 4.0) in close relation to the image. Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source RAW. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.
+  Licence: CC BY-SA 4.0
+
+corgi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fawn_and_white_Welsh_Corgi_puppy_standing_on_rear_legs_and_sticking_out_the_tongue.jpg
+  Author: Huoadg5888Minor edits made by Subsidiary account
+  Licence: CC0
+
+siberian-husky.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Siberian_Husky_Ivan_portrait.jpg
+  Author: Randi Hausken
+  Licence: CC BY 2.0
+
+alaskan-malamute.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Alaskan_Malamute_R_Bartz.jpg
+  Author: Richard Bartz
+  Licence: CC BY-SA 2.5
+
+samoyed.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Samoyed_dog_two_year_old_female_dllu.jpg
+  Author: Dllu
+  Licence: CC BY-SA 4.0
+
+poodle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AKC_Helena_Fall_Dog_Show_2011_(6187041897).jpg
+  Author: SheltieBoy from USA
+  Licence: CC BY 2.0
+
+cavoodle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cavapoo_dog_chasing_a_maltipoo_with_a_ball_(11881).jpg
+  Author: Rhododendrites
+  Licence: CC BY-SA 4.0
+
+labradoodle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Labradoodle_white.jpg
+  Author: rab steen
+  Licence: CC BY-SA 2.0
+
+chihuahua.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Buddy_the_Chihuahua_(5597083289).jpg
+  Author: Jean G from United States
+  Licence: CC BY 2.0
+
+pomeranian.jpg
+  Source: https://commons.wikimedia.org/wiki/File:PomeranianKardashianpoms.jpg
+  Author: Kardashianpoms
+  Licence: CC BY-SA 4.0
+
+shih-tzu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shih_Tzu_portrait_show_dog.jpg
+  Author: danny O.
+  Licence: CC BY 2.0
+
+maltese.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Maltese_Dog_1.jpg
+  Author: Alfredo Borba
+  Licence: CC BY-SA 4.0
+
+yorkshire-terrier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Imageyorkie.png
+  Author: Gandalfelrojo2
+  Licence: CC BY-SA 4.0
+
+jack-russell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Szczenie_Jack_Russell_Terrier3.jpg
+  Author: Szczenie Jack Russell Terrier.jpg: Siristru derivative work: Wuhazet
+  Licence: Public domain
+
+west-highland-terrier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:West_Highland_White_Terrier_lying_on_lawn_May_2023.jpg
+  Author: Dominic Nelson
+  Licence: CC BY-SA 4.0
+
+scottish-terrier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Scottish_Terrier-Ch-Peabar_Goodness_Gracious_(16584798615).jpg
+  Author: Pets Adviser from Brooklyn, USA
+  Licence: CC BY 2.0
+
+schnauzer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AKC_Miniature_Schnauzer_Dog_Show_2013.jpg
+  Author: SheltieBoy
+  Licence: CC BY 2.0
+
+cavalier-king-charles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dog_In_The_Grass.jpg
+  Author: Filip B
+  Licence: CC BY-SA 3.0
+
+cocker-spaniel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cocker_spaniel_angielski_zlotyy.jpg
+  Author: Pleple2000
+  Licence: CC BY-SA 3.0
+
+dalmatian.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dalmatian_fetching_a_stick.jpg
+  Author: Lucasbosch
+  Licence: CC BY-SA 4.0
+
+boxer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Deutscher_Boxer_Elmo_vom_Freudenreich.jpg
+  Author: OleNeitzel
+  Licence: CC BY 4.0
+
+rottweiler.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rottweiler_-52773841920.jpg
+  Author: mar_qs
+  Licence: CC0
+
+doberman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:04_Dobermann_portrait_Hannah.jpg
+  Author: pato garza
+  Licence: CC BY 2.0
+
+great-dane.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Portrait_Of_A_Great_Dane_(62873127).jpeg
+  Author: Vanessa Kay
+  Licence: CC BY 3.0
+
+saint-bernard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DemonsPortrait.JPG
+  Author: Ofrockwood
+  Licence: CC BY 3.0
+
+bernese-mountain-dog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2-BerneseMountainDogInGrass.jpg
+  Author: FriendlyToaster
+  Licence: CC BY 4.0
+
+newfoundland.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Newfoundland_dog_Smoky.jpg
+  Author: Flickr user DanDee Shots
+  Licence: CC BY 2.0
+
+greyhound.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Greyhound_Racing_2_amk.jpg
+  Author: AngMoKio
+  Licence: CC BY-SA 3.0
+
+whippet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fireworks_Whippets.jpg
+  Author: Winky, Vancouver, Canada
+  Licence: CC BY 2.0
+
+italian-greyhound.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Indy_Beauty_Shoot.jpg
+  Author: ellevalentine
+  Licence: CC BY 2.0
+
+afghan-hound.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AKC_Helena_Fall_Dog_Show_2011.jpg
+  Author: SheltieBoy
+  Licence: CC BY 2.0
+
+basset-hound.jpg
+  Source: https://commons.wikimedia.org/wiki/File:A_Basset_Hound_at_Lodhi_Gardens,_Delhi.jpg
+  Author: Slyronit
+  Licence: CC BY-SA 4.0
+
+shar-pei.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dog._Galiza.jpg
+  Author: Luis Miguel Bugallo Sánchez
+  Licence: CC BY 3.0
+
+chow-chow.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cream_Chow_Chow_dog_sitting_Christmas.jpg
+  Author: Fluffybeary
+  Licence: CC0
+
+shiba-inu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Picography-shiba-inu-dog-forest-walk-sm-1.jpg
+  Author: Picography
+  Licence: CC0
+
+akita.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Akita_Inu_dog.jpg
+  Author: Biser Yanev
+  Licence: CC BY-SA 4.0
+
+bull-terrier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Elektrostal_1995_year._Dog_Bull_Terrier._img_003.jpg
+  Author: Dmitry Makeev
+  Licence: CC BY-SA 4.0
+
+weimaraner.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Weimaraner_Freika-2.jpg
+  Author: Rufus46
+  Licence: CC BY-SA 3.0
+
+vizsla.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Wyżeł_węgierski.jpg
+  Author: Adam Ziaja
+  Licence: CC BY 3.0
+
+old-english-sheepdog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Old_english_sheepdog_Ch_Bobbyclown's_Dare_for_More.jpg
+  Author: Photo taken by Harald Urnes, Norway
+  Licence: CC BY-SA 3.0
+
+shetland-sheepdog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Blue_Merle_Shetland_Sheepdog.jpg
+  Author: Frightenedhamsterr
+  Licence: CC0
+
+rough-collie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rough_Collie_Zeus.jpg
+  Author: Ultimo Romântico
+  Licence: CC BY-SA 2.0
+
+papillon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Papillon-dog-black.jpg
+  Author: André Feldmann (tuxsam70)
+  Licence: CC BY-SA 3.0
+
+bichon-frise.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bichon_Frise_600.jpg
+  Author: Unknown
+  Licence: CC BY-SA 3.0
+
+boston-terrier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:BOSTON_TERRIER,_Vingårdens_Essi_von_Richards_(23995273800).2.jpg
+  Author: Svenska Mässan from Sweden
+  Licence: CC BY 2.0
+
+pit-bull.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White_Pitbull.jpg
+  Author: Jim Pennucci
+  Licence: CC BY 2.0
+
+dingo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dingo_(Canis_lupus_dingo)_Kakadu_2.jpg
+  Author: Charles J. Sharp
+  Licence: CC BY-SA 4.0
+
+chinese-crested.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chinese_Crested_Dog_-_hairy_hairless_Seitenansicht.jpg
+  Author: Frank Röhm
+  Licence: Public domain
+
+komondor.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Komondor_Westminster_Dog_Show_crop.jpg
+  Author: Photo taken by Flickr user whartonds. Edit (cropped) by Pharaoh Hound.
+  Licence: CC BY-SA 2.5

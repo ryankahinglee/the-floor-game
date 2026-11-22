@@ -68,6 +68,7 @@ Tip: use a new round number for each game so players can't learn the order.
    - `name` is what appears on the home-screen tile.
    - `aliases` (optional) are other answers the host should accept.
    - `description` (optional) is an extra note for the host. It only shows on the answer sheet.
+   - `fact` (optional) is a short fun fact shown on the TV under the answer, after Correct or Skip. Example: `"fact": "Led India's peaceful struggle for independence."`
 4. Add the folder name to `categories/list.json`:
    ```json
    [
@@ -77,6 +78,20 @@ Tip: use a new round number for each game so players can't learn the order.
      "landmarks"
    ]
    ```
+
+### Text categories (no images)
+A category can show words instead of pictures. Write `____` (four underscores) where the blank goes. See `categories/proverbs/answers.json`:
+```json
+{
+  "name": "Finish the Proverb",
+  "questions": [
+    { "text": "Once ____, twice shy", "answer": "Bitten", "description": "Once bitten, twice shy" },
+    { "text": "Easy ____, easy ____", "answer": "Come, Go" }
+  ]
+}
+```
+- For two blanks, separate the answers with a comma, in order.
+- When the host presses Correct or Skip, the blanks fill in with the answer.
 
 ### Tips
 - **File names are case-sensitive on GitHub Pages.** `Ferrari.JPG` and `ferrari.jpg` are different files online, even though Windows treats them as the same. If it works with Live Server but not online, check the capitals.
@@ -95,4 +110,4 @@ Open the folder in VS Code and use **Live Server** (right-click `index.html` →
 5. Choose branch `main` and folder `/ (root)`, then Save.
 6. The URL will appear in the Pages settings once it's published. The answer sheet is at `<your URL>/answers.html`.
 
-The included SVGs are labelled placeholders, not real quiz images. Replace them with images you have permission to use.
+Images come from Wikimedia Commons (free licences) and Riot Games' Data Dragon (League of Legends, under Riot's fan-content policy). Each category folder has a `credits.txt` listing sources and licences, so keep those files when you publish.

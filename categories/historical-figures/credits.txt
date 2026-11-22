@@ -1,0 +1,382 @@
+Portraits from Wikimedia Commons (https://commons.wikimedia.org), as used on each person's Wikipedia page.
+Resized to max 800x900px and saved as JPEG. Most are public domain; where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+mahatma-gandhi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mahatma-Gandhi,_studio,_1931.jpg
+  Author: Elliott & Fry
+  Licence: Public domain
+
+napoleon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Emperor_Napoleon_in_His_Study_at_the_Tuileries_-_Google_Art_Project.jpg
+  Author: Jacques-Louis David
+  Licence: Public domain
+
+genghis-khan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:YuanEmperorAlbumGenghisPortrait.jpg
+  Author: Unknown author
+  Licence: Public domain
+
+abraham-lincoln.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg
+  Author: Alexander Gardner
+  Licence: Public domain
+
+winston-churchill.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sir_Winston_Churchill_-_19086236948_(restored).jpg
+  Author: Unknown
+  Licence: Public domain
+
+elizabeth-i.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Darnley_stage_3.jpg
+  Author: Unidentified painter
+  Licence: Public domain
+
+albert-einstein.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Albert_Einstein_Head_cleaned.jpg
+  Author: Oren Jack Turner
+  Licence: Public domain
+
+julius-caesar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Retrato_de_Julio_C%C3%A9sar_(26724093101)_(cropped).jpg
+  Author: Ángel M. Felicísimo from Mérida, España
+  Licence: Public domain
+
+martin-luther-king-jr.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Martin_Luther_King,_Jr._and_Lyndon_Johnson_(cropped).jpg
+  Author: Yoichi Okamoto
+  Licence: Public domain
+
+nelson-mandela.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nelson_Mandela_1994.jpg
+  Author: Kingkongphoto & www.celebrity-photos.com from Laurel
+  Licence: CC BY-SA 2.0
+
+george-washington.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg
+  Author: Gilbert Stuart
+  Licence: Public domain
+
+queen-victoria.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Queen_Victoria_by_Bassano.jpg
+  Author: Alexander Bassano
+  Licence: Public domain
+
+henry-viii.jpg
+  Source: https://commons.wikimedia.org/wiki/File:After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg
+  Author: Workshop of Hans Holbein the Younger
+  Licence: Public domain
+
+leonardo-da-vinci.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png
+  Author: Attributed to Francesco Melzi
+  Licence: Public domain
+
+isaac-newton.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Portrait_of_Sir_Isaac_Newton,_1689_(brightened).jpg
+  Author: Godfrey Kneller
+  Licence: Public domain
+
+charles-darwin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Charles_Darwin_seated_crop.jpg
+  Author: Charles_Darwin_seated.jpg: Henry Maull (1829–1914) and John Fox (1832–1907) (Maull & F
+  Licence: Public domain
+
+marie-curie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Marie_Curie_c._1920s.jpg
+  Author: Henri Manuel
+  Licence: Public domain
+
+mother-teresa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mother_Teresa_1.jpg
+  Author: Kingkongphoto & www.celebrity-photos.com from Laurel Maryland, USA
+  Licence: CC BY-SA 2.0
+
+karl-marx.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Karl_Marx_by_John_Jabez_Edwin_Mayall_1875_-_Restored.png
+  Author: John Jabez Edwin Mayall
+  Licence: Public domain
+
+vladimir-lenin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lenin_in_1920_(cropped).jpg
+  Author: Unknown, presumably official
+  Licence: Public domain
+
+joseph-stalin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:StalinCropped1943.jpg
+  Author: Franklin D. Roosevelt Library Public Domain Photographs
+  Licence: Public domain
+
+mao-zedong.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mao_Zedong_1950_Portrait_(3x4_cropped)(2).jpg
+  Author: Chen Zhengqing (1917–1966)
+  Licence: Public domain
+
+fidel-castro.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fidel_Castro_Montreal_1959_1.jpg
+  Author: Unknown author. (The photographer was possibly Paul-Henri Talbot (1928-2001)
+  Licence: Public domain
+
+che-guevara.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Che_Guevara_-_Guerrillero_Heroico_by_Alberto_Korda.jpg
+  Author: Alberto Korda, restored by Adam Cuerden
+  Licence: Public domain
+
+john-f-kennedy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:John_F._Kennedy,_White_House_color_photo_portrait.jpg
+  Author: Cecil W. Stoughton
+  Licence: Public domain
+
+franklin-d-roosevelt.jpg
+  Source: https://commons.wikimedia.org/wiki/File:FDR-1944-Campaign-Portrait_(3x4_retouched,_cropped).jpg
+  Author: Leon Perskie
+  Licence: CC BY 2.0
+
+theodore-roosevelt.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Theodore_Roosevelt_by_the_Pach_Bros_(4x5_cropped)_(3).jpg
+  Author: Adam Cuerden
+  Licence: Public domain
+
+thomas-edison.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Thomas_Edison2.jpg
+  Author: Louis Bachrach, Bachrach Studios, restored by Michel Vuijlsteke
+  Licence: Public domain
+
+nikola-tesla.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tesla_circa_1890.jpeg
+  Author: Napoleon Sarony
+  Licence: Public domain
+
+benjamin-franklin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Joseph_Siffrein_Duplessis_-_Benjamin_Franklin_-_Google_Art_Project.jpg
+  Author: Joseph-Siffred Duplessis
+  Licence: Public domain
+
+william-shakespeare.jpg
+  Source: https://commons.wikimedia.org/wiki/File:William_Shakespeare_by_John_Taylor,_edited.jpg
+  Author: Attributed to John Taylor
+  Licence: Public domain
+
+wolfgang-amadeus-mozart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg
+  Author: Johann Nepomuk della Croce
+  Licence: Public domain
+
+ludwig-van-beethoven.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg
+  Author: Joseph Karl Stieler
+  Licence: Public domain
+
+vincent-van-gogh.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_Self-Portrait_-_Google_Art_Project_(454045).jpg
+  Author: Vincent van Gogh
+  Licence: Public domain
+
+pablo-picasso.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pablo_picasso_1.jpg
+  Author: Argentina. Revista Vea y Lea
+  Licence: Public domain
+
+frida-kahlo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Frida_Kahlo,_by_Guillermo_Kahlo.jpg
+  Author: Guillermo Kahlo
+  Licence: Public domain
+
+galileo-galilei.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Galileo_Galilei_(1564-1642)_RMG_BHC2700.tiff
+  Author: Justus Sustermans
+  Licence: Public domain
+
+louis-xiv.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Louis_XIV_of_France.jpg
+  Author: Hyacinthe Rigaud
+  Licence: Public domain
+
+marie-antoinette.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Louise_Elisabeth_Vig%C3%A9e-Lebrun_-_Marie-Antoinette_dit_%C2%AB_%C3%A0_la_Rose_%C2%BB_-_Google_Art_Project.jpg
+  Author: Élisabeth Louise Vigée Le Brun
+  Licence: Public domain
+
+peter-the-great.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Inconnu_d%27apr%C3%A8s_J.-M._Nattier,_Portrait_de_Pierre_Ier_(mus%C3%A9e_de_l%E2%80%99Ermitage).jpg
+  Author: Attributed to Jean-Marc Nattier
+  Licence: Public domain
+
+catherine-the-great.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Catherine_II_after_Roslin,_Rokotov_(1780s,_Kunsthistorisches_Museum).jpg
+  Author: After Alexander Roslin
+  Licence: Public domain
+
+alexander-the-great.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Alexander_Mosaic_detail_of_Alexander_the_Great_(3x4_cropped).jpg
+  Author: Unknown author
+  Licence: Public domain
+
+charlie-chaplin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Charlie_Chaplin_portrait_Getty_1739411952.jpg
+  Author: Strauss-Peyton Studio
+  Licence: Public domain
+
+amelia-earhart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Amelia_Earhart_standing_under_nose_of_her_Lockheed_Model_10-E_Electra,_small_(cropped).jpg
+  Author: Underwood & Underwood (active 1880 – c. 1950)[1]
+  Licence: Public domain
+
+neil-armstrong.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Neil_Armstrong_pose.jpg
+  Author: Unknown author
+  Licence: Public domain
+
+rosa-parks.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rosa_Parks,_November_1956_(cropped).jpg
+  Author: Unknown author
+  Licence: Public domain
+
+frederick-douglass.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Frederick_Douglass_(circa_1879)_(cropped).jpg
+  Author: George Kendall Warren
+  Licence: Public domain
+
+harriet-tubman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Carte-de-visite_portrait_of_Harriet_Tubman_(cropped).jpg
+  Author: Powelson, Benjamin F. 1823 - 1885
+  Licence: Public domain
+
+florence-nightingale.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Florence_Nightingale_(H_Hering_NPG_x82368).jpg
+  Author: Henry Hering (1814-1893)
+  Licence: Public domain
+
+sigmund-freud.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sigmund_Freud,_by_Max_Halberstadt_(cropped).jpg
+  Author: Max Halberstadt
+  Licence: Public domain
+
+elizabeth-ii.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Queen_Elizabeth_II_official_portrait_for_1959_tour_(retouched)_(cropped)_(3-to-4_aspect_ratio).jpg
+  Author: Donald McKague
+  Licence: Public domain
+
+ho-chi-minh.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ho_Chi_Minh_-_1946_Portrait_(cropped).jpg
+  Author: Unknown author
+  Licence: Public domain
+
+mustafa-kemal-ataturk.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ataturk1930s.jpg
+  Author: Unknown author
+  Licence: Public domain
+
+simon-bolivar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sim%C3%B3n_Bol%C3%ADvar._Toro_Moreno,_Luis._1922,_Legislative_Palace,_La_Paz.png
+  Author: Luis Enrique Toro Moreno (1897-1933)
+  Licence: Public domain
+
+jawaharlal-nehru.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nehru_in_the_Netherlands,_1957.jpg
+  Author: Harry Pot
+  Licence: CC0
+
+margaret-thatcher.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Margaret_Thatcher_stock_portrait_(cropped).jpg
+  Author: derivative work by Begoon
+  Licence: Copyrighted free use
+
+james-cook.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Captainjamescookportrait.jpg
+  Author: Nathaniel Dance-Holland
+  Licence: Public domain
+
+ned-kelly.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ned_Kelly_in_1880.png
+  Author: Australian News and Information Bureau, Canberra
+  Licence: Public domain
+
+charles-dickens.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dickens_Gurney_head.jpg
+  Author: Jeremiah Gurney
+  Licence: Public domain
+
+mark-twain.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mark_Twain_by_AF_Bradley_(cropped_2).jpg
+  Author: A.F. Bradley, New York
+  Licence: Public domain
+
+anne-frank.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Anne_Frank_passport_photo,_May_1942_(cropped).jpg
+  Author: Unknown photographer
+  Licence: Public domain
+
+helen-keller.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Helen_Keller_(circa_1904).jpg
+  Author: Unknown author
+  Licence: Public domain
+
+michelangelo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michelangelo_Daniele_da_Volterra_(dettaglio).jpg
+  Author: Attributed to Daniele da Volterra
+  Licence: Public domain
+
+tutankhamun.jpg
+  Source: https://commons.wikimedia.org/wiki/File:CairoEgMuseumTaaMaskMostlyPhotographed.jpg
+  Author: Roland Unger
+  Licence: Public domain
+
+martin-luther.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lucas_Cranach_d.%C3%84._-_Martin_Luther,_1528_(Veste_Coburg).jpg
+  Author: Lucas Cranach the Elder
+  Licence: Public domain
+
+sitting-bull.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sitting_Bull_by_D_F_Barry_ca_1883_Dakota_Territory.jpg
+  Author: David F. Barry, Photographer, Bismarck, Dakota Territory
+  Licence: Public domain
+
+malcolm-x.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Malcolm_X_1964_press_photo_(cropped)_(lighting_diff).jpg
+  Author: Eddie Adams
+  Licence: Public domain
+
+indira-gandhi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Indira_Gandhi_official_portrait.png
+  Author: Prime Minister's Office
+  Licence: GODL-India
+
+thomas-jefferson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Official_Presidential_portrait_of_Thomas_Jefferson_(by_Rembrandt_Peale,_1800).jpg
+  Author: Rembrandt Peale
+  Licence: Public domain
+
+mikhail-gorbachev.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev_(crop).jpg
+  Author: RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg: Vladimir Vyatkin / 
+  Licence: CC BY-SA 3.0
+
+ronald-reagan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Official_Portrait_of_President_Reagan_1981.jpg
+  Author: Michael Evans
+  Licence: Public domain
+
+walt-disney.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Walt_Disney_1946_(cropped2).JPG
+  Author: Boy Scouts of America
+  Licence: Public domain
+
+ernest-shackleton.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ernest_Shackleton_before_1909.jpg
+  Author: George Charles Beresford / Adam Cuerden
+  Licence: Public domain
+
+edgar-allan-poe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edgar_Allan_Poe,_circa_1849,_restored,_squared_off.jpg
+  Author: Unknown author; Restored by Yann Forget and Adam Cuerden
+  Licence: Public domain
+
+pope-john-paul-ii.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ADAMELLO_-_PAPA_-_Giovanni_Paolo_II_-_panoramio_(cropped).jpg
+  Author: Gregorini Demetrio
+  Licence: CC BY-SA 3.0
+
+diana-princess-of-wales.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Diana,_Princess_of_Wales_1997_(2).jpg
+  Author: John Mathew Smith & www.celebrity-photos.com from Laurel Maryland, USA (Archived link
+  Licence: CC BY-SA 2.0

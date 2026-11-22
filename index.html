@@ -8,9 +8,20 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <!-- Title screen: the first thing you see. Click (or press any key) to open the categories. -->
+  <section id="titleScreen" class="title-screen" role="button" tabindex="0" aria-label="Click to start">
+    <div id="titleFloor" class="title-floor" aria-hidden="true"></div>
+    <div class="title-content">
+      <div class="title-mark">F</div>
+      <h1 class="title-name">THE FLOOR</h1>
+      <div class="title-sub">DUEL NIGHT</div>
+      <div class="title-prompt">Click anywhere to start</div>
+    </div>
+  </section>
+
   <main class="app-shell">
     <header class="topbar">
-      <div class="brand"><span class="brand-mark">F</span><span>THE FLOOR <small>DUEL NIGHT</small></span></div>
+      <div id="brandBtn" class="brand" title="Back to the title screen"><span class="brand-mark">F</span><span>THE FLOOR <small>DUEL NIGHT</small></span></div>
       <div class="topbar-actions">
         <a class="icon-button" href="answers.html" target="_blank" title="Open the answer sheet in a new tab">📋 <span>Answers</span></a>
         <button id="fullscreenBtn" class="icon-button" type="button" title="Toggle full screen">⛶ <span>Full screen</span></button>
@@ -55,11 +66,13 @@
 
         <div class="image-stage">
           <img id="questionImage" alt="Guess the image">
+          <div id="questionText" class="question-text hidden"></div>
           <div id="imageNumber" class="image-number">1</div>
           <div id="imageFallback" class="image-fallback hidden">Image couldn't load.<br><small>Not found: <span id="imageFallbackPath"></span></small></div>
           <div id="answerReveal" class="answer-reveal hidden" aria-live="assertive">
             <span id="revealLabel" class="reveal-label">CORRECT</span>
             <span id="answerText" class="answer-text"></span>
+            <span id="answerFact" class="answer-fact"></span>
           </div>
         </div>
 

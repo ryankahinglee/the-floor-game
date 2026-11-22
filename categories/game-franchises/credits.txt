@@ -1,0 +1,272 @@
+Photos found through Openverse (https://openverse.org); originals hosted on Flickr and Wikimedia Commons.
+Cosplay, costume, plush and fan-art photos of video game characters. All resized to max 800px wide; mega-man.jpg cropped to one person.
+
+the-legend-of-zelda.jpg
+  Source: https://www.flickr.com/photos/85979850@N00/5973119668
+  Author: ewen and donabel
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+super-mario.jpg
+  Source: https://www.flickr.com/photos/142122490@N05/27364999026
+  Author: ViewFromPort
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+pokemon.jpg
+  Source: https://www.flickr.com/photos/9511824@N05/3754492353
+  Author: DaveFayram
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+sonic-the-hedgehog.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=43197897
+  Author: GabboT
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+halo.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=48194362
+  Author: Daniel Benavides from Austin, TX
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0)
+
+final-fantasy.jpg
+  Source: https://www.flickr.com/photos/28208534@N07/2873990844
+  Author: mikemol
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+street-fighter.jpg
+  Source: https://www.flickr.com/photos/66398726@N00/2811554137
+  Author: metaxin
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+mortal-kombat.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/7586403780
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+metroid.jpg
+  Source: https://www.flickr.com/photos/94565827@N05/29599246513
+  Author: Rich.S.
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+kirby.jpg
+  Source: https://www.flickr.com/photos/41942551@N02/7014463533
+  Author: SodanieChea
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+donkey-kong.jpg
+  Source: https://www.flickr.com/photos/44124401641@N01/37530715806
+  Author: istolethetv
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+pac-man.jpg
+  Source: https://www.flickr.com/photos/69506664@N06/13238463673
+  Author: miguel.discart
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+tomb-raider.jpg
+  Source: https://www.flickr.com/photos/134712202@N07/19933206186
+  Author: Dapper Geek News
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+resident-evil.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/8614831982
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+assassins-creed.jpg
+  Source: https://www.flickr.com/photos/22265703@N06/5000083535
+  Author: digitizedchaos
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+the-witcher.jpg
+  Source: https://www.flickr.com/photos/22974618@N00/10096298723
+  Author: Sergey Galyonkin
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+god-of-war.jpg
+  Source: https://www.flickr.com/photos/44124401641@N01/48852047513
+  Author: istolethetv
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+overwatch.jpg
+  Source: https://www.flickr.com/photos/114199504@N04/33393312104
+  Author: MediaGamut
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+minecraft.jpg
+  Source: https://www.flickr.com/photos/40944554@N04/7223018750
+  Author: taylor.a
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+kingdom-hearts.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/33627107738
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+mega-man.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=143850869
+  Author: Nelo Hotsuma
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+metal-gear.jpg
+  Source: https://www.flickr.com/photos/94565827@N05/15324957648
+  Author: Rich.S.
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+fallout.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=147630384
+  Author: Terry Robinson
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+portal.jpg
+  Source: https://www.flickr.com/photos/8629290@N04/5107439163
+  Author: Kevin.Qiu
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+animal-crossing.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/14584880419
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+splatoon.jpg
+  Source: https://www.flickr.com/photos/9296771@N06/18915341516
+  Author: C. Fountainstand
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+bioshock.jpg
+  Source: https://www.flickr.com/photos/12269257@N03/14200506846
+  Author: tr.robinson
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+persona.jpg
+  Source: https://www.flickr.com/photos/144563361@N04/54347247923
+  Author: Racillian
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+mass-effect.jpg
+  Source: https://www.flickr.com/photos/57638320@N00/13922361599
+  Author: GabboT
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+borderlands.jpg
+  Source: https://www.flickr.com/photos/7168480@N02/8974304912
+  Author: greyloch
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+crash-bandicoot.jpg
+  Source: https://www.flickr.com/photos/10563005@N06/5008562473
+  Author: lori05871
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+spyro.jpg
+  Source: https://sketchfab.com/3d-models/d60585b995d84e6f93e8793614058aa0
+  Author: Morganicism
+  Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+angry-birds.jpg
+  Source: https://www.flickr.com/photos/13813081@N06/5297379559
+  Author: hj_west
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+star-fox.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/4754371098
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+the-elder-scrolls.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=42831591
+  Author: Klapi
+  Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+monster-hunter.jpg
+  Source: https://www.flickr.com/photos/30355896@N02/3829806307
+  Author: fortbragg2008
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+tekken.jpg
+  Source: https://www.flickr.com/photos/22974618@N00/7350560574
+  Author: Sergey Galyonkin
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+five-nights-at-freddys.jpg
+  Source: https://www.flickr.com/photos/94565827@N05/17285177725
+  Author: Rich.S.
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+hollow-knight.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=83710747
+  Author: Syrio
+  Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+undertale.jpg
+  Source: https://www.flickr.com/photos/130460233@N03/24612907164
+  Author: peyj_turner
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+space-invaders.jpg
+  Source: https://www.flickr.com/photos/22539273@N00/33842990770
+  Author: *_*
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+tetris.jpg
+  Source: https://www.flickr.com/photos/78733120@N00/166940673
+  Author: mache
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+fire-emblem.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/9345238999
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+devil-may-cry.jpg
+  Source: https://www.flickr.com/photos/66398726@N00/2811526399
+  Author: metaxin
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+bayonetta.jpg
+  Source: https://www.flickr.com/photos/46021126@N00/9497071046
+  Author: IQRemix
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+uncharted.jpg
+  Source: https://www.flickr.com/photos/79837063@N00/7752994726
+  Author: Ryan J. Quick
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+half-life.jpg
+  Source: https://www.flickr.com/photos/24075890@N00/147567377
+  Author: agius
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+team-fortress-2.jpg
+  Source: https://www.flickr.com/photos/60723528@N00/2809801537
+  Author: Tim Dorr
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+silent-hill.jpg
+  Source: https://www.flickr.com/photos/26607834@N00/6820519975
+  Author: Queque*
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+ratchet-and-clank.jpg
+  Source: https://www.flickr.com/photos/28277470@N05/26014608851
+  Author: W10002
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+plants-vs-zombies.jpg
+  Source: https://www.flickr.com/photos/85979850@N00/5000210446
+  Author: ewen and donabel
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+dead-space.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=154113307
+  Author: William Tung
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+pikmin.jpg
+  Source: https://www.flickr.com/photos/85979850@N00/14297183812
+  Author: ewen and donabel
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+dragon-quest.jpg
+  Source: https://www.flickr.com/photos/53567522@N00/6430722283
+  Author: eiko_eiko
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)

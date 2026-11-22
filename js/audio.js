@@ -8,6 +8,7 @@
 //   correct: "audio/correct.mp3"
 // Any sound left as "" uses the built-in generated sound.
 const SOUND_FILES = {
+  intro: "",         // played when you click the title screen
   countdownBeep: "", // played on 3, 2 and 1
   countdownGo: "",   // played on START!
   correct: "",
@@ -92,6 +93,12 @@ const Sound = (() => {
   }
 
   // ---------- Sound effects ----------
+
+  function intro() {
+    if (playFile("intro")) return;
+    // A quick rising "whoosh" of notes when the title screen opens.
+    [440, 554, 659, 880].forEach((f, i) => tone(f, i * 0.07, 0.35, { type: "triangle", volume: 0.25 }));
+  }
 
   function countdownBeep() {
     if (playFile("countdownBeep")) return;
@@ -219,7 +226,7 @@ const Sound = (() => {
   }
 
   return {
-    unlock, countdownBeep, countdownGo, correct, wrong, timeUp,
+    unlock, intro, countdownBeep, countdownGo, correct, wrong, timeUp,
     startMusic, stopMusic,
     isMuted: () => muted,
     toggleMute: () => setMuted(!muted)

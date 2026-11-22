@@ -1,0 +1,299 @@
+Photos from Wikimedia Commons (https://commons.wikimedia.org), via each athlete's Wikipedia article.
+Resized to max 800px wide.
+
+usain-bolt.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Usain_Bolt_smiling_Berlin_2009.JPG
+  Author: Erik van Leeuwen
+  Licence: GFDL
+  Note: cropped to remove a name bib
+
+michael-phelps.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michael_Phelps_Rio_Olympics_2016.jpg
+  Author: Agência Brasil Fotografias
+  Licence: CC BY 2.0
+
+simone-biles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Simone_Biles_National_Team_2024.jpg
+  Author: Ocoudis
+  Licence: CC BY-SA 4.0
+
+katie-ledecky.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Katie_Ledecky_at_the_2023_Golden_Goggle_Awards_(cropped).jpg
+  Author: Mledecky
+  Licence: CC0
+
+mo-farah.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2023_London_Marathon_-_Sir_Mo_Farah_(2)_(cropped).jpg
+  Author: Katie Chan
+  Licence: CC BY-SA 4.0
+
+eliud-kipchoge.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Eliud_Kipchoge_in_Berlin_-_2015_(cropped).jpg
+  Author: Denis Barthel
+  Licence: CC BY-SA 4.0
+  Note: cropped to remove a name bib
+
+shelly-ann-fraser-pryce.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Women%27s_100_m-_Beijing_2015.jpg
+  Author: Erik van Leeuwen
+  Licence: CC BY 2.5
+
+allyson-felix.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AllysonFelixRio2016.jpg
+  Author: Fernando Frazão/Agência Brasil
+  Licence: CC BY 3.0 br
+  Note: cropped to remove a name bib
+
+ian-thorpe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ian_Thorpe_2012.jpg
+  Author: Doha Stadium Plus Qatar from Doha, Qatar
+  Licence: CC BY 2.0
+  Note: cropped to remove a name card
+
+cathy-freeman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cathy_Freeman_(cropped).jpg
+  Author: Jason Pini/AusAID
+  Licence: CC BY 2.0
+
+emma-mckeon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Emma_McKeon_-_2021_World_Cup_-_01.jpg
+  Author: Министерство спорта Республики Татарстан
+  Licence: CC BY 4.0
+
+jessica-fox.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jessica_Fox_(AUS)_2022.jpg
+  Author: Stefan Brending (2eight)
+  Licence: CC BY-SA 3.0 de
+
+sally-pearson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sally_Pearson_2015.jpg
+  Author: Vinod Divakaran, Doha Stadium Plus Qatar
+  Licence: CC BY 2.0
+
+caeleb-dressel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caeleb_Dressel_before_winning_100_fly_(42769914221)_(cropped).jpg
+  Author: JD Lasica from Pleasanton, CA, US
+  Licence: CC BY 2.0
+
+mondo-duplantis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Armand_Duplantis_wins_the_Pole_Vault_at_the_2026_Wanda_Diamond_League%E2%80%99s_Weltklasse_Z%C3%BCrich_athletics_competition.jpg
+  Author: Quejaytee
+  Licence: CC BY-SA 4.0
+
+noah-lyles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Noah_Lyles_Olympic_Games_03.08.2024.jpg
+  Author: Aeltegop
+  Licence: CC BY 4.0
+  Note: cropped to remove a name bib
+
+faith-kipyegon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Faith_Kipyegon_London_2017_(cropped2).jpg
+  Author: Erik van Leeuwen, attribution: Erik van Leeuwen (bron: Wikipedia).
+  Licence: GFDL
+  Note: cropped to remove a name bib
+
+shaun-white.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shaun_White_in_2018_181222-D-PB383-014_(46423162561)_(cropped).jpg
+  Author: Chairman of the Joint Chiefs of Staff from Washington D.C, United States
+  Licence: CC BY 2.0
+
+chloe-kim.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chloe_Kim_PCSFN_Headshot_2023.jpg
+  Author: President's Council on Sports, Fitness, and Nutrition
+  Licence: Public domain
+
+eileen-gu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%E8%B0%B7%E7%88%B1%E5%87%8C%E4%BA%8E2023-24%E8%B5%9B%E5%AD%A3%E5%9B%BD%E9%99%85%E9%9B%AA%E8%81%94U%E5%9E%8B%E5%9C%BA%E5%9C%B0%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BA%91%E9%A1%B6%E7%AB%99%E6%AF%94%E8%B5%9B%E5%A4%BA%E5%86%A0.png
+  Author: 中国新闻社
+  Licence: CC BY 3.0
+
+yuzuru-hanyu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2018_Winter_Olympics_-_Yuzuru_Hanyu_(cropped).jpg
+  Author: David W. Carmichael
+  Licence: CC BY-SA 3.0
+
+jesse-owens.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jesse_Owens_1936.jpg
+  Author: Acme News Photos
+  Licence: Public domain
+
+lionel-messi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+cristiano-ronaldo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_(cropped).jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+kylian-mbappe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kylian_Mbappe_France_v_Senegal_16_June_2026-391_(cropped).jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+erling-haaland.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+neymar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+pele.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pele_con_brasil_(cropped).jpg
+  Author: Unknown (public domain press photo)
+  Licence: Public domain
+
+diego-maradona.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Argentina_celebrando_copa_(cropped).jpg
+  Author: Unknown (public domain press photo)
+  Licence: Public domain
+
+sam-kerr.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sam_Kerr_Gotham_v_Seattle_18_July_2026-378_(cropped).jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+lebron-james.jpg
+  Source: https://commons.wikimedia.org/wiki/File:LeBron_James_(51959977144)_(cropped2).jpg
+  Author: Erik Drost
+  Licence: CC BY 2.0
+
+michael-jordan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michael_Jordan_in_2014.jpg
+  Author: DOD photo by D. Myles Cullen
+  Licence: Public domain
+
+stephen-curry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Stephen_Curry_(24511268640)_(cropped).jpg
+  Author: Keith Allison from Hanover, MD, USA
+  Licence: CC BY-SA 2.0
+
+kobe-bryant.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kobe_Bryant_Dec_2014.jpg
+  Author: Keith Allison
+  Licence: CC BY-SA 2.0
+
+roger-federer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Roger_Federer_2015_(cropped).jpg
+  Author: Tatiana from Moscow, Russia
+  Licence: CC BY-SA 2.0
+
+rafael-nadal.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rafael_Nadal_en_2024_(cropped).jpg
+  Author: Barcex
+  Licence: CC BY-SA 4.0
+
+novak-djokovic.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Novak_Djokovic_Paris_2024_Olympic_Games_(cropped).jpg
+  Author: Andymiah
+  Licence: CC BY-SA 4.0
+
+serena-williams.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Serena-Smiling-2020.png
+  Author: AndrewHenkelman
+  Licence: CC BY-SA 4.0
+
+ash-barty.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sydney_International_WTA_Players_Cruise_(31974227527)_(cropped_2).jpg
+  Author: Rob Keating from Canberra, Australia, Australia
+  Licence: CC BY-SA 2.0
+
+naomi-osaka.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Naomi_Osaka_(2025_DC_Open)_01_(cropped).jpg
+  Author: Hameltion
+  Licence: CC BY-SA 4.0
+
+tiger-woods.jpg
+  Source: https://commons.wikimedia.org/wiki/File:President_Donald_Trump_hosts_a_reception_honoring_Black_History_Month_(54341713089)_(cropped).jpg
+  Author: The White House
+  Licence: Public domain
+
+lewis-hamilton.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_meets_Sir_Lewis_Hamilton_(54566928382)_(cropped).jpg
+  Author: Picture by Lauren Hurley / No 10 Downing Street
+  Licence: OGL 3
+
+max-verstappen.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2024-08-25_Motorsport,_Formel_1,_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_3973_by_Stepro_(medium_crop).jpg
+  Author: Steffen Prößdorf
+  Licence: CC BY-SA 4.0
+
+oscar-piastri.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2026_Chinese_GP_-_Oscar_Piastri_(cropped)_(cropped).jpg
+  Author: Liauzh
+  Licence: CC BY 4.0
+
+daniel-ricciardo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Daniel_Ricciardo_January_2024.jpg
+  Author: DaHuzyBru
+  Licence: CC BY-SA 4.0
+
+muhammad-ali.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Muhammad_Ali_NYWTS.jpg
+  Author: Ira Rosenberg
+  Licence: Public domain
+
+tom-brady.jpg
+  Source: https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Tom_Brady_-_240422_191334_(cropped)_(cropped).jpg
+  Author: Barcex
+  Licence: CC BY-SA 4.0
+
+shohei-ohtani.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dodgers_at_Nationals_(53677192000)_(cropped).jpg
+  Author: All-Pro Reels from District of Columbia, USA
+  Licence: CC BY-SA 2.0
+
+virat-kohli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg
+  Author: Prime Minister's Office
+  Licence: GODL-India
+
+sachin-tendulkar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_cricket_legend_Sachin_Tendulkar_at_the_Oval_Maidan_in_Mumbai_During_the_Duke_and_Duchess_of_Cambridge_Visit(26271019082).jpg
+  Author: British High Commission, New Delhi
+  Licence: CC BY-SA 2.0
+
+pat-cummins.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RSA_vs_AUS_Day_1-47_(cropped).jpg
+  Author: EGilham
+  Licence: CC BY-SA 4.0
+  Note: initials on shirt painted over
+
+shane-warne.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shane_Warne_February_2015.jpg
+  Author: Tourism Victoria from Australia
+  Licence: CC BY 2.0
+
+david-beckham.jpg
+  Source: https://commons.wikimedia.org/wiki/File:David_Beckham_UNICEF_(cropped2).jpg
+  Author: Soccer Aid for Unicef
+  Licence: CC BY 3.0
+
+conor-mcgregor.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Conor_McGregor_2025.jpeg
+  Author: U.S. Secretary of Defense
+  Licence: Public domain
+
+lindsey-vonn.jpg
+  Source: https://commons.wikimedia.org/wiki/File:25th_Laureus_World_Sports_Awards_-_Red_Carpet_-_Lindsey_Vonn_-_240422_181204_(cropped).jpg
+  Author: Barcex
+  Licence: CC BY-SA 4.0
+
+wayne-gretzky.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Andrew_Scheer_with_Wayne_Gretzky_(48055697168)_(cropped).jpg
+  Author: Andre Forget - Andrew Scheer
+  Licence: CC0
+
+mikaela-shiffrin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mikaela_Shiffrin_(Portrait).jpg
+  Author: Manfred Werner (Tsui)
+  Licence: CC BY-SA 4.0
+
+dylan-alcott.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dylan_Alcott_AO.jpg
+  Author: Dylan.alcott
+  Licence: CC BY-SA 4.0

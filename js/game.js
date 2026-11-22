@@ -74,12 +74,66 @@ function buildCategoryTiles() {
 
     const count = document.createElement("span");
     count.className = "tile-count";
-    count.textContent = `${questions.length} images`;
+    const isText = questions.length && questions.every(q => q.text);
+    count.textContent = `${questions.length} ${isText ? "questions" : "images"}`;
 
     tile.append(title, count);
+    tile.style.setProperty("--i", grid.children.length); // used to stagger the slide-in animation
     tile.addEventListener("click", () => openStarterPicker(name));
     grid.appendChild(tile);
   });
+}
+
+// ---------- Title screen ----------
+
+// Fill the title screen background with floor tiles that light up at random.
+function buildTitleFloor() {
+  const floor = $("titleFloor");
+  const cols = 12, rows = 9;
+  floor.style.setProperty("--cols", cols);
+  for (let i = 0; i < cols * rows; i++) {
+    const tile = document.createElement("div");
+    tile.className = "floor-tile";
+    floor.appendChild(tile);
+  }
+  const tiles = floor.children;
+  // Every 0.3 seconds, light up one random tile (blue or orange) for a couple of seconds.
+  setInterval(() => {
+    if (!isTitleOpen()) return;
+    const tile = tiles[Math.floor(Math.random() * tiles.length)];
+    const colour = Math.random() < 0.5 ? "lit-p1" : "lit-p2";
+    tile.classList.add(colour);
+    setTimeout(() => tile.classList.remove(colour), 2000);
+  }, 300);
+}
+
+function isTitleOpen() {
+  return !$("titleScreen").classList.contains("hidden");
+}
+
+// Fade out the title screen and show the categories.
+function openCategories() {
+  const title = $("titleScreen");
+  if (title.classList.contains("leaving")) return; // already opening
+  Sound.unlock(); // this click also lets the browser play sound later
+  Sound.intro();
+  showHome();
+  const home = $("homeScreen");
+  home.classList.remove("opening");
+  void home.offsetWidth; // restart the tile slide-in animation
+  home.classList.add("opening");
+  title.classList.add("leaving");
+  setTimeout(() => {
+    title.classList.add("hidden");
+    title.classList.remove("leaving");
+  }, 600);
+}
+
+// Go back to the title screen (click the "F" logo in the top-left).
+function showTitle() {
+  showHome();
+  $("titleScreen").classList.remove("hidden");
+  $("titleScreen").focus();
 }
 
 // ---------- "Who's starting?" popup ----------
@@ -199,7 +253,51 @@ function stopCountdown() {
   $("countdown").classList.add("hidden");
 }
 
-function render() {
+// ---------- Loading images ahead of time ----------
+// Pictures are loaded in the background BEFORE they're needed, so when the turn
+// changes, the new picture and the player highlight can appear at exactly the same moment.
+
+const imageCache = {}; // image path → a "promise" that finishes when the picture is ready
+
+function preloadImage(src) {
+  if (!src) return Promise.resolve(true); // text questions have no image to load
+  if (!imageCache[src]) {
+    const img = new Image();
+    img.src = src;
+    // decode() finishes once the picture is fully ready to draw. If it fails, we still carry on.
+    imageCache[src] = img.decode().then(() => true, () => false);
+    imageCache[src].keep = img; // keep it in memory so the browser doesn't throw it away
+  }
+  return imageCache[src];
+}
+
+// Start loading the next few pictures in the background.
+function preloadUpcoming() {
+  for (let ahead = 1; ahead <= 3; ahead++) {
+    const q = state.questions[(state.questionIndex + ahead) % state.questions.length];
+    if (q) preloadImage(q.image);
+  }
+}
+
+const wait = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+let renderToken = 0; // stops an old, slow image load from overwriting a newer one
+
+// Waits for the current picture to be ready (max 1.5 seconds), then updates the
+// whole screen in one go. afterSwap (optional) runs at that same moment.
+async function render(afterSwap) {
+  const token = ++renderToken;
+  const question = state.questions[state.questionIndex];
+  await Promise.race([preloadImage(question.image), wait(1500)]);
+  if (token !== renderToken) return;
+  requestAnimationFrame(() => {
+    if (token !== renderToken) return;
+    drawScreen();
+    if (afterSwap) afterSwap();
+    preloadUpcoming();
+  });
+}
+
+function drawScreen() {
   for (let i = 0; i < 2; i++) {
     $("playerName" + i).textContent = state.players[i];
     $("playerCard" + i).classList.toggle("active", i === state.activePlayer && !state.finished);
@@ -211,6 +309,17 @@ function render() {
   const question = state.questions[state.questionIndex];
   const img = $("questionImage");
   $("imageFallback").classList.add("hidden");
+
+  // Text question (e.g. a proverb): show the words instead of an image.
+  if (question.text) {
+    img.classList.add("hidden");
+    img.removeAttribute("src");
+    $("questionText").classList.remove("hidden");
+    drawPromptText(question);
+    return;
+  }
+
+  $("questionText").classList.add("hidden");
   img.classList.remove("hidden");
   img.onerror = () => {
     img.classList.add("hidden");
@@ -219,6 +328,35 @@ function render() {
   };
   img.src = question.image;
   img.alt = "Image for the current category question";
+}
+
+// Writes a text question onto the screen, turning each ____ into a blank line.
+// If "fillKind" is given ("correct" or "skip"), the blanks are filled in with the answer.
+// For two blanks, the answer is written like "Come, Go" (first blank, second blank).
+function drawPromptText(question, fillKind) {
+  // All the words go inside ONE wrapper so they flow and wrap like a normal sentence.
+  // (Without it, the centring layout treats each piece of text as a separate box,
+  // and long proverbs got squashed so words overlapped.)
+  $("questionText").innerHTML = "";
+  const box = document.createElement("span");
+  box.className = "prompt-line";
+  $("questionText").appendChild(box);
+  const parts = question.text.split("____");
+  const fills = parts.length > 2 ? question.answer.split(",").map(s => s.trim()) : [question.answer];
+  parts.forEach((part, i) => {
+    box.append(part);
+    if (i < parts.length - 1) {
+      const blank = document.createElement("span");
+      blank.className = "blank";
+      if (fillKind) {
+        blank.classList.add("filled", fillKind);
+        // Lowercase so it reads naturally ("catches the worm"), unless the blank starts the sentence ("Rome wasn't…").
+        const word = fills[i] || "";
+        blank.textContent = (i === 0 && parts[0].trim() === "") ? word : word.toLowerCase();
+      }
+      box.appendChild(blank);
+    }
+  });
 }
 
 function updateTimerDisplay(index) {
@@ -256,7 +394,9 @@ function tick() {
 
   // The active player's clock runs while they're guessing AND during a skip reveal,
   // but not during the pause after a correct answer.
-  if (state.phase !== "correct") {
+  // ("loading" = the next picture is being prepared, which is usually instant;
+  //  both clocks are frozen for that tiny moment so nobody loses time to it.)
+  if (state.phase === "playing" || state.phase === "skip") {
     const player = state.activePlayer;
     state.remaining[player] = Math.max(0, state.remaining[player] - elapsed);
     updateTimerDisplay(player);
@@ -267,7 +407,7 @@ function tick() {
   }
 
   // Count down the answer banner, then move on.
-  if (state.phase !== "playing") {
+  if (state.phase === "correct" || state.phase === "skip") {
     state.revealLeft -= elapsed;
     if (state.revealLeft <= 0) endReveal();
   }
@@ -299,7 +439,10 @@ function showAnswer(kind, seconds) {
   banner.classList.remove("hidden", "correct", "skip");
   banner.classList.add(kind);
   $("revealLabel").textContent = kind === "correct" ? "CORRECT" : "SKIPPED";
-  $("answerText").textContent = state.questions[state.questionIndex].answer;
+  const question = state.questions[state.questionIndex];
+  $("answerText").textContent = question.answer;
+  $("answerFact").textContent = question.fact || ""; // e.g. "Led India to independence..."
+  if (question.text) drawPromptText(question, kind); // fill in the blank(s)
   $("correctBtn").disabled = true;
   $("skipBtn").disabled = true;
 }
@@ -313,9 +456,7 @@ function hideAnswer() {
 // Called when the answer banner's time is up.
 function endReveal() {
   if (state.phase === "correct") state.activePlayer = 1 - state.activePlayer;
-  state.phase = "playing";
-  hideAnswer();
-  $("hostMessage").textContent = `${state.players[state.activePlayer]}, you're up.`;
+  state.phase = "loading";
   nextQuestion();
 }
 
@@ -325,7 +466,13 @@ function nextQuestion() {
     // If the duel outlasts the category, start again from #1 (same order as the answer sheet).
     state.questionIndex = 0;
   }
-  render();
+  // The answer banner, player highlight and new picture all change together
+  // once the picture is ready.
+  render(() => {
+    state.phase = "playing";
+    hideAnswer();
+    $("hostMessage").textContent = `${state.players[state.activePlayer]}, you're up.`;
+  });
 }
 
 function togglePause() {
@@ -373,6 +520,7 @@ function showHome() {
   stopClock();
   stopCountdown();
   Sound.stopMusic();
+  renderToken++; // cancel any picture that's still loading
   closeStarterPicker();
   state.running = false;
   state.finished = false;
@@ -411,6 +559,8 @@ function toggleMute() {
   updateMuteButton();
 }
 $("muteBtn").addEventListener("click", toggleMute);
+$("titleScreen").addEventListener("click", openCategories);
+$("brandBtn").addEventListener("click", showTitle);
 updateMuteButton();
 
 // "Who's starting?" popup buttons
@@ -427,6 +577,13 @@ $("starterModal").addEventListener("click", event => {
 
 document.addEventListener("keydown", event => {
   if (event.repeat || event.target.matches("input, select, textarea")) return;
+
+  // On the title screen, any key opens the categories.
+  if (isTitleOpen()) {
+    event.preventDefault();
+    openCategories();
+    return;
+  }
 
   // While the popup is open, only its own keys work.
   if (isStarterPickerOpen()) {
@@ -463,5 +620,6 @@ document.addEventListener("keydown", event => {
   }
 });
 
+buildTitleFloor();
 buildRoundOptions();
 loadCategories();

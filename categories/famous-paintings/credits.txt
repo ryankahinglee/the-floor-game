@@ -1,0 +1,343 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+All paintings below are in the public domain (the artists died long ago).
+
+mona-lisa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg
+  Artist: Leonardo da Vinci
+  Licence: Public domain
+
+the-starry-night.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+the-last-supper.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Last_Supper_-_Leonardo_Da_Vinci_-_High_Resolution_32x16.jpg
+  Artist: Leonardo da Vinci
+  Licence: Public domain
+
+the-birth-of-venus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg
+  Artist: Sandro Botticelli
+  Licence: Public domain
+
+the-scream.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edvard_Munch,_1893,_The_Scream,_oil,_tempera_and_pastel_on_cardboard,_91_x_73_cm,_National_Gallery_of_Norway.jpg
+  Artist: Edvard Munch
+  Licence: Public domain
+
+girl-with-a-pearl-earring.jpg
+  Source: https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg
+  Artist: Johannes Vermeer
+  Licence: Public domain
+
+the-night-watch.jpg
+  Source: https://commons.wikimedia.org/wiki/File:La_ronda_de_noche,_por_Rembrandt_van_Rijn.jpg
+  Artist: Rembrandt
+  Licence: Public domain
+
+the-great-wave.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg
+  Artist: Hokusai
+  Licence: Public domain
+
+the-kiss.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Kiss_-_Gustav_Klimt_-_Google_Cultural_Institute.jpg
+  Artist: Gustav Klimt
+  Licence: Public domain
+
+american-gothic.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Grant_Wood_-_American_Gothic_(1930).jpg
+  Artist: Grant Wood
+  Licence: Public domain
+
+sunflowers.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vincent_Willem_van_Gogh_127.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+water-lilies.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg
+  Artist: Claude Monet
+  Licence: Public domain
+
+impression-sunrise.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Monet_-_Impression,_Sunrise.jpg
+  Artist: Claude Monet
+  Licence: Public domain
+
+las-meninas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Las_Meninas,_by_Diego_Vel%C3%A1zquez,_from_Prado_in_Google_Earth.jpg
+  Artist: Diego Velázquez
+  Licence: Public domain
+
+the-creation-of-adam.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michelangelo_-_Creation_of_Adam_(cropped).jpg
+  Artist: Michelangelo
+  Licence: Public domain
+
+the-school-of-athens.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%22The_School_of_Athens%22_by_Raffaello_Sanzio_da_Urbino.jpg
+  Artist: Raphael
+  Licence: Public domain
+
+liberty-leading-the-people.jpg
+  Source: https://commons.wikimedia.org/wiki/File:La_Libert%C3%A9_guidant_le_peuple_-_Eug%C3%A8ne_Delacroix_-_Mus%C3%A9e_du_Louvre_Peintures_RF_129_-_apr%C3%A8s_restauration_2024.jpg
+  Artist: Eugène Delacroix
+  Licence: Public domain
+
+the-garden-of-earthly-delights.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Garden_of_earthly_delights.jpg
+  Artist: Hieronymus Bosch
+  Licence: Public domain
+
+the-arnolfini-portrait.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Arnolfini_portrait_(1434).jpg
+  Artist: Jan van Eyck
+  Licence: Public domain
+
+wanderer-above-the-sea-of-fog.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caspar_David_Friedrich_-_Wanderer_above_the_Sea_of_Fog.jpeg
+  Artist: Caspar David Friedrich
+  Licence: Public domain
+
+the-raft-of-the-medusa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:JEAN_LOUIS_TH%C3%89ODORE_G%C3%89RICAULT_-_La_Balsa_de_la_Medusa_(Museo_del_Louvre,_1818-19).jpg
+  Artist: Théodore Géricault
+  Licence: Public domain
+
+the-third-of-may-1808.jpg
+  Source: https://commons.wikimedia.org/wiki/File:El_Tres_de_Mayo,_by_Francisco_de_Goya,_from_Prado_thin_black_margin.jpg
+  Artist: Francisco Goya
+  Licence: Public domain
+
+a-sunday-on-la-grande-jatte.jpg
+  Source: https://commons.wikimedia.org/wiki/File:A_Sunday_on_La_Grande_Jatte,_Georges_Seurat,_1884.jpg
+  Artist: Georges Seurat
+  Licence: Public domain
+
+cafe-terrace-at-night.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Terrace_of_a_Caf%C3%A9_at_Night_(Place_du_Forum)_1888.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+bal-du-moulin-de-la-galette.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Renoir,_Pierre-Auguste_-_Dance_at_Le_Moulin_de_la_Galette,_1876.jpg
+  Artist: Pierre-Auguste Renoir
+  Licence: Public domain
+
+whistlers-mother.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Whistlers_Mother_high_res.jpg
+  Artist: James McNeill Whistler
+  Licence: Public domain
+
+the-fighting-temeraire.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Fighting_Temeraire,_JMW_Turner,_National_Gallery.jpg
+  Artist: J. M. W. Turner
+  Licence: Public domain
+
+the-hay-wain.jpg
+  Source: https://commons.wikimedia.org/wiki/File:John_Constable_-_The_Hay_Wain_(1821).jpg
+  Artist: John Constable
+  Licence: Public domain
+
+the-swing.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Swing_(P430).jpg
+  Artist: Jean-Honoré Fragonard
+  Licence: Public domain
+
+the-gleaners.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jean-Fran%C3%A7ois_Millet_-_Gleaners_-_Google_Art_Project_2.jpg
+  Artist: Jean-François Millet
+  Licence: Public domain
+
+the-ambassadors.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hans_Holbein_the_Younger_-_The_Ambassadors_-_Google_Art_Project.jpg
+  Artist: Hans Holbein the Younger
+  Licence: Public domain
+
+napoleon-crossing-the-alps.jpg
+  Source: https://commons.wikimedia.org/wiki/File:David_-_Napoleon_crossing_the_Alps_-_Malmaison1.jpg
+  Artist: Jacques-Louis David
+  Licence: Public domain
+
+the-death-of-marat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Death_of_Marat_by_David.jpg
+  Artist: Jacques-Louis David
+  Licence: Public domain
+
+lady-with-an-ermine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lady_with_an_Ermine_-_Leonardo_da_Vinci_(adjusted_levels).jpg
+  Artist: Leonardo da Vinci
+  Licence: Public domain
+
+primavera.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Botticelli-primavera.jpg
+  Artist: Sandro Botticelli
+  Licence: Public domain
+
+saturn-devouring-his-son.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg
+  Artist: Francisco Goya
+  Licence: Public domain
+
+the-hunters-in-the-snow.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg
+  Artist: Pieter Bruegel the Elder
+  Licence: Public domain
+
+the-tower-of-babel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg
+  Artist: Pieter Bruegel the Elder
+  Licence: Public domain
+
+the-milkmaid.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Johannes_Vermeer_-_Het_melkmeisje_-_Google_Art_Project.png
+  Artist: Johannes Vermeer
+  Licence: Public domain
+
+bedroom-in-arles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+the-card-players.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Les_Joueurs_de_cartes,_par_Paul_C%C3%A9zanne.jpg
+  Artist: Paul Cézanne
+  Licence: Public domain
+
+olympia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Olympia_-_Google_Art_ProjectFXD.jpg
+  Artist: Édouard Manet
+  Licence: Public domain
+
+le-dejeuner-sur-lherbe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edouard_Manet_-_Luncheon_on_the_Grass_-_Google_Art_Project.jpg
+  Artist: Édouard Manet
+  Licence: Public domain
+
+a-bar-at-the-folies-bergere.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%22Un_Bar_aux_Folies-Berg%C3%A8re%22_by_%C3%89douard_Manet_(1882).jpg
+  Artist: Édouard Manet
+  Licence: Public domain
+
+ophelia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg
+  Artist: John Everett Millais
+  Licence: Public domain
+
+the-lady-of-shalott.jpg
+  Source: https://commons.wikimedia.org/wiki/File:John_William_Waterhouse_The_Lady_of_Shalott.jpg
+  Artist: John William Waterhouse
+  Licence: Public domain
+
+the-sleeping-gypsy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:La_Boh%C3%A9mienne_endormie.jpg
+  Artist: Henri Rousseau
+  Licence: Public domain
+
+nighthawks.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nighthawks_by_Edward_Hopper_1942.jpg
+  Artist: Edward Hopper
+  Licence: Public domain
+
+composition-red-blue-yellow.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Piet_Mondriaan,_1930_-_Mondrian_Composition_II_in_Red,_Blue,_and_Yellow.jpg
+  Artist: Piet Mondrian
+  Licence: Public domain
+
+black-square.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kazimir_Malevich,_1915,_Black_Suprematic_Square,_oil_on_linen_canvas,_79.5_x_79.5_cm,_Tretyakov_Gallery,_Moscow.jpg
+  Artist: Kazimir Malevich
+  Licence: Public domain
+
+washington-crossing-the-delaware.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg
+  Artist: Emanuel Leutze
+  Licence: Public domain
+
+the-dance-class.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Degas-_La_classe_de_danse_1874.jpg
+  Artist: Edgar Degas
+  Licence: Public domain
+
+sistine-madonna.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RAFAEL_-_Madonna_Sixtina_(Gem%C3%A4ldegalerie_Alter_Meister,_Dresden,_1513-14._%C3%93leo_sobre_lienzo,_265_x_196_cm).jpg
+  Artist: Raphael
+  Licence: Public domain
+
+the-anatomy-lesson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg
+  Artist: Rembrandt
+  Licence: Public domain
+
+judith-slaying-holofernes.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg
+  Artist: Artemisia Gentileschi
+  Licence: Public domain
+
+shearing-the-rams.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tom_Roberts_-_Shearing_the_rams_-_Google_Art_Project.jpg
+  Artist: Tom Roberts
+  Licence: Public domain
+
+wheatfield-with-crows.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Korenveld_met_kraaien_-_s0149V1962_-_Van_Gogh_Museum.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+the-calling-of-saint-matthew.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caravaggio_%E2%80%94_The_Calling_of_Saint_Matthew.jpg
+  Artist: Caravaggio
+  Licence: CC0
+
+paris-street-rainy-day.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg
+  Artist: Gustave Caillebotte
+  Licence: Public domain
+
+luncheon-of-the-boating-party.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pierre-Auguste_Renoir_-_Luncheon_of_the_Boating_Party_-_Google_Art_Project.jpg
+  Artist: Pierre-Auguste Renoir
+  Licence: Public domain
+
+composition-viii.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kandinsky_-_Composition_8,_1923.jpg
+  Artist: Wassily Kandinsky
+  Licence: Public domain
+
+the-blue-boy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Blue_Boy.jpg
+  Artist: Thomas Gainsborough
+  Licence: Public domain
+
+the-nightmare.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_-_The_Nightmare_55.5.A-d1-2019-04-15.jpg
+  Artist: Henry Fuseli
+  Licence: Public domain
+
+the-laughing-cavalier.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cavalier_soldier_Hals-1624x.jpg
+  Artist: Frans Hals
+  Licence: Public domain
+
+irises.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Irises-Vincent_van_Gogh.jpg
+  Artist: Vincent van Gogh
+  Licence: Public domain
+
+flaming-june.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Flaming_June,_by_Frederic_Lord_Leighton_(1830-1896).jpg
+  Artist: Frederic Leighton
+  Licence: Public domain
+
+isle-of-the-dead.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Arnold_B%C3%B6cklin_-_Die_Toteninsel_I_(Basel,_Kunstmuseum).jpg
+  Artist: Arnold Böcklin
+  Licence: Public domain
+
+the-wedding-at-cana.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Les_Noces_de_Cana_-_Paolo_Veronese_-_Mus%C3%A9e_du_Louvre_Peintures_INV_142_;_MR_384.jpg
+  Artist: Paolo Veronese
+  Licence: Public domain
+

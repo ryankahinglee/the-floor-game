@@ -128,3 +128,178 @@ minotaur.jpg
   Source: https://commons.wikimedia.org/wiki/File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg
   Author: George Frederic Watts
   Licence: Public domain
+
+harpy.png
+  Source: https://commons.wikimedia.org/wiki/File:Coa_Illustration_Elements_Harpy_Rising_Wings_Displayed.svg
+  Author: Written and illustrated by John Vinycomb (1833–1928 biography)
+  Licence: Public domain
+
+cerberus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Herakles_Kerberos_Eurystheus_Louvre_E701.jpg
+  Author: Eagle Painter
+  Licence: Public domain
+
+hydra.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lernaean_Hydra_Getty_Villa_83.AE.346.jpg
+  Author: Wolfgang Sauber (User:Xenophon). Image renamed from Image:Herakles gegen Hydra.jpg
+  Licence: CC BY-SA 3.0
+
+chimera.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chimera_Apulia_Louvre_K362.jpg
+  Author: Lampas Group
+  Licence: Public domain
+
+centaur.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Terracotta_lekythos_(oil_flask)_with_centaur_battling_a_warrior_MET_DP161810.jpg
+  Author: Creator:Painter of London B 31
+  Licence: CC0
+
+cyclops.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Head_of_a_Cyclops_Colosseum.jpg
+  Author: Steven Lek
+  Licence: CC BY-SA 4.0
+
+siren.jpg
+  Source: https://commons.wikimedia.org/wiki/File:NAMA_Sir%C3%A8ne.jpg
+  Author: No machine-readable author provided. Marsyas assumed (based on copyright claims).
+  Licence: CC BY 2.5
+
+satyr.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Satyros_Cdm_Paris_DeRidder509.jpg
+  Author: Epiktetos (signed)
+  Licence: Public domain
+
+griffin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Knossos_fresco_in_throne_palace.JPG
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+scylla.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Scylla_Louvre_CA1341.jpg
+  Author: Unknown artistUnknown artist
+  Licence: Public domain
+
+typhon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zeus_Typhon_Staatliche_Antikensammlungen_596.jpg
+  Author: User:Bibi Saint-Pol
+  Licence: Public domain
+
+hippocampus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hippocamp_and_Dolphins_Kansas_City-City_Hall.jpg
+  Author: User:Charvex
+  Licence: Public domain
+
+charybdis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_054.jpg
+  Author: Henry Fuseli
+  Licence: Public domain
+
+nemean-lion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mosaic_Heracles_Nemean_lion_3rd_c_AD_AM_Paros_177040.jpg
+  Author: Zde
+  Licence: CC BY-SA 4.0
+
+stymphalian-birds.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mosaico_de_los_trabajos_de_H%C3%A9rcules,_Museo_Arqueol%C3%B3gico_Nacional,_Madrid,_Espa%C3%B1a,_2016_04.jpg
+  Author: Benjamín Núñez González
+  Licence: CC BY-SA 4.0
+
+furies.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Orestes_Pursued_by_the_Furies_by_William-Adolphe_Bouguereau_(1862)_-_Google_Art_Project.jpg
+  Author: William-Adolphe Bouguereau
+  Licence: Public domain
+
+fates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paphos_Haus_des_Theseus_-_Mosaik_Achilles_3_Moiren.jpg
+  Author: Wolfgang Sauber
+  Licence: CC BY-SA 3.0
+
+achilles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Korfu_(GR),_Gastouri,_Achilleion_--_2018_--_1316.jpg
+  Author: Dietmar Rabich
+  Licence: CC BY-SA 4.0
+
+odysseus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Head_Odysseus_MAR_Sperlonga.jpg
+  Author: Jastrow
+  Licence: Public domain
+
+perseus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Perseo_con_la_testa_di_medusa,_originale_di_et%C3%A0_flavia_o_traianea,_dalle_terme_presso_porta_laurentina,_01.JPG
+  Author: Sailko
+  Licence: CC BY 3.0
+
+theseus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kylix_Theseus_Aison_MNA_Inv11365_n1.jpg
+  Author: Aison
+  Licence: CC BY 2.5
+
+jason.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jason_with_the_Golden_Fleece_by_Bertel_Thorvaldsen.jpg
+  Author: Yair Haklai
+  Licence: CC BY-SA 4.0
+
+orpheus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DSC00355_-_Orfeo_(epoca_romana)_-_Foto_G._Dall%27Orto.jpg
+  Author: Giovanni Dall'Orto
+  Licence: Public domain
+
+icarus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Herbert_Draper_-_The_Lament_for_Icarus_-_Google_Art_Project.jpg
+  Author: Herbert James Draper
+  Licence: Public domain
+
+helen-of-troy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Helen_of_Troy.jpg
+  Author: Evelyn De Morgan
+  Licence: Public domain
+
+narcissus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Narcissus_on_a_Pompeian_fresco.jpg
+  Author: Unknown authorUnknown author
+  Licence: CC0
+
+andromeda.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Perseus_Andromeda_MAN_Napoli_Inv8998.jpg
+  Author: unknown
+  Licence: Public domain
+
+bellerophon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bellerophon_-_Aphrodisias_(7471674250).jpg
+  Author: William Neuheisel from DC, US
+  Licence: CC BY 2.0
+
+sisyphus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nekyia_Staatliche_Antikensammlungen_1494_n2.jpg
+  Author: Swing Painter
+  Licence: Public domain
+
+charon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Patinier_-_Charon.jpg
+  Author: Joachim Patinir
+  Licence: Public domain
+
+oedipus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Oedipus_and_Sphinx,_pelike,_450-440_BC,_Berlin_F_2355,_141646.jpg
+  Author: Zde
+  Licence: CC BY-SA 4.0
+
+psyche.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Psyche-Waterhouse.jpg
+  Author: John William Waterhouse
+  Licence: Public domain
+
+ariadne.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dioniso_scopre_arianna,_da_casa_dei_capitelli_colorati_a_pompei,_9278_(cropped).JPG
+  Author: Sailko
+  Licence: CC BY-SA 3.0
+
+trojan-horse.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mykonos_vase.jpg
+  Author: Travelling Runes
+  Licence: CC BY-SA 2.0
+
+pandoras-box.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lawrence_Alma-Tadema_10.jpeg
+  Author: Lawrence Alma-Tadema
+  Licence: Public domain

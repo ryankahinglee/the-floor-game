@@ -1,0 +1,303 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized to 1280px wide by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+sushi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sushi_platter.jpg
+  Author: chidorian from Japan
+  Licence: CC BY-SA 2.0
+
+pizza.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pizza-3007395.jpg
+  Author: igorovsyannykov
+  Licence: CC0
+
+paella.jpg
+  Source: https://commons.wikimedia.org/wiki/File:01_Paella_Valenciana_original.jpg
+  Author: Jan Harenburg
+  Licence: CC BY-SA 4.0
+
+pho.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bowl_of_Meatball_pho.jpg
+  Author: SerraKnightz
+  Licence: CC BY 4.0
+
+ramen.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shoyu_Ramen%EF%BC%88Tokyo_Ramen%EF%BC%89_-_01.jpg
+  Author: Quercus acuta
+  Licence: CC BY-SA 4.0
+
+tacos.jpg
+  Source: https://commons.wikimedia.org/wiki/File:001_Tacos_de_carnitas,_carne_asada_y_al_pastor.jpg
+  Author: Larry Miller
+  Licence: CC BY-SA 2.0
+
+burrito.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Burrito.JPG
+  Author: samuelfernandezrivera
+  Licence: CC0
+
+hamburger.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RedDot_Burger.jpg
+  Author: Hongreddotbrewhouse
+  Licence: CC BY-SA 3.0
+
+hot-dog.png
+  Source: https://commons.wikimedia.org/wiki/File:Hot_dog_with_mustard.png
+  Author: Czar, original photographed by Renee Comet
+  Licence: Public domain
+
+fish-and-chips.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fish_and_chips_blackpool.jpg
+  Author: Matthias Meckel
+  Licence: CC BY-SA 4.0
+
+meat-pie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Meat_pie.jpg
+  Author: fir0002  flagstaffotos [at] gmail.com
+		Canon 20D + Canon 17-40mm f/4 L
+  Licence: GFDL 1.2
+
+sausage-roll.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sausage_roll_-_One_Market,_One_Garden_Brighton_(cropped).jpg
+  Author: Andy Li
+  Licence: CC0
+
+dumplings.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E5%8D%97%E6%8A%95%E8%8D%89%E5%B1%AF%E6%B0%B4%E9%A4%83Nantou,_Taiwan_Caotun_dumplings.jpg
+  Author: Yeepunchmen
+  Licence: CC BY-SA 4.0
+
+xiaolongbao.jpg
+  Source: https://commons.wikimedia.org/wiki/File:A_Xiaolongbao_from_The_Modern_Shanghai.jpg
+  Author: Peachyeung316
+  Licence: CC BY-SA 4.0
+
+peking-duck.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Peking_Duck,_2014_(02).jpg
+  Author: City Foodsters
+  Licence: CC BY 2.0
+
+pad-thai.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg
+  Author: Takeaway
+  Licence: CC BY-SA 3.0
+
+tom-yum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tom_yam_kung_maenam.jpg
+  Author: Takeaway
+  Licence: CC BY-SA 3.0
+
+laksa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nyonya_Laksa.jpg
+  Author: Giddy98
+  Licence: CC BY-SA 4.0
+
+nasi-goreng.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nasi_Goreng_Kampung_(11967588375).jpg
+  Author: shankar s. from Dubai, united arab emirates
+  Licence: CC BY 2.0
+
+satay.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sate_ayam-1.JPG
+  Author: Lord Mountbatten
+  Licence: CC BY-SA 4.0
+
+bibimbap.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dolsot-bibimbap.jpg
+  Author: Sous Chef
+  Licence: CC BY 2.0
+
+tteokbokki.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tteokbokki.JPG
+  Author: Popo le Chien
+  Licence: CC0
+
+butter-chicken.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Butter_Chicken_%26_Butter_Naan_-_Home_-_Chandigarh_-_India_-_0006.jpg
+  Author: Yuvraj Singh 97
+  Licence: CC BY-SA 4.0
+
+biryani.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%22Hyderabadi_Dum_Biryani%22.jpg
+  Author: Mahi Tatavarty
+  Licence: CC BY-SA 4.0
+
+dosa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dosa_at_Sri_Ganesha_Restauran,_Bangkok_(44570742744).jpg
+  Author: Vee Satayamas from Bangkok, Thailand
+  Licence: CC BY 2.0
+
+samosa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Samosas,_snack_food_at_Wikipedia%27s_16th_Birthday_celebration_in_Chittagong_(01).jpg
+  Author: Moheen Reeyad
+  Licence: CC BY-SA 4.0
+
+falafel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Falafels_2.jpg
+  Author: Popo le Chien
+  Licence: CC BY-SA 3.0
+
+hummus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lebanese_style_hummus.jpg
+  Author: Beyrouthhh at English Wikipedia
+  Licence: CC BY 3.0
+
+shawarma.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shawarma_2.jpg
+  Author: Vis M
+  Licence: CC BY-SA 4.0
+
+shakshuka.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shakshuka_by_Calliopejen1.jpg
+  Author: Calliopejen1
+  Licence: CC BY-SA 3.0
+
+moussaka.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MussakasMeMelitsanesKePatates01.JPG
+  Author: Robert Kindermann aka RobertK
+  Licence: CC BY-SA 2.5
+
+gyros.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pita_giros.JPG
+  Author: Antonio Fajardo i López
+  Licence: CC BY-SA 3.0
+
+ratatouille.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ratatouille_home_cooked.jpg
+  Author: Jack145945
+  Licence: CC0
+
+croque-monsieur.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Croque_monsieur.jpg
+  Author: Michael Brewer
+  Licence: CC BY-SA 2.5
+
+escargot.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caracoles-del-restaurante-granero.jpg
+  Author: Restaurante Granero
+  Licence: Public domain
+
+schnitzel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Breitenlesau_Krug_Br%C3%A4u_Schnitzel.JPG
+  Author: Benreis
+  Licence: CC BY-SA 3.0
+
+pretzel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:BrezelnSalz02_(cropped).JPG
+  Author: Sundar1
+  Licence: CC BY-SA 3.0
+
+fondue.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fondue_dish.jpg
+  Author: Juliano Mendes
+  Licence: CC BY 2.0
+
+poutine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Food_at_WIkimanian_2017_02.jpg
+  Author: Camelia.boban
+  Licence: CC BY-SA 4.0
+
+empanadas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tapa_de_empanadillitas.JPG
+  Author: Tamorlan
+  Licence: CC BY 3.0
+
+ceviche.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cebiche_de_corvina.JPG
+  Author: Picanteria karol
+  Licence: CC BY-SA 4.0
+
+nachos.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nachos-cheese.jpg
+  Author: chee.hong from Kuala Lumpur, Malaysia
+  Licence: CC BY 2.0
+
+guacamole.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1271.jpg
+  Author: Nikodem Nijaki
+  Licence: CC BY-SA 3.0
+
+borscht.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Borscht_served.jpg
+  Author: liz west from Boxborough, MA
+  Licence: CC BY 2.0
+
+goulash.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gulyas080.jpg
+  Author: Lily15
+  Licence: CC BY-SA 3.0
+
+spring-rolls.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Spring_Rolls_(3357696061).jpg
+  Author: Donna Benjamin
+  Licence: CC BY-SA 2.0
+
+banh-mi.png
+  Source: https://commons.wikimedia.org/wiki/File:B%C3%A1nh_m%C3%AC_th%E1%BB%8Bt_n%C6%B0%E1%BB%9Bng.png
+  Author: nsaum75¡שיחת!‎
+  Licence: CC BY-SA 3.0
+
+full-english-breakfast.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Full_English_breakfast_(cropped).jpg
+  Author: Joadl
+  Licence: CC BY-SA 3.0 at
+
+jollof-rice.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jollof_Rice_with_Stew.jpg
+  Author: Noahalorwu
+  Licence: CC BY-SA 4.0
+
+tagine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tajine-marocain-un-plat-varie-et-sain_(cropped).jpg
+  Author: BBouchra00
+  Licence: CC BY-SA 4.0
+
+okonomiyaki.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Okonomiyaki_001.jpg
+  Author: ume-y
+  Licence: CC BY 2.0
+
+tempura.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tempura_01.jpg
+  Author: Yaco*
+  Licence: CC BY 2.0
+
+takoyaki.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Takoyaki_dish.jpg
+  Author: sayo ts
+  Licence: CC0
+
+onigiri.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%E5%B0%8F%E6%96%99%E7%90%86%E3%83%90%E3%83%AB%E3%81%95%E3%81%8F%E3%82%89_%E7%89%B9%E8%A3%BD%E3%81%8A%E3%81%AB%E3%81%8E%E3%82%8A.jpg
+  Author: 脇山航
+  Licence: CC BY-SA 4.0
+
+fried-chicken.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fried-Chicken-Set.jpg
+  Author: Evan-Amos
+  Licence: CC0
+
+bagel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bagel_with_sesame_3.jpg
+  Author: Shisma
+  Licence: CC BY 4.0
+
+eggs-benedict.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Traditional_Eggs_Benedict.jpg
+  Author: Mark Miller
+  Licence: CC BY-SA 4.0
+
+chilli-con-carne.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bowl_of_chili.jpg
+  Author: Carstor
+  Licence: CC BY-SA 2.5
+
+clam-chowder.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Quail_07_bg_041506.jpg
+  Author: Jon SullivanThe original uploader was Y6y6y6 at English Wikipedia.
+  Licence: Public domain
+
+caesar-salad.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caesar_salad_(2).jpg
+  Author: Geoff Peters from Vancouver, BC, Canada
+  Licence: CC BY 2.0

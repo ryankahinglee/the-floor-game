@@ -216,16 +216,6 @@ coldplay.jpg
   Author: Raph_PH
   Licence: CC BY 4.0
 
-maroon-5.jpg
-  Source: https://commons.wikimedia.org/wiki/File:Maroon_5_Current_Lineup_Collage.jpg
-  Author: Justin Higuchi, Lunchbox LP, Eva Rinaldi, flickr./com/photos/amanda_munoz
-  Licence: CC0
-
-imagine-dragons.jpg
-  Source: https://commons.wikimedia.org/wiki/File:Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg
-  Author: Danazar
-  Licence: CC BY-SA 4.0
-
 one-direction.jpg
   Source: https://commons.wikimedia.org/wiki/File:One_Direction_Sydney_4.jpg
   Author: Eva Rinaldi

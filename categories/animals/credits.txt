@@ -1,0 +1,302 @@
+Animal photos found through Openverse (https://openverse.org); originals hosted on Flickr.
+All resized to max 800px wide; walrus.jpg cropped to remove a company logo.
+
+lion.jpg
+  Source: https://www.flickr.com/photos/91501748@N07/26260010225
+  Author: Mathias Appel
+  Licence: CC0 1.0
+
+tiger.jpg
+  Source: https://www.flickr.com/photos/91501748@N07/27065384106
+  Author: Mathias Appel
+  Licence: CC0 1.0
+
+elephant.jpg
+  Source: https://www.flickr.com/photos/90872331@N05/8316352776
+  Author: Noveltyy
+  Licence: CC BY 2.0
+
+giraffe.jpg
+  Source: https://www.flickr.com/photos/64383503@N00/9458740803
+  Author: virtualsphere
+  Licence: CC BY-SA 2.0
+
+zebra.jpg
+  Source: https://www.flickr.com/photos/23862149@N05/2271385005
+  Author: jrobertmoore
+  Licence: CC BY 2.0
+
+kangaroo.jpg
+  Source: https://www.flickr.com/photos/34534185@N00/1928593646
+  Author: Sheba Also 18 Million Views
+  Licence: CC BY-SA 2.0
+
+koala.jpg
+  Source: https://www.flickr.com/photos/17879025@N00/3336244089
+  Author: sporkist
+  Licence: CC BY 2.0
+
+giant-panda.jpg
+  Source: https://www.flickr.com/photos/30412942@N00/65493651
+  Author: Mike Johnston
+  Licence: CC BY 2.0
+
+polar-bear.jpg
+  Source: https://www.flickr.com/photos/90872331@N05/8316390382
+  Author: Noveltyy
+  Licence: CC BY 2.0
+
+penguin.jpg
+  Source: https://www.flickr.com/photos/79721788@N00/15793396170
+  Author: D-Stanley
+  Licence: CC BY 2.0
+
+gorilla.jpg
+  Source: https://www.flickr.com/photos/26395196@N00/459292254
+  Author: tiswango
+  Licence: CC BY-SA 2.0
+
+cheetah.jpg
+  Source: https://www.flickr.com/photos/58108850@N07/10314863686
+  Author: CarolineG2011
+  Licence: CC BY-SA 2.0
+
+hippopotamus.jpg
+  Source: https://www.flickr.com/photos/79721788@N00/17311885695
+  Author: D-Stanley
+  Licence: CC BY 2.0
+
+rhinoceros.jpg
+  Source: https://www.flickr.com/photos/89918055@N05/51440031630
+  Author: JOHN K THORNE
+  Licence: CC0 1.0
+
+crocodile.jpg
+  Source: https://www.flickr.com/photos/75840729@N07/6812851925
+  Author: Ravi Jandhyala
+  Licence: CC BY 2.0
+
+flamingo.jpg
+  Source: https://www.flickr.com/photos/35106989@N08/8058547935
+  Author: robert.claypool
+  Licence: CC BY 2.0
+
+owl.jpg
+  Source: https://www.flickr.com/photos/23975018@N04/3675503072
+  Author: DIVA007
+  Licence: CC BY 2.0
+
+peacock.jpg
+  Source: https://www.flickr.com/photos/88123769@N02/9699918900
+  Author: Bernard Spragg
+  Licence: CC0 1.0
+
+camel.jpg
+  Source: https://www.flickr.com/photos/8227580@N08/490573497
+  Author: stevebrownd50
+  Licence: CC BY 2.0
+
+wombat.jpg
+  Source: https://www.flickr.com/photos/19349404@N00/13661584635
+  Author: goosmurf
+  Licence: CC BY 2.0
+
+platypus.jpg
+  Source: https://www.flickr.com/photos/89562969@N00/3611889680
+  Author: Urville Djasim
+  Licence: CC BY-SA 2.0
+
+sloth.jpg
+  Source: https://www.flickr.com/photos/97446046@N00/30950009
+  Author: Praziquantel
+  Licence: CC BY 2.0
+
+octopus.jpg
+  Source: https://www.flickr.com/photos/44124348109@N01/32348728957
+  Author: jurvetson
+  Licence: CC BY 2.0
+
+dolphin.jpg
+  Source: https://www.flickr.com/photos/76929828@N00/458562896
+  Author: The Pug Father
+  Licence: CC BY 2.0
+
+red-panda.jpg
+  Source: https://www.flickr.com/photos/91501748@N07/52748349365
+  Author: Mathias Appel
+  Licence: CC0 1.0
+
+meerkat.jpg
+  Source: https://www.flickr.com/photos/21078769@N00/8143319217
+  Author: trishhartmann
+  Licence: CC BY 2.0
+
+orangutan.jpg
+  Source: https://www.flickr.com/photos/12587661@N06/15850795831
+  Author: Michael Gwyther-Jones
+  Licence: CC BY 2.0
+
+toucan.jpg
+  Source: https://www.flickr.com/photos/66020093@N03/16201157519
+  Author: Andy Morffew
+  Licence: CC BY 2.0
+
+chameleon.jpg
+  Source: https://www.flickr.com/photos/42244964@N03/4325982802
+  Author: Frank.Vassen
+  Licence: CC BY 2.0
+
+hedgehog.jpg
+  Source: https://www.flickr.com/photos/16345382@N04/5171046493
+  Author: JamesWoolley5
+  Licence: CC BY-SA 2.0
+
+wolf.jpg
+  Source: https://www.flickr.com/photos/89116575@N00/3260507529
+  Author: Dennis from Atlanta
+  Licence: CC BY-SA 2.0
+
+fox.jpg
+  Source: https://www.flickr.com/photos/50898682@N07/8155961497
+  Author: AcrylicArtist
+  Licence: CC BY 2.0
+
+brown-bear.jpg
+  Source: https://www.flickr.com/photos/23642145@N00/14436384874
+  Author: Accretion Disc
+  Licence: CC BY 2.0
+
+leopard.jpg
+  Source: https://www.flickr.com/photos/20538653@N00/140861471
+  Author: Mark Hodson Photos
+  Licence: CC BY 2.0
+
+hyena.jpg
+  Source: https://www.flickr.com/photos/27784370@N05/13558708083
+  Author: U.S. Geological Survey
+  Licence: CC0 1.0
+
+warthog.jpg
+  Source: https://www.flickr.com/photos/64607715@N05/9682058603
+  Author: Rod Waddington
+  Licence: CC BY-SA 2.0
+
+bison.jpg
+  Source: https://www.flickr.com/photos/51986662@N05/5355367784
+  Author: USFWS Mountain Prairie
+  Licence: CC BY 2.0
+
+raccoon.jpg
+  Source: https://www.flickr.com/photos/132033298@N04/25830446476
+  Author: Charles Patrick Ewing
+  Licence: CC BY 2.0
+
+squirrel.jpg
+  Source: https://www.flickr.com/photos/125741467@N05/52522675285
+  Author: hedera.baltica
+  Licence: CC BY-SA 2.0
+
+beaver.jpg
+  Source: https://www.flickr.com/photos/53496815@N00/2694718159
+  Author: Paul Stevenson
+  Licence: CC BY 2.0
+
+otter.jpg
+  Source: https://www.flickr.com/photos/93406569@N00/3989373620
+  Author: ChuckThePhotographer
+  Licence: CC BY 2.0
+
+walrus.jpg
+  Source: https://www.flickr.com/photos/46666134@N07/4683460827
+  Author: Polar Cruises
+  Licence: CC BY 2.0
+
+whale.jpg
+  Source: https://www.flickr.com/photos/39735679@N00/454154733
+  Author: pingnews.com
+  Licence: Public domain (PDM 1.0)
+
+shark.jpg
+  Source: https://www.flickr.com/photos/67374204@N00/14894417636
+  Author: Elias Levy
+  Licence: CC BY 2.0
+
+jellyfish.jpg
+  Source: https://www.flickr.com/photos/73080909@N03/8793058944
+  Author: spongebabyalwaysfull
+  Licence: CC0 1.0
+
+seahorse.jpg
+  Source: https://www.flickr.com/photos/36686400@N00/3016990059
+  Author: shellac
+  Licence: CC BY 2.0
+
+frog.jpg
+  Source: https://www.flickr.com/photos/26768348@N00/2254825592
+  Author: Stephen Michael Barnett
+  Licence: CC BY 2.0
+
+eagle.jpg
+  Source: https://www.flickr.com/photos/46286575@N00/348448681
+  Author: Pen Waggener
+  Licence: CC BY 2.0
+
+parrot.jpg
+  Source: https://www.flickr.com/photos/88123769@N02/9827954793
+  Author: Bernard Spragg
+  Licence: CC0 1.0
+
+ostrich.jpg
+  Source: https://www.flickr.com/photos/24028533@N03/4116996137
+  Author: zoutedrop
+  Licence: CC BY 2.0
+
+swan.jpg
+  Source: https://www.flickr.com/photos/22714323@N06/3216348493
+  Author: Tony Fischer Photography
+  Licence: CC BY 2.0
+
+pelican.jpg
+  Source: https://www.flickr.com/photos/88123769@N02/14245584798
+  Author: Bernard Spragg
+  Licence: CC0 1.0
+
+bat.jpg
+  Source: https://www.flickr.com/photos/66020093@N03/16322859359
+  Author: Andy Morffew
+  Licence: CC BY 2.0
+
+crab.jpg
+  Source: https://www.flickr.com/photos/31031835@N08/5698981395
+  Author: John Tann
+  Licence: CC BY 2.0
+
+butterfly.jpg
+  Source: https://www.flickr.com/photos/29159990@N05/2986542299
+  Author: dave and rose
+  Licence: CC BY 2.0
+
+ladybird.jpg
+  Source: https://www.flickr.com/photos/44206268@N07/14910140739
+  Author: Rene Mensen
+  Licence: CC BY 2.0
+
+chimpanzee.jpg
+  Source: https://www.flickr.com/photos/132033298@N04/29947102614
+  Author: Charles Patrick Ewing
+  Licence: CC BY 2.0
+
+armadillo.jpg
+  Source: https://www.flickr.com/photos/30609440@N00/280204298
+  Author: leppyone
+  Licence: CC BY 2.0
+
+echidna.jpg
+  Source: https://www.flickr.com/photos/63479603@N00/36883162374
+  Author: jeans_Photos
+  Licence: CC BY 2.0
+
+kookaburra.jpg
+  Source: https://www.flickr.com/photos/132033298@N04/25330957543
+  Author: Charles Patrick Ewing
+  Licence: CC BY 2.0

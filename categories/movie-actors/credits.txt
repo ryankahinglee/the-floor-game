@@ -1,0 +1,346 @@
+Photos from Wikimedia Commons (https://commons.wikimedia.org), via each actor's Wikipedia article.
+Resized to max 800px wide.
+
+tom-holland.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TomHolland-byPhilipRomano.jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+zendaya.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zendaya-byPhilipRomano.jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+jason-statham.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jason_Statham_2018.jpg
+  Author: MTV International
+  Licence: CC BY 3.0
+
+anne-hathaway.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AnneHathaway-byPhilipRomano-Crop.jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+tom-cruise.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tom_Cruise_at_53rd_Saturn_Awards_2026-01.jpg
+  Author: Kevin Paul
+  Licence: CC BY 4.0
+
+leonardo-dicaprio.jpg
+  Source: https://commons.wikimedia.org/wiki/File:LeoPTABFI191125-28_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+brad-pitt.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Brad_Pitt-69858.jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+margot-robbie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Margot_Robbie_Wuthering_Heights_premiere_(cropped).jpg
+  Author: Ondine Goat
+  Licence: CC0
+
+chris-hemsworth.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chris_Hemsworth_-_Crime_101.jpg
+  Author: Kevin Paul
+  Licence: CC BY 4.0
+
+hugh-jackman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hugh_Jackman_Is_This_Thing_On-68_(cropped).jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+nicole-kidman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MKr384262_Nicole_Kidman_(Women_In_Motion,_Cannes_2025).jpg
+  Author: Martin Kraft
+  Licence: CC BY-SA 4.0
+
+cate-blanchett.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cate_Blanchett-63298_(cropped_2).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+scarlett-johansson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Scarlett_Johansson-8588.jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+robert-downey-jr.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RobertDowneyJr-byPhilipRomano7_(cropped).jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+chris-pratt.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chris_Pratt_Jurassic_World_Fallen_Kingdom_Japan_Premiere_Red_Carpet_(3x4_cropped).jpg
+  Author: Dick Thomas Johnson from Tokyo, Japan
+  Licence: CC BY 2.0
+
+dwayne-johnson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dwayne_Johnson-1764_(4x5_cropped_with_moderate_headroom).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+will-smith.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TechCrunch_Disrupt_San_Francisco_2019_-_Day_1_(48834070763)_(cropped).jpg
+  Author: TechCrunch
+  Licence: CC BY 2.0
+
+keanu-reeves.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Keanu_Reeves_at_TIFF_2025_02_(Cropped).jpg
+  Author: Gabriel Hutchinson
+  Licence: CC BY-SA 4.0
+
+johnny-depp.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Johnny_Depp_2020.jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 3.0
+
+emma-watson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Emma_Watson_2013.jpg
+  Author: Georges Biard
+  Licence: CC BY-SA 3.0
+
+daniel-radcliffe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DanielRadcliffe.jpg
+  Author: Philip Romano
+  Licence: CC BY-SA 4.0
+
+emma-stone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Emma_Stone_at_the_2025_Venice_Film_Festival-6313_(cropped).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+ryan-gosling.jpg
+  Source: https://commons.wikimedia.org/wiki/File:GoslingBFI081223_(10_of_30)_(53389077811)_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+ryan-reynolds.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Deadpool_2_Japan_Premiere_Red_Carpet_Ryan_Reynolds_(cropped).jpg
+  Author: Dick Thomas Johnson from Tokyo, Japan
+  Licence: CC BY 2.0
+
+jennifer-lawrence.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jennifer_Lawrence,_Cannes_Film_Festival_2025.jpg
+  Author: Ciné Zooms 2
+  Licence: CC BY 3.0
+  Note: cropped to remove a name card
+
+timothee-chalamet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Timoth%C3%A9e_Chalamet-63482_(cropped).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+florence-pugh.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Florence_Pugh_2026.jpg
+  Author: Marlene Landu
+  Licence: CC BY-SA 4.0
+
+sydney-sweeney.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sydney_Sweeney_at_the_2024_Toronto_International_Film_Festival_01_(3x4_cropped_and_rotated).jpg
+  Author: Jay Dixit
+  Licence: CC BY-SA 4.0
+
+morgan-freeman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Morgan_Freeman_at_The_Pentagon_on_2_August_2023_-_230802-D-PM193-3363_(cropped).jpg
+  Author: U.S. Secretary of Defense
+  Licence: Public domain
+
+samuel-l-jackson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:SamuelLJackson.jpg
+  Author: Philip Romano
+  Licence: CC BY-SA 4.0
+
+denzel-washington.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Denzel_Washington_at_the_2025_Cannes_Film_Festival.jpg
+  Author: Gabriel Hutchinson
+  Licence: CC BY-SA 4.0
+
+tom-hanks.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TomHanksPrincEdw031223_(11_of_41)_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+meryl-streep.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Meryl_Streep-_Press_conference_for_the_film_%22The_Devil_Wears_Prada_2%22_-_55194765350_(cropped1).jpg
+  Author: Ministry of culture, sports and Tourism- Lee Jeong-woo
+  Licence: CC BY-SA 4.0
+
+julia-roberts.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Julia_Roberts_2025.jpg
+  Author: Colleen Sturtevant
+  Licence: CC BY-SA 4.0
+
+sandra-bullock.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sandra_Bullock_at_The_Egyptian_Theatre_2024.jpg
+  Author: Kevin Paul
+  Licence: CC BY 4.0
+
+angelina-jolie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Angelina_Jolie-643531_(cropped).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+gal-gadot.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gal_Gadot_by_Gage_Skidmore_3.jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 3.0
+
+henry-cavill.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Henry_Cavill_(48417913146)_(cropped).jpg
+  Author: Gage Skidmore from Peoria, AZ, United States of America
+  Licence: CC BY-SA 2.0
+
+vin-diesel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vin_Diesel_by_Gage_Skidmore_2.jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 3.0
+  Note: cropped to remove a name card
+
+jackie-chan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jackie_Chan.jpg
+  Author: Segolene Liger
+  Licence: CC BY-SA 4.0
+
+michelle-yeoh.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michelle_Yeoh-2268.jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+keira-knightley.jpg
+  Source: https://commons.wikimedia.org/wiki/File:KeiraKnightleyByAndreaRaffin2011_(cropped).jpg
+  Author: Andrea Raffin
+  Licence: CC BY-SA 3.0
+
+natalie-portman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:NataliePortman.jpg
+  Author: Colleen Sturtevant
+  Licence: CC BY 4.0
+
+kristen-stewart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kristen_Stewart_at_WWD_Style_Awards_2026.jpg
+  Author: Kevin Paul
+  Licence: CC BY 4.0
+
+robert-pattinson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Robert_Pattinson_Venice_Film_Festival_(3x4_cropped).jpg
+  Author: Colleen Sturtevant
+  Licence: CC BY-SA 4.0
+
+jack-black.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TenaciousDO2160623_(38_of_62)_Jack_Black.jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+adam-sandler.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jackie_Sandler_Adam_Sandler_Jay_Kelly-36_(3x4).jpg
+  Author: Bryan Berlin
+  Licence: CC BY-SA 4.0
+
+kevin-hart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kevin_Hart_2014_(cropped_2).jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+
+jim-carrey.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jim_Carrey_in_2020.png
+  Author: Dulce Osuna
+  Licence: CC BY 3.0
+
+will-ferrell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Will_Ferrell_at_the_2024_Toronto_International_Film_Festival_5_(cropped).jpg
+  Author: Adam Chitayat
+  Licence: CC BY-SA 4.0
+
+rebel-wilson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rebel_Wilson_-_Girl_Group_-_TIFF_2026.jpg
+  Author: Sarran Hamilton
+  Licence: CC BY-SA 4.0
+
+arnold-schwarzenegger.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Arnold_Schwarzenegger_-_Austrian_World_Summit_2026_BHO-2906.jpg
+  Author: Bernhard Holub
+  Licence: CC BY-SA 4.0
+
+sylvester-stallone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:P20251206DT-0472_(3x4_cropped_on_Stallone_with_moderate_headroom).jpg
+  Author: The White House
+  Licence: Public domain
+
+harrison-ford.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Harrison_Ford_-_Televerse_2025-03.jpg
+  Author: Kevin Paul
+  Licence: CC BY 4.0
+
+rowan-atkinson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rowan_Atkinson,_2011.jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+  Note: cropped to remove a film logo
+
+jacob-elordi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:JacobElordi-TIFF2025-01_(cropped_2).png
+  Author: JoshPopov
+  Licence: CC BY 4.0
+
+austin-butler.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Austin_Butler_at_the_2025_Cannes_Film_Festival_02.jpg
+  Author: Gabriel Hutchinson
+  Licence: CC BY-SA 4.0
+
+cillian-murphy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cillian_Murphy_at_the_London_premier_of_Steve_in_September_2025_(cropped).jpg
+  Author: Netflix
+  Licence: CC BY-SA 4.0
+
+matt-damon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MattDamon-byPhilipRomano2.jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+christian-bale.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Christian_Bale-7837.jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+tom-hiddleston.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tom_Hiddleston_at_the_2024_Toronto_International_Film_Festival_(cropped).jpg
+  Author: Kevin Payravi
+  Licence: CC BY-SA 4.0
+
+mark-ruffalo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mark_Ruffalo_(36201774756)_(cropped).jpg
+  Author: Gage Skidmore from Peoria, AZ, United States of America
+  Licence: CC BY-SA 2.0
+
+ana-de-armas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ana_de_Armas_(54462619561)_(cropped_3).jpg
+  Author: Gage Skidmore from Surprise, AZ, United States of America
+  Licence: CC BY-SA 2.0
+
+eddie-murphy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Eddie_Murphy_by_David_Shankbone.jpg
+  Author: David Shankbone
+  Licence: Public domain
+  Note: film logo in background painted over
+
+liam-hemsworth.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Independence_Day-_Resurgence_Japan_Premiere-_Liam_Hemsworth_%26_Jeff_Goldblum_(28453569402)_(cropped).jpg
+  Author: Dick Thomas Johnson from Tokyo, Japan
+  Licence: CC BY 2.0
+
+jenna-ortega.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jenna_Ortega-63799_(cropped).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+hailee-steinfeld.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hailee_Steinfeld_by_Gage_Skidmore.jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 3.0
+
+viola-davis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Viola_Davis_2026_(cropped).jpg
+  Author: Maryland GovPics
+  Licence: CC BY 4.0

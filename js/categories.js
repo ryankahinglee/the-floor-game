@@ -61,7 +61,7 @@ function orderForRound(categoryName, questions, round) {
 }
 
 // Returns { categories, problems }.
-//   categories: [{ folder, name, questions: [{ image, file, answer, aliases, description }] }]
+//   categories: [{ folder, name, questions: [{ image, file, answer, aliases, description, fact }] }]
 //   problems:   a list of messages about any category that couldn't be loaded
 async function loadAllCategories() {
   const folders = await fetchJson(`${CATEGORIES_FOLDER}/list.json`);
@@ -71,12 +71,16 @@ async function loadAllCategories() {
   for (const folder of folders) {
     try {
       const data = await fetchJson(`${CATEGORIES_FOLDER}/${folder}/answers.json`);
-      const questions = (data.images || []).map(item => ({
-        file: item.file,
-        image: `${CATEGORIES_FOLDER}/${folder}/${item.file}`,
+      // Image categories list "images"; text categories (like proverbs) list "questions".
+      // A question can have a "file" (shows an image) or a "text" (shows words, ____ = blank).
+      const questions = (data.questions || data.images || []).map(item => ({
+        file: item.file || "",
+        image: item.file ? `${CATEGORIES_FOLDER}/${folder}/${item.file}` : "",
+        text: item.text || "",
         answer: item.answer || "(no answer written)",
         aliases: item.aliases || [],
-        description: item.description || ""
+        description: item.description || "",
+        fact: item.fact || ""          // optional fun fact shown on the TV with the answer
       }));
       categories.push({ folder, name: data.name || folder, questions });
     } catch (error) {

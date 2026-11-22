@@ -1,0 +1,44 @@
+Maps, guns, agents and ability icons are Riot Games assets, downloaded from valorant-api.com
+(a community API that serves the official in-game images). Icons were placed on a dark background
+and everything was resized.
+
+The Floor isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone
+officially involved in producing or managing Riot Games properties. Riot Games, and all associated
+properties are trademarks or registered trademarks of Riot Games, Inc.
+
+Photos of players and streamers are from Wikimedia Commons (https://commons.wikimedia.org), resized:
+
+person-tenz.jpg
+  Source: https://commons.wikimedia.org/wiki/File:SEN_TENZ_2023.jpg
+  Author: Billgatenguyen
+  Licence: CC BY 4.0
+
+person-yay.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jaccob_%22yay%22_Whiteaker,_OpTic_BOOTCAMP_2022_(cropped).png
+  Author: OpTic Gaming
+  Licence: CC BY 3.0
+
+person-tarik.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tarik_streamer_2020_01.png
+  Author: BLAST Premier
+  Licence: CC BY-SA 4.0
+
+person-shroud.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shroud_cropped.jpg
+  Author: Nate Herrera n8bit_
+  Licence: CC BY-SA 4.0
+
+person-kyedae.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kyedae_2025_(cropped).jpg
+  Author: Billgatenguyen
+  Licence: CC0
+
+person-iitztimmy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:IiTzTimmy_(cropped).jpg
+  Author: User:IITZTIMMY
+  Licence: CC0
+
+person-pokimane.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pokimane_at_Twitchcon_Berlin_2019.png
+  Author: SlikeR
+  Licence: CC BY 3.0

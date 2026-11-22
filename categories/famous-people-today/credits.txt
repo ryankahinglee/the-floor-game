@@ -1,0 +1,352 @@
+Photos from Wikimedia Commons (https://commons.wikimedia.org), as used on each person's Wikipedia page.
+Resized to max 800x900px and saved as JPEG. Credit goes to the author listed under the licence shown.
+
+donald-trump.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Official_Presidential_Portrait_of_President_Donald_J._Trump_(2025).jpg
+  Author: Daniel Torok
+  Licence: Public domain
+
+jd-vance.jpg
+  Source: https://commons.wikimedia.org/wiki/File:March_2026_Official_Vice_Presidential_Portrait_of_JD_Vance_(medium_crop)_(2).jpg
+  Author: Emily J. Higgins
+  Licence: Public domain
+
+joe-biden.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Joe_Biden_presidential_portrait.jpg
+  Author: Adam Schultz
+  Licence: Public domain
+
+barack-obama.jpg
+  Source: https://commons.wikimedia.org/wiki/File:President_Barack_Obama.jpg
+  Author: Official White House Photo by Pete Souza
+  Licence: Public domain
+
+kamala-harris.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kamala_Harris_Vice_Presidential_Portrait.jpg
+  Author: Lawrence Jackson
+  Licence: Public domain
+
+hillary-clinton.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Former_United_States_Secretary_of_State_Hillary_Rodham_Clinton_at_the_U.S._Department_of_State_on_September_26,_2023_in_Washington,_D.C._14_(cropped).jpg
+  Author: U.S. Department of State
+  Licence: Public domain
+
+bernie-sanders.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bernie_Sanders_February_2026_(cropped).jpg
+  Author: Anderseidesvik
+  Licence: CC BY-SA 4.0
+
+vladimir-putin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vladimir_Putin_(2026_02_23)_(cropped).jpg
+  Author: Kremlin.ru
+  Licence: CC BY 4.0
+
+volodymyr-zelenskyy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Volodymyr_Zelensky_2022_official_portrait_(cropped).jpg
+  Author: Press Service of the President of Ukraine
+  Licence: CC BY 4.0
+
+xi-jinping.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_visits_China_(55066713683)_(cropped%2Bangle).jpg
+  Author: Simon Dawson / No 10 Downing Street
+  Licence: CC BY 4.0
+
+narendra-modi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_official_portrait_of_Shri_Narendra_Modi,_the_Prime_Minister_of_the_Republic_of_India.jpg
+  Author: Prime Minister's Office
+  Licence: GODL-India
+
+emmanuel-macron.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Emmanuel_Macron_2025_(cropped).jpg
+  Author: Nebojša Tejić
+  Licence: Public domain
+
+keir-starmer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Keir_Starmer_Portrait_(cropped).jpg
+  Author: Prime Minister's Office
+  Licence: OGL 3
+
+boris-johnson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Boris_Johnson_official_portrait_(cropped).jpg
+  Author: Ben Shread
+  Licence: OGL 3
+
+justin-trudeau.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Trudeau%27s_message_on_Christmas_2023_(0m29s)_(cropped).jpg
+  Author: Justin Trudeau – Prime Minister of Canada
+  Licence: CC BY 3.0
+
+anthony-albanese.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Anthony_Albanese_portrait_(re-crop).jpg
+  Author: Australian Government
+  Licence: CC BY 4.0
+
+jacinda-ardern.jpg
+  Source: https://commons.wikimedia.org/wiki/File:New_Zealand_Prime_Minister_Jacinda_Ardern_in_2018.jpg
+  Author: Newzild
+  Licence: CC BY-SA 4.0
+
+kim-jong-un.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kim_Jong-un_and_Vladimir_Putin_(2023-09-13)_12_(cropped_2).jpg
+  Author: Владимир Смирнов / ТАСС
+  Licence: CC BY 4.0
+
+benjamin-netanyahu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Benjamin_Netanyahu,_February_2023_(cropped)(b).jpg
+  Author: Avi Ohayon
+  Licence: CC BY-SA 3.0
+
+mohammed-bin-salman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9_%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9_%D9%84%D9%84%D8%A3%D9%85%D9%8A%D8%B1_%D9%85%D8%AD%D9%85%D8%AF_%D8%A8%D9%86_%D8%B3%D9%84%D9%85%D8%A7%D9%86_%D8%A8%D9%86_%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B9%D8%B2%D9%8A%D8%B2_%D8%A2%D9%84_%D8%B3%D8%B9%D9%88%D8%AF_(%D9%85%D9%82%D8%B5%D9%88%D8%B5%D8%A9).jpg
+  Author: وكالة الأنباء السعودية
+  Licence: CC BY-SA 4.0
+
+angela-merkel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Angela_Merkel_2019_cropped.jpg
+  Author: Raimond Spekking
+  Licence: CC BY-SA 4.0
+
+pope-leo-xiv.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pope_Leo_XIV_3_(3x4_cropped).png
+  Author: Edgar Beltrán, The Pillar
+  Licence: CC BY-SA 4.0
+
+charles-iii.jpg
+  Source: https://commons.wikimedia.org/wiki/File:King_Charles_III_(July_2023).jpg
+  Author: White House
+  Licence: Public domain
+
+14th-dalai-lama.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tenzin_Gyatso_-_Trento_2013_01.JPG
+  Author: Niccolò Caranti
+  Licence: CC BY-SA 3.0
+
+elon-musk.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Elon_Musk_-_54820081119_(3x4_cropped,_Rule_of_thirds).jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 4.0
+
+bill-gates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bill_Gates_at_the_European_Commission_-_P067383-987995_(cropped)_5.jpg
+  Author: Bogdan Hoyaux / European Union
+  Licence: CC BY 4.0
+
+jeff-bezos.jpg
+  Source: https://commons.wikimedia.org/wiki/File:260202-D-PM193-2205_SECWAR_Arsenal_of_Freedom_Tour_-_Florida_(3x4_cropped_on_Bezos_and_rotated).jpg
+  Author: SECWAR
+  Licence: Public domain
+
+jensen-huang.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jensen_Huang_Stanford_2026-04-30_010_(cropped).jpg
+  Author: Anderseidesvik
+  Licence: CC BY-SA 4.0
+
+mark-zuckerberg.jpg
+  Source: https://commons.wikimedia.org/wiki/File:P20260929DT-1655_(55561811540)_(cropped_2).jpg
+  Author: The White House
+  Licence: Public domain
+
+sam-altman.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Meeting_with_Masayoshi_Son_and_Sam_Altman_(February_3,_2025)_(3x4_cropped_on_Altman).jpg
+  Author: 首相官邸ホームページ / Office of the Prime Minister of Japan Official Website
+  Licence: CC BY 4.0
+
+tim-cook.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tim_Cook_in_New_York_City_-_2026_(cropped).jpg
+  Author: Dati Bendo / European Union
+  Licence: CC BY 4.0
+
+steve-wozniak.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Steve_Wozniak_by_Gage_Skidmore_3_(cropped).jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 3.0
+
+warren-buffett.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Warren_Buffett_at_the_2015_SelectUSA_Investment_Summit_(cropped).jpg
+  Author: USA International Trade Administration
+  Licence: Public domain
+
+jack-ma.jpg
+  Source: https://commons.wikimedia.org/wiki/File:20th_Anniversary_Schwab_Foundation_Gala_Dinner_(44887783681)_(cropped).jpg
+  Author: Foundations World Economic Forum
+  Licence: CC BY 2.0
+
+gina-rinehart.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gina_Rinehart_June_2015.jpg
+  Author: Minister for Trade and Investment The Hon Andrew Robb AO MP
+  Licence: CC BY 4.0
+
+richard-branson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Richard_Branson_Addresses_the_Our_Ocean_Conference_2015_in_Valpara%C3%ADso_(21783214958)_(cropped).jpg
+  Author: U.S. Department of State from United States
+  Licence: Public domain
+
+greta-thunberg.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Greta_Thunberg_in_May_2026_(cropped_3x4).jpg
+  Author: Kushal Das
+  Licence: CC BY-SA 4.0
+
+malala-yousafzai.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Malala_Yousafzai_2023_portrait_2x3.jpg
+  Author: flowcomm
+  Licence: CC BY 2.0
+
+oprah-winfrey.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Oprah_Winfrey_2016.jpg
+  Author: US Embassy South Africa
+  Licence: Public domain
+
+joe-rogan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2026_Joe_Rogan_at_the_White_House_(cropped).jpg
+  Author: The White House
+  Licence: Public domain
+
+david-attenborough.jpg
+  Source: https://commons.wikimedia.org/wiki/File:David_Attenborough_in_2025.jpg
+  Author: https://www.flickr.com/photos/ukgov/
+  Licence: OGL 3
+
+kim-kardashian.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kim_Kardashian_West_2014.jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+
+gordon-ramsay.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gordon_Ramsay_(cropped).jpg
+  Author: Dave Pullig
+  Licence: CC BY 2.0
+
+neil-degrasse-tyson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Neil_DeGrasse_Tyson_(2023).jpg
+  Author: Maryland GovPics
+  Licence: CC BY 2.0
+
+imran-khan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Imran_Khan_Adresses_the_Forum_01.jpg
+  Author: Imran Khan
+  Licence: CC BY 3.0
+
+bashar-al-assad.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bashar_al-Assad_in_May_2024_(cropped).png
+  Author: khamenei.ir
+  Licence: CC BY 4.0
+
+nicolas-maduro.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nicol%C3%A1s_Maduro_official_portrait_(cropped_2).png
+  Author: Presidency of Bolivarian Republic of Venezuela
+  Licence: Public domain
+
+jordan-peterson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jordan_Peterson_in_2018_(3x4_cropped).jpg
+  Author: Gage Skidmore from Peoria, AZ, United States of America
+  Licence: CC BY-SA 2.0
+
+peter-dutton.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Peter_Dutton-2024.jpg
+  Author: Presidential Communications Office
+  Licence: Public domain
+
+scott-morrison.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Scott_Morrison_portrait_(3x4_cropped).jpg
+  Author: Department of Prime Minister and Cabinet
+  Licence: CC BY 3.0 au
+
+malcolm-turnbull.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Malcolm_Turnbull_Portrait_(3x4_cropped).jpg
+  Author: Commonwealth of Australia
+  Licence: CC BY 3.0 au
+
+kevin-rudd.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kevin_Michael_Rudd_HOM_2023_Portrait_(3x4_cropped).jpg
+  Author: Department of Foreign Affairs and Trade
+  Licence: CC BY 4.0
+
+julia-gillard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Julia-gillard-official-portrait-pmc.jpg
+  Author: © Commonwealth of Australia (National Archives of Australia) 2019.
+  Licence: CC BY 3.0 au
+
+tony-abbott.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prime_Minister_Tony_Abbott_official_portrait.jpg
+  Author: Commonwealth of Australia
+  Licence: CC BY 3.0 au
+
+pauline-hanson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pauline_Hanson_2017_05_(3x4_cropped).jpg
+  Author: jfish92
+  Licence: CC0
+
+penny-wong.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Penny_Wong_DFAT_official_(cropped).jpg
+  Author: Department of Foreign Affairs and Trade
+  Licence: CC BY 4.0
+
+jim-chalmers.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jim_Chalmers_at_the_2026_Australian_Labor_Party_National_Conference_(028A9057).jpg
+  Author: Yu Chu Chin
+  Licence: CC BY-SA 4.0
+
+angus-taylor.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Angus_Taylor_2018_portrait_black.jpg
+  Author: Department of Climate Change, Energy, the Environment and Water. 2022. https://www.dcceew.
+  Licence: CC BY 4.0
+
+chris-minns.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chris_Minns_2023_portrait_cropped.jpg
+  Author: © State of New South Wales. For current information go to www.nsw.gov.au.
+  Licence: CC BY 4.0
+
+gladys-berejiklian.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gladys_Berejiklian_NSW_(cropped).jpg
+  Author: Photographer unknown, posted on an official Government website.
+  Licence: CC BY 4.0
+
+daniel-andrews.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Daniel_Andrews_2018.jpg
+  Author: Bentleigh electorate
+  Licence: CC BY-SA 4.0
+
+barnaby-joyce.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Barnaby_Joyce_portrait.jpg
+  Author: Australian Government
+  Licence: CC BY 3.0 au
+
+clive-palmer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Clive_Palmer_Press_Conference_19AUG2015.jpg
+  Author: Jwmcdonald81
+  Licence: CC BY-SA 4.0
+
+andrew-forrest.jpg
+  Source: https://commons.wikimedia.org/wiki/File:NYCW_2025_-_Andrew_Forrest_02_(cropped).jpg
+  Author: Xuthoria
+  Licence: CC BY-SA 4.0
+
+mike-cannon-brookes.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mike_Cannon-Brookes_Australian_businessman.jpg
+  Author: Atlassian
+  Licence: CC0
+
+melanie-perkins.jpg
+  Source: https://commons.wikimedia.org/wiki/File:M_Perkins.jpg
+  Author: Melanie Perkins
+  Licence: CC BY-SA 2.0
+
+rupert-murdoch.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rupert_Murdoch_-_Flickr_-_Eva_Rinaldi_Celebrity_and_Live_Music_Photographer.jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+
+kyle-sandilands.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kyle_Sandilands_2014_(cropped).jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+
+clover-moore.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Clover_Moore_speaks_at_the_media_(cropped).jpg
+  Author: Hpeterswald
+  Licence: CC BY-SA 4.0
+
+dick-smith.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dick_Smith_in_May_2013.jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0

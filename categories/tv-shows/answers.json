@@ -1,0 +1,29 @@
+{
+  "name": "TV Shows",
+  "images": [
+    {"file":"big-bang-theory.jpg","answer":"The Big Bang Theory","aliases":["Big Bang Theory","TBBT"],"description":"Kunal Nayyar, Jim Parsons, Kaley Cuoco, Simon Helberg, Johnny Galecki"},
+    {"file":"how-i-met-your-mother.jpg","answer":"How I Met Your Mother","aliases":["HIMYM"],"description":"Neil Patrick Harris, Cobie Smulders, Jason Segel, Alyson Hannigan, Josh Radnor"},
+    {"file":"friends.jpg","answer":"Friends","description":"The Central Perk couch (Warner Bros studio tour)"},
+    {"file":"the-office.jpg","answer":"The Office","aliases":["Office"],"description":"US cast on the Dunder Mifflin set, 2009"},
+    {"file":"stranger-things.jpg","answer":"Stranger Things","description":"Cast at San Diego Comic-Con 2017"},
+    {"file":"game-of-thrones.jpg","answer":"Game of Thrones","aliases":["GOT"],"description":"Peter Dinklage, Emilia Clarke, Kit Harington, John Bradley, George R. R. Martin"},
+    {"file":"breaking-bad.jpg","answer":"Breaking Bad","description":"Bryan Cranston, Anna Gunn, Dean Norris, Betsy Brandt, Aaron Paul, RJ Mitte, Jonathan Banks"},
+    {"file":"modern-family.jpg","answer":"Modern Family","description":"Cast at the 2012 Golden Globes"},
+    {"file":"the-walking-dead.jpg","answer":"The Walking Dead","aliases":["Walking Dead","TWD"],"description":"Cast at German Comic Con"},
+    {"file":"doctor-who.jpg","answer":"Doctor Who","aliases":["Dr Who"],"description":"The TARDIS console room (Doctor Who Experience, Cardiff)"},
+    {"file":"sherlock.jpg","answer":"Sherlock","description":"Benedict Cumberbatch and Martin Freeman"},
+    {"file":"supernatural.jpg","answer":"Supernatural","description":"Misha Collins, Jensen Ackles, Jared Padalecki"},
+    {"file":"parks-and-recreation.jpg","answer":"Parks and Recreation","aliases":["Parks and Rec"],"description":"Amy Poehler, Adam Scott, Retta, Jim O'Heir and cast"},
+    {"file":"seinfeld.jpg","answer":"Seinfeld","description":"Jason Alexander, Jerry Seinfeld, Julia Louis-Dreyfus, Michael Richards"},
+    {"file":"wednesday.jpg","answer":"Wednesday","description":"Cosplay of Wednesday Addams (Netflix version)"},
+    {"file":"community.jpg","answer":"Community","description":"Gillian Jacobs, Danny Pudi, Yvette Nicole Brown, Joel McHale, Alison Brie"},
+    {"file":"the-vampire-diaries.jpg","answer":"The Vampire Diaries","aliases":["Vampire Diaries"],"description":"Paul Wesley, Nina Dobrev, Ian Somerhalder"},
+    {"file":"ted-lasso.jpg","answer":"Ted Lasso","description":"Jason Sudeikis, Hannah Waddingham, Brett Goldstein, Toheeb Jimoh, Brendan Hunt"},
+    {"file":"the-last-of-us.jpg","answer":"The Last of Us","aliases":["Last of Us"],"description":"Cosplay of a Clicker, the fungus-infected zombie"},
+    {"file":"squid-game.jpg","answer":"Squid Game","description":"Cosplay of the masked guards"},
+    {"file":"the-mandalorian.jpg","answer":"The Mandalorian","aliases":["Mandalorian"],"description":"Cosplay of Din Djarin carrying Grogu (Baby Yoda)"},
+    {"file":"peaky-blinders.jpg","answer":"Peaky Blinders","description":"Photoshoot in Peaky Blinders style: flat cap, suit, whisky"},
+    {"file":"bluey.jpg","answer":"Bluey","description":"Street mural of Bluey and Bingo"},
+    {"file":"downton-abbey.jpg","answer":"Downton Abbey","description":"Highclere Castle, where Downton Abbey is filmed"}
+  ]
+}

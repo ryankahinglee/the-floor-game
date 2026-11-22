@@ -200,3 +200,53 @@ busiate.jpg
   Source: https://commons.wikimedia.org/wiki/File:Busiate.jpg
   Author: Popo le Chien
   Licence: CC0
+
+ziti.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ziti.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+culurgiones.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Culurgiones_Ogliastra.jpg
+  Author: Marica Massaro
+  Licence: CC BY-SA 4.0
+
+creste-di-gallo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Creste_di_gallo.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+fileja.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fileja.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+conchiglioni.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Conchiglioni_bulk.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+agnolotti.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Agnolotti_Kappa.jpg
+  Author: さえぼー
+  Licence: CC0
+
+cavatelli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cavatelli.jpg
+  Author: Luigi Scorcia
+  Licence: CC BY 2.0
+
+fiori.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fiori2.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+lorighittas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lorighittas_sardi_(36953461766).jpg
+  Author: fugzu from Pistoia, Italia
+  Licence: CC BY 2.0
+
+foglie-d-ulivo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Foglie_ulivo.jpg
+  Author: Popo le Chien
+  Licence: CC BY-SA 4.0

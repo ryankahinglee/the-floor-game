@@ -1,0 +1,263 @@
+Pictures found through Openverse (https://openverse.org); originals hosted on Flickr, Wikimedia Commons and Sketchfab.
+Free-licence photos, fan uploads and fan-made models of mobile games. Resized to max 1280x960; crossy-road.jpg and piano-tiles.jpg cropped to hide the game name.
+The games themselves are trademarks of their developers.
+
+brawl-stars.jpg
+  Source: https://sketchfab.com/3d-models/b4e341ca7f1947b9bd1dbca20ae090d7
+  Author: FDU_oficial
+  Licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+clash-royale.jpg
+  Source: https://www.flickr.com/photos/15838163@N00/26548887645
+  Author: iloveui
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+clash-of-clans.jpg
+  Source: https://www.flickr.com/photos/85217387@N04/8638068371
+  Author: Themeplus
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+temple-run.jpg
+  Source: https://www.flickr.com/photos/85217387@N04/8748439457
+  Author: Themeplus
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+subway-surfers.jpg
+  Source: https://www.flickr.com/photos/144464188@N06/32396149472
+  Author: LuciLord
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+candy-crush-saga.jpg
+  Source: https://www.flickr.com/photos/85217387@N04/9102262065
+  Author: Themeplus
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+cut-the-rope.jpg
+  Source: https://www.flickr.com/photos/85217387@N04/8671957023
+  Author: Themeplus
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+flappy-bird.jpg
+  Source: https://www.flickr.com/photos/8967015@N02/12450238643
+  Author: pauluswilliamk
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+pokemon-go.jpg
+  Source: https://www.flickr.com/photos/148525563@N02/30503663936
+  Author: Paintimpact
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+doodle-jump.jpg
+  Source: https://www.flickr.com/photos/35034346886@N01/3891847050
+  Author: Buster Benson
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+geometry-dash.jpg
+  Source: https://www.flickr.com/photos/144464188@N06/32169522760
+  Author: LuciLord
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+crossy-road.jpg
+  Source: https://www.flickr.com/photos/12505664@N00/15347078763
+  Author: illustir
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+pou.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=180531654
+  Author: Paul Salameh
+  Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+talking-tom.jpg
+  Source: https://www.flickr.com/photos/73014397@N06/6937884899
+  Author: HostingCoupons
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+monument-valley.jpg
+  Source: https://www.flickr.com/photos/89918055@N05/51959091029
+  Author: JOHN K THORNE
+  Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/)
+
+hill-climb-racing.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=126047085
+  Author: DinisBojkov
+  Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+free-fire.jpg
+  Source: https://www.flickr.com/photos/192665570@N05/51909975891
+  Author: talhasheik697
+  Licence: CC PDM 1.0 (https://creativecommons.org/publicdomain/mark/1.0/)
+
+piano-tiles.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=34479332
+  Author: bradleybulger96
+  Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+slither-io.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=148799237
+  Author: ZonyNuceal
+  Licence: CC0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en/)
+
+agar-io.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=94138014
+  Author: Sajua Wanu
+  Licence: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+altos-adventure.jpg
+  Source: https://commons.wikimedia.org/w/index.php?curid=39206050
+  Author: Ryan Cash of Snowman
+  Licence: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+boom-beach.jpg
+  Source: https://www.flickr.com/photos/144464188@N06/31705090434
+  Author: LuciLord
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+hungry-shark.jpg
+  Source: https://www.flickr.com/photos/161227653@N02/29591547398
+  Author: instacodez
+  Licence: CC PDM 1.0 (https://creativecommons.org/publicdomain/mark/1.0/)
+
+gardenscapes.jpg
+  Source: https://www.flickr.com/photos/164761514@N04/42043148774
+  Author: ReinoGame
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+infinity-blade.jpg
+  Source: https://www.flickr.com/photos/31442459@N00/5612343328
+  Author: Wesley Fryer
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+words-with-friends.jpg
+  Source: https://www.flickr.com/photos/22221172@N00/5344839862
+  Author: scriptingnews
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+call-of-duty-mobile.jpg
+  Source: https://www.flickr.com/photos/22974618@N00/49119159451
+  Author: Sergey Galyonkin
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+zombie-tsunami.jpg
+  Source: https://www.flickr.com/photos/144464188@N06/31705103354
+  Author: LuciLord
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+among-us.jpg
+  Source: https://www.flickr.com/photos/189513740@N06/50667354697
+  Author: My Heart Teddy
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+dumb-ways-to-die.jpg
+  Source: https://www.flickr.com/photos/28713775@N02/8205865154
+  Author: Newtown grafitti
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+roblox.jpg
+  Source: https://www.flickr.com/photos/192486546@N08/51687631879
+  Author: AndLikeThings
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+neko-atsume.jpg
+  Source: https://www.flickr.com/photos/75001512@N00/25960348141
+  Author: Joelk75
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+tiny-tower.jpg
+  Source: https://www.flickr.com/photos/128433217@N03/16247316901
+  Author: lanceeaton01
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+minion-rush.jpg
+  Source: https://www.flickr.com/photos/98668825@N00/9543922084
+  Author: Sebástian Freire
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+flight-control.jpg
+  Source: https://www.flickr.com/photos/33029569@N00/3396040150
+  Author: renatomitra
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+pocket-god.jpg
+  Source: https://www.flickr.com/photos/34353636@N00/3933414506
+  Author: liewcf
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+paper-toss.jpg
+  Source: https://www.flickr.com/photos/96437548@N00/3818196404
+  Author: Titanas
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+canabalt.jpg
+  Source: https://www.flickr.com/photos/85318305@N00/4093064185
+  Author: whatleydude
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+peggle.jpg
+  Source: https://www.flickr.com/photos/25925793@N00/14387045761
+  Author: fifikins
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+ruzzle.jpg
+  Source: https://www.flickr.com/photos/129729360@N02/15921188882
+  Author: App review team china
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+super-hexagon.jpg
+  Source: https://www.flickr.com/photos/43188309@N00/10807368475
+  Author: janetmck
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+fieldrunners.jpg
+  Source: https://www.flickr.com/photos/21733281@N00/3204809801
+  Author: june29
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+fruit-ninja.jpg
+  Source: https://www.flickr.com/photos/9411449@N05/7171794910
+  Author: Rosenfeld Media
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+dragonvale.jpg
+  Source: https://www.flickr.com/photos/164761514@N04/43981037131
+  Author: ReinoGame
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+simpsons-tapped-out.jpg
+  Source: https://www.flickr.com/photos/79505158@N00/8187298894
+  Author: Kelly McCarthy
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+galcon.jpg
+  Source: https://www.flickr.com/photos/29027061@N02/3169711241
+  Author: rob.sandbach
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+zombieville-usa.jpg
+  Source: https://www.flickr.com/photos/17213139@N00/4328629067
+  Author: IN 30 MINUTES Guides
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+osmos.jpg
+  Source: https://www.flickr.com/photos/45979287@N00/3995621227
+  Author: Jake Hume
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+rolando.jpg
+  Source: https://www.flickr.com/photos/12975163@N00/3136183349
+  Author: Joris-Jan
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+real-racing-3.jpg
+  Source: https://www.flickr.com/photos/65265630@N03/26829377435
+  Author: Janitors
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+game-dev-story.jpg
+  Source: https://www.flickr.com/photos/10899234@N00/8286723117
+  Author: ainudil
+  Licence: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+tap-tap-revenge.jpg
+  Source: https://www.flickr.com/photos/22249536@N08/3541655746
+  Author: Ana Mariel
+  Licence: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
