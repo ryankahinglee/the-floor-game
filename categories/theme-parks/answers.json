@@ -1,9 +1,0 @@
-{
-  "name": "Theme Parks",
-  "images": [
-    { "file": "tokyo-disneyland.svg",        "answer": "Tokyo Disneyland", "aliases": ["Disneyland Tokyo"] },
-    { "file": "universal-studios-japan.svg", "answer": "Universal Studios Japan", "aliases": ["USJ"] },
-    { "file": "ferrari-world.svg",           "answer": "Ferrari World" },
-    { "file": "lotte-world.svg",             "answer": "Lotte World" }
-  ]
-}

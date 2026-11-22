@@ -13,7 +13,7 @@
     {"file":"fortian-10.jpg","answer":"Michael Smith"},
     {"file":"fortian-11.jpg","answer":"Lina"},
     {"file":"fortian-12.jpg","answer":"Kayla"},
-    {"file":"fortian-13.jpg","answer":"Sasha and Dominic"},
+    {"file":"fortian-13.jpg","answer":"Sasha and Dominic","aliases":["Dominic and Sasha"],"description":"Both names needed – one name alone is not correct"},
     {"file":"fortian-14.jpg","answer":"Nicholas"},
     {"file":"fortian-15.jpg","answer":"Milla Holt"},
     {"file":"fortian-16.jpg","answer":"Sabine"},

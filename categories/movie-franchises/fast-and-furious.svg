@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760">
-  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#18243a"/><stop offset="1" stop-color="#354b68"/></linearGradient></defs>
-  <rect width="1200" height="760" rx="36" fill="url(#g)"/>
-  <circle cx="600" cy="300" r="145" fill="#ffffff" opacity=".10"/>
-  <text x="600" y="350" text-anchor="middle" font-size="170">🏎️</text>
-  <text x="600" y="555" text-anchor="middle" font-family="Arial,sans-serif" font-size="42" font-weight="700" fill="#fff">ADD YOUR IMAGE HERE</text>
-  <text x="600" y="615" text-anchor="middle" font-family="Arial,sans-serif" font-size="27" fill="#d7e1ef">Replace with a Fast &amp; Furious image</text>
-</svg>

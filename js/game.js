@@ -16,6 +16,8 @@ const state = {
   remaining: [45, 45],     // seconds left for each player (can include fractions)
   startingSeconds: 45,
   activePlayer: 0,
+  starter: 0,              // who goes first (picked in the "Who's starting?" popup)
+  countdownId: null,       // the timer used by the 3, 2, 1 countdown
   running: false,
   paused: false,
   finished: false,
@@ -75,18 +77,51 @@ function buildCategoryTiles() {
     count.textContent = `${questions.length} images`;
 
     tile.append(title, count);
-    tile.addEventListener("click", () => startDuel(name));
+    tile.addEventListener("click", () => openStarterPicker(name));
     grid.appendChild(tile);
   });
 }
 
-function startDuel(categoryName) {
+// ---------- "Who's starting?" popup ----------
+
+function openStarterPicker(categoryName) {
   const sourceQuestions = state.categories[categoryName] || [];
   if (sourceQuestions.length < 2) {
     $("loadStatus").textContent = `"${categoryName}" needs at least two images.`;
     return;
   }
   state.categoryName = categoryName;
+  $("starterCategory").textContent = categoryName.toUpperCase();
+  chooseStarter(state.starter);
+  $("starterModal").classList.remove("hidden");
+  document.querySelector(".starter-choice.selected").focus();
+}
+
+function isStarterPickerOpen() {
+  return !$("starterModal").classList.contains("hidden");
+}
+
+// Highlight the chosen player (0 = Player 1, 1 = Player 2).
+function chooseStarter(player) {
+  state.starter = player;
+  document.querySelectorAll(".starter-choice").forEach(button => {
+    button.classList.toggle("selected", Number(button.dataset.player) === player);
+  });
+}
+
+function closeStarterPicker() {
+  $("starterModal").classList.add("hidden");
+}
+
+function confirmStarter() {
+  Sound.unlock(); // browsers only allow sound after a click/keypress
+  closeStarterPicker();
+  startDuel();
+}
+
+// ---------- Starting the duel ----------
+
+function startDuel() {
   state.startingSeconds = Number($("durationSelect").value);
   state.round = Number($("roundSelect").value);
   $("homeScreen").classList.add("hidden");
@@ -96,24 +131,72 @@ function startDuel(categoryName) {
   resetDuel("Host: confirm the answer, then press Correct or Skip.");
 }
 
-// Puts both clocks back to full and starts the duel from image #1.
+// Puts both clocks back to full, sets up image #1, then runs the 3, 2, 1 countdown.
+// The clock only starts once the countdown finishes.
 // The image order is fixed for each category + round (see orderForRound in js/categories.js),
 // so it matches the numbered list on the host's answer sheet.
 function resetDuel(message) {
   stopClock();
-  state.questions = orderForRound(state.categoryName, state.categories[state.categoryName], state.round);
+  stopCountdown();
+  Sound.stopMusic();
+  state.questions =orderForRound(state.categoryName, state.categories[state.categoryName], state.round);
   state.questionIndex = 0;
   state.remaining = [state.startingSeconds, state.startingSeconds];
-  state.activePlayer = 0;
-  state.running = true;
+  state.activePlayer = state.starter;
+  state.running = false; // stays false during the countdown, so Correct/Skip/Pause do nothing yet
   state.paused = false;
   state.finished = false;
   state.phase = "playing";
   hideAnswer();
   $("pauseBtn").textContent = "Ⅱ Pause";
-  $("hostMessage").textContent = message;
+  $("hostMessage").textContent = "Get ready…";
   render();
-  startClock();
+  runCountdown(() => {
+    state.running = true;
+    $("hostMessage").textContent = message;
+    startClock();
+    Sound.startMusic();
+  });
+}
+
+// ---------- 3, 2, 1, START! ----------
+
+// Shows 3 → 2 → 1 → START! (one second each), then calls onDone.
+function runCountdown(onDone) {
+  const steps = ["3", "2", "1", "START!"];
+  let step = 0;
+  const text = $("countdownText");
+  const starterLabel = $("countdownStarter");
+  starterLabel.textContent = `${state.players[state.starter]} starts`;
+  starterLabel.style.color = state.starter === 0 ? "var(--p1)" : "var(--p2)";
+  $("countdown").classList.remove("hidden");
+
+  function showStep() {
+    if (step >= steps.length) {
+      stopCountdown();
+      onDone();
+      return;
+    }
+    text.textContent = steps[step];
+    const isGo = step === steps.length - 1;
+    text.classList.toggle("go", isGo);
+    if (isGo) Sound.countdownGo(); else Sound.countdownBeep();
+    // Restart the "pop" animation for each number.
+    text.classList.remove("pop");
+    void text.offsetWidth;
+    text.classList.add("pop");
+    step++;
+    // START! stays up a little shorter than the numbers.
+    state.countdownId = setTimeout(showStep, step === steps.length ? 700 : 1000);
+  }
+  showStep();
+}
+
+// Cancels the countdown (e.g. if the host presses Home) and hides it.
+function stopCountdown() {
+  if (state.countdownId) clearTimeout(state.countdownId);
+  state.countdownId = null;
+  $("countdown").classList.add("hidden");
 }
 
 function render() {
@@ -196,12 +279,14 @@ function canJudge() {
 
 function markCorrect() {
   if (!canJudge()) return;
+  Sound.correct();
   $("hostMessage").textContent = `Correct! Turn passes to ${state.players[1 - state.activePlayer]} next.`;
   showAnswer("correct", CORRECT_REVEAL_SECONDS);
 }
 
 function skipQuestion() {
   if (!canJudge()) return;
+  Sound.wrong();
   $("hostMessage").textContent = `Skipped. ${state.players[state.activePlayer]}'s clock keeps running.`;
   showAnswer("skip", SKIP_REVEAL_SECONDS);
 }
@@ -248,11 +333,19 @@ function togglePause() {
   state.paused = !state.paused;
   $("pauseBtn").textContent = state.paused ? "▶ Resume" : "Ⅱ Pause";
   $("hostMessage").textContent = state.paused ? "Game paused. Both timers are stopped." : "Game resumed.";
-  if (state.paused) stopClock(); else startClock();
+  if (state.paused) {
+    stopClock();
+    Sound.stopMusic();
+  } else {
+    startClock();
+    Sound.startMusic();
+  }
 }
 
 function finishDuel(winnerIndex) {
   stopClock();
+  Sound.stopMusic();
+  Sound.timeUp();
   state.finished = true;
   state.running = false;
   state.phase = "playing";
@@ -278,6 +371,9 @@ function revealAnswer() {
 
 function showHome() {
   stopClock();
+  stopCountdown();
+  Sound.stopMusic();
+  closeStarterPicker();
   state.running = false;
   state.finished = false;
   state.phase = "playing";
@@ -301,13 +397,52 @@ $("pauseBtn").addEventListener("click", togglePause);
 $("restartBtn").addEventListener("click", restartDuel);
 $("homeBtn").addEventListener("click", showHome);
 $("revealBtn").addEventListener("click", revealAnswer);
-$("againBtn").addEventListener("click", restartDuel);
+// "Play again" asks who's starting again (same category).
+$("againBtn").addEventListener("click", () => openStarterPicker(state.categoryName));
 $("resultHomeBtn").addEventListener("click", showHome);
 $("fullscreenBtn").addEventListener("click", toggleFullscreen);
 $("gameFullscreenBtn").addEventListener("click", toggleFullscreen);
 
+function updateMuteButton() {
+  $("muteBtn").innerHTML = Sound.isMuted() ? "🔇 Muted <kbd>M</kbd>" : "🔊 Sound <kbd>M</kbd>";
+}
+function toggleMute() {
+  Sound.toggleMute();
+  updateMuteButton();
+}
+$("muteBtn").addEventListener("click", toggleMute);
+updateMuteButton();
+
+// "Who's starting?" popup buttons
+document.querySelectorAll(".starter-choice").forEach(button => {
+  button.addEventListener("click", () => chooseStarter(Number(button.dataset.player)));
+  button.addEventListener("dblclick", confirmStarter); // double-click a player to start straight away
+});
+$("starterConfirmBtn").addEventListener("click", confirmStarter);
+$("starterCancelBtn").addEventListener("click", closeStarterPicker);
+// Clicking the dark area around the popup also cancels it.
+$("starterModal").addEventListener("click", event => {
+  if (event.target === $("starterModal")) closeStarterPicker();
+});
+
 document.addEventListener("keydown", event => {
   if (event.repeat || event.target.matches("input, select, textarea")) return;
+
+  // While the popup is open, only its own keys work.
+  if (isStarterPickerOpen()) {
+    if (event.key === "Enter") {
+      event.preventDefault();
+      confirmStarter();
+    } else if (event.key === "Escape") {
+      closeStarterPicker();
+    } else if (event.key === "1" || event.key === "ArrowLeft") {
+      chooseStarter(0);
+    } else if (event.key === "2" || event.key === "ArrowRight") {
+      chooseStarter(1);
+    }
+    return;
+  }
+
   const onGameScreen = !$("gameScreen").classList.contains("hidden");
   // Game shortcuts only apply during a duel, so Enter/Space still work normally
   // on the home screen (e.g. to click a category tile with the keyboard).
@@ -321,6 +456,8 @@ document.addEventListener("keydown", event => {
     togglePause();
   } else if (event.key.toLowerCase() === "r") {
     restartDuel();
+  } else if (event.key.toLowerCase() === "m") {
+    toggleMute();
   } else if (event.key.toLowerCase() === "f") {
     toggleFullscreen();
   }

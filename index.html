@@ -76,6 +76,7 @@
           <button id="restartBtn" class="utility-button" type="button">↻ Restart <kbd>R</kbd></button>
           <button id="homeBtn" class="utility-button" type="button">⌂ Home</button>
           <button id="revealBtn" class="utility-button" type="button">Reveal</button>
+          <button id="muteBtn" class="utility-button" type="button" title="Turn sound on or off">🔊 Sound <kbd>M</kbd></button>
           <button id="gameFullscreenBtn" class="utility-button" type="button" title="Toggle full screen">⛶ <kbd>F</kbd></button>
         </div>
         <div class="host-status">
@@ -100,9 +101,32 @@
       </div>
     </section>
 
+    <!-- Popup shown after picking a category: choose who goes first. -->
+    <div id="starterModal" class="modal-backdrop hidden" role="dialog" aria-modal="true" aria-labelledby="starterTitle">
+      <div class="modal panel">
+        <div id="starterCategory" class="eyebrow">CATEGORY</div>
+        <h2 id="starterTitle">Who's starting?</h2>
+        <div class="starter-choices">
+          <button class="starter-choice player-one selected" type="button" data-player="0">Player 1 <kbd>1</kbd></button>
+          <button class="starter-choice player-two" type="button" data-player="1">Player 2 <kbd>2</kbd></button>
+        </div>
+        <div class="modal-actions">
+          <button id="starterCancelBtn" class="secondary-button" type="button">Cancel <kbd>Esc</kbd></button>
+          <button id="starterConfirmBtn" class="primary-button" type="button">Confirm <kbd>Enter</kbd></button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Big "3, 2, 1, START!" countdown that covers the screen before the duel begins. -->
+    <div id="countdown" class="countdown-overlay hidden" aria-live="assertive">
+      <span id="countdownText" class="countdown-text">3</span>
+      <span id="countdownStarter" class="countdown-starter">Player 1 starts</span>
+    </div>
+
     <footer>HOST MODE · Enter = correct · Space = skip · P = pause · R = restart</footer>
   </main>
   <script src="js/categories.js"></script>
+  <script src="js/audio.js"></script>
   <script src="js/game.js"></script>
 </body>
 </html>

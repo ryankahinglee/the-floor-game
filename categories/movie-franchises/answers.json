@@ -1,9 +1,0 @@
-{
-  "name": "Movie Franchises",
-  "images": [
-    { "file": "harry-potter.svg",     "answer": "Harry Potter", "aliases": ["Potter"] },
-    { "file": "star-wars.svg",        "answer": "Star Wars" },
-    { "file": "jurassic-park.svg",    "answer": "Jurassic Park", "aliases": ["Jurassic World"] },
-    { "file": "fast-and-furious.svg", "answer": "Fast & Furious", "aliases": ["Fast and Furious", "Furious"] }
-  ]
-}

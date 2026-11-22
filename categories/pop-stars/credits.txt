@@ -1,0 +1,327 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+taylor-swift.png
+  Source: https://commons.wikimedia.org/wiki/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png
+  Author: iHeartRadioCA
+  Licence: CC BY 3.0
+
+beyonce.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_(10_of_118)_(52946364598)_(best_crop).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+rihanna.png
+  Source: https://commons.wikimedia.org/wiki/File:Rihanna_Fenty_2018.png
+  Author: SIGMA
+  Licence: CC BY 3.0
+
+ariana-grande.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ArianaGrande-byPhilipRomano6_(crop_1).jpg
+  Author: PhilipRomano
+  Licence: CC BY-SA 4.0
+
+ed-sheeran.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ed_Sheeran_2022_(3x4_crop).jpg
+  Author: Number 10
+  Licence: CC BY 2.0
+
+billie-eilish.jpg
+  Source: https://commons.wikimedia.org/wiki/File:BillieEilishO2140725-39_-_54665577407_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+justin-bieber.jpg
+  Source: https://commons.wikimedia.org/wiki/File:P20260719DT-1213_President_Donald_J._Trump_and_First_Lady_Melania_Trump_attend_the_FIFA_World_Cup_Final_(cropped_2).jpg
+  Author: Daniel Torok
+  Licence: Public domain
+
+lady-gaga.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lady_Gaga_at_Joe_Biden%27s_inauguration_(cropped_5).jpg
+  Author: Carlos M. Vazquez II
+  Licence: CC BY 2.0
+
+bruno-mars.jpg
+  Source: https://commons.wikimedia.org/wiki/File:BrunoMars24KMagicWorldTourLive_(cropped).jpg
+  Author: slgckgc
+  Licence: CC BY 4.0
+
+katy-perry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Katy_Perry_2026_Tribeca_Film_Festival_(cropped_1).jpg
+  Author: Colleen Sturtevant
+  Licence: CC BY-SA 4.0
+
+dua-lipa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dua_Lipa-69798_(cropped).jpg
+  Author: Harald Krichel
+  Licence: CC BY-SA 4.0
+
+the-weeknd.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Weeknd_Portrait_by_Brian_Ziff.jpg
+  Author: Brian Ziff
+  Licence: CC BY-SA 4.0
+
+harry-styles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:HarryStylesWembley170623_(65_of_93)_(52982678051)_(cropped_2).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+adele.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Adele_2016.jpg
+  Author: Marc E.
+  Licence: CC BY 2.0
+
+shakira.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2023-11-16_Gala_de_los_Latin_Grammy,_03_(cropped)02.jpg
+  Author: Junta de Andalucía
+  Licence: CC BY-SA 2.0
+
+selena-gomez.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Selena_Gomez_at_the_2024_Toronto_International_Film_Festival_10_(cropped).jpg
+  Author: Frank Sun
+  Licence: CC BY-SA 4.0
+
+olivia-rodrigo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Glasto2025-546_(cropped)_2.jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+miley-cyrus.png
+  Source: https://commons.wikimedia.org/wiki/File:Miley_Cyrus_Grammy_Awards_2024_(cropped).png
+  Author: TNT Brasil
+  Licence: CC BY 3.0
+
+sabrina-carpenter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sabrina_Carpenter_-_O2_Arena_2025_-_086_(cropped_2).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+doja-cat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Doja_Cat_x_Amazon1.1_(cropped).jpg
+  Author: Nate the Director
+  Licence: CC BY-SA 3.0
+
+lizzo.png
+  Source: https://commons.wikimedia.org/wiki/File:Lizzo_September_2025.png
+  Author: MILLION DOLLAZ WORTH OF GAME
+  Licence: CC BY 3.0
+
+shawn-mendes.png
+  Source: https://commons.wikimedia.org/wiki/File:191125_Shawn_Mendes_at_the_2019_American_Music_Awards.png
+  Author: Cosmopolitan UK
+  Licence: CC BY 3.0
+
+sia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sia_(cropped_2).jpg
+  Author: Sia performing at The Parish (a music venue) during SxSW in Austin, 2006
+  Licence: CC BY-SA 2.0
+
+kylie-minogue.jpg
+  Source: https://commons.wikimedia.org/wiki/File:KylieMinogue-byPhilipRomano.jpg
+  Author: PhilipRomanoPhoto
+  Licence: CC BY 4.0
+
+troye-sivan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Troye_Sivan_-_1999_-_Primavera_Sound_Barcelona_-_2024.jpg
+  Author: PURE HONEY
+  Licence: CC BY 3.0
+
+charlie-puth.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Charlie_Puth.jpg
+  Author: Juan J. Carlos
+  Licence: CC BY-SA 4.0
+
+post-malone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Post_Malone_July_2021_(cropped).jpg
+  Author: Chrisallmeid
+  Licence: CC BY-SA 4.0
+
+sza.jpg
+  Source: https://commons.wikimedia.org/wiki/File:KendrickSZASPurs230725-19_-_54683179509_(cropped)_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+sam-smith.jpg
+  Source: https://commons.wikimedia.org/wiki/File:SamSmith-byPhilipRomano.jpg
+  Author: PhilipRomanoPhoto
+  Licence: CC BY-SA 4.0
+
+lewis-capaldi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Glasto2025-41_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+camila-cabello.jpg
+  Source: https://commons.wikimedia.org/wiki/File:27th_Latin_GRAMMY_Awards_-_Red_Carpet_0261_-_Camila_Cabello_(cropped).jpg
+  Author: Jorge Jaramillo
+  Licence: CC BY-SA 4.0
+
+demi-lovato.png
+  Source: https://commons.wikimedia.org/wiki/File:Demi_Lovato_Interview_Feb_2020.png
+  Author: Ashley Graham
+  Licence: CC BY 3.0
+
+britney-spears.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Britney_Spears_2013_(Straighten_Crop).jpg
+  Author: Glenn Francis
+  Licence: CC BY-SA 4.0
+
+madonna.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+michael-jackson.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Michael_Jackson_1983_(3x4_cropped)_(contrast).jpg
+  Author: Matthew Rolston; Distributed by Epic Records
+  Licence: Public domain
+
+elton-john.jpg
+  Source: https://commons.wikimedia.org/wiki/File:EltonDocBFILFF101024_(4_of_17)_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 2.0
+
+mariah-carey.png
+  Source: https://commons.wikimedia.org/wiki/File:Mariah_Carey_Library_of_Congress_2023_1_Cropped_3.png
+  Author: Shawn Miller
+  Licence: Public domain
+
+jennifer-lopez.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jennifer_Lopez_at_the_2025_Sundance_Film_Festival_(cropped_3).jpg
+  Author: Everwest
+  Licence: CC BY 4.0
+
+christina-aguilera.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Christina_Aguilera_2019_Disney_Legends_Awards_Ceremony_D23_EXPO_2019_(51440742748)_(cropped3).jpg
+  Author: nagi usano from Tokyo, Japan
+  Licence: CC BY-SA 2.0
+
+justin-timberlake.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Justin_Timberlake_by_Gage_Skidmore.jpg
+  Author: Gage Skidmore
+  Licence: CC BY-SA 3.0
+
+nicki-minaj.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nicki_Minaj_2025_(3x4_cropped).jpg
+  Author: Gage Skidmore from Surprise, AZ, United States of America
+  Licence: CC BY-SA 4.0
+
+drake.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Drake_at_The_Carter_Effect_2017_(36818935200)_(cropped).jpg
+  Author: GabboT
+  Licence: CC BY-SA 2.0
+
+coldplay.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ColdplayWembley120925_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+maroon-5.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Maroon_5_Current_Lineup_Collage.jpg
+  Author: Justin Higuchi, Lunchbox LP, Eva Rinaldi, flickr./com/photos/amanda_munoz
+  Licence: CC0
+
+imagine-dragons.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Imagine_Dragons_-_Uncasville_CT_-_November_2017_-_2.jpg
+  Author: Danazar
+  Licence: CC BY-SA 4.0
+
+one-direction.jpg
+  Source: https://commons.wikimedia.org/wiki/File:One_Direction_Sydney_4.jpg
+  Author: Eva Rinaldi
+  Licence: CC BY-SA 2.0
+
+jonas-brothers.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jonas_Brothers_4th_of_July_Show_Taping_in_Cleveland_(51277060141).jpg
+  Author: Erik Drost
+  Licence: CC BY 2.0
+
+abba.png
+  Source: https://commons.wikimedia.org/wiki/File:ABBA_-_TopPop_1974_5.png
+  Author: AVRO
+  Licence: CC BY-SA 3.0 nl
+
+5-seconds-of-summer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:5sos-NZ4A4323.jpg
+  Author: Alex Goykhman
+  Licence: CC BY-SA 4.0
+
+little-mix.png
+  Source: https://commons.wikimedia.org/wiki/File:Little_Mix_at_the_Confetti_Tour_in_Leeds_(2).png
+  Author: Katlyn Amelia
+  Licence: CC BY-SA 2.0
+
+spice-girls.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Spice_Girls_in_Toronto,_Ontario.jpg
+  Author: Ezekiel.
+  Licence: Public domain
+
+backstreet-boys.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Backstreet_Boys_2019_by_Glenn_Francis.jpg
+  Author: Toglenn
+  Licence: CC BY-SA 4.0
+
+chappell-roan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ChappellRoanRockES200825-198_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+benson-boone.png
+  Source: https://commons.wikimedia.org/wiki/File:Benson_Boone_Press_Copy_Warner_Records_(cropped).png
+  Author: Warner Records
+  Licence: CC BY-SA 4.0
+
+tate-mcrae.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tate_McRae_in_Manila_01_(cropped)_2.jpg
+  Author: Patrick Cristiano
+  Licence: CC BY 4.0
+
+lorde.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lorde_Glasto2025-9_(cropped).jpg
+  Author: Raph_PH
+  Licence: CC BY 4.0
+
+ellie-goulding.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%D0%A3%D1%87%D0%B0%D1%81%D1%82%D1%8C_%D0%9F%D1%80%D0%B5%D0%B7%D0%B8%D0%B4%D0%B5%D0%BD%D1%82%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8_%D1%83_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%BC%D1%83_%D0%A1%D0%B0%D0%BC%D1%96%D1%82%D1%96_%D0%BF%D0%B5%D1%80%D1%88%D0%B8%D1%85_%D0%BB%D0%B5%D0%B4%D1%96_%D1%82%D0%B0_%D0%B4%D0%B6%D0%B5%D0%BD%D1%82%D0%BB%D1%8C%D0%BC%D0%B5%D0%BD%D1%96%D0%B2_95_(cropped)_(cropped).jpg
+  Author: PRESIDENT OF UKRAINE VOLODYMYR ZELENSKYY Official website
+  Licence: CC BY 4.0
+
+jessie-j.jpg
+  Source: https://commons.wikimedia.org/wiki/File:WEHO2022_(52125746986)_(cropped).jpg
+  Author: DVSROSS
+  Licence: CC BY 2.0
+
+zayn-malik.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zayn_Wiki_(cropped).jpg
+  Author: First Access Entertainment
+  Licence: CC BY-SA 3.0
+
+niall-horan.png
+  Source: https://commons.wikimedia.org/wiki/File:Niall_Horan_on_iHeartRadio_Canada_in_2023_(1)_(cropped).png
+  Author: iHeartRadioCA
+  Licence: CC BY 3.0
+
+tones-and-i.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tones_and_I_-_Southside_Festival_2022_-_IMG_3968_-_1.jpg
+  Author: Mr. Rossi
+  Licence: CC BY-SA 4.0
+
+vance-joy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vance_Joy_By_Daniel_%C3%85hs_Karlsson.jpg
+  Author: Daniel Åhs Karlsson
+  Licence: CC BY-SA 3.0
+
+delta-goodrem.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ESC_2026_Delta_Goodrem_014_(cropped).jpg
+  Author: René Pudschedl
+  Licence: CC BY-SA 4.0
+
+prince.png
+  Source: https://commons.wikimedia.org/wiki/File:Prince_promo_picture_(1988;_cropped_and_retouched).png
+  Author: Unknown authorUnknown author, based on File:Prince promo picture (1988; cropped).png
+  Licence: Public domain
+
+whitney-houston.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Whitney_Houston_(cropped3).JPEG
+  Author: PH2 Mark Kettenhofen
+  Licence: Public domain

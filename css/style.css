@@ -191,3 +191,29 @@ body:has(#gameScreen:not(.hidden)) main > footer { display: none; }
 .answer-row-thumb { width: 52px; height: 40px; object-fit: cover; border-radius: 6px; background: #e9edf2; }
 .answer-row.current { background: #22324a; border-radius: 10px; box-shadow: inset 3px 0 0 var(--accent); }
 .answer-row.missing .answer-row-thumb { outline: 2px solid var(--red); }
+
+/* ---------- "Who's starting?" popup ---------- */
+.modal-backdrop { position: fixed; inset: 0; z-index: 50; display: grid; place-items: center; padding: 16px; background: rgba(5, 9, 16, .75); backdrop-filter: blur(4px); }
+.modal { width: min(520px, 100%); text-align: center; animation: reveal-in .2s ease-out; }
+.starter-choices { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin: 24px 0; }
+.starter-choice {
+  --pc: var(--p1);
+  padding: 26px 12px; border-radius: 14px; cursor: pointer;
+  border: 2px solid var(--line); background: var(--panel); color: var(--pc);
+  font: 700 22px 'Space Grotesk', Arial, sans-serif;
+  transition: border-color .15s, background .15s, transform .15s;
+}
+.starter-choice.player-two { --pc: var(--p2); }
+.starter-choice.selected { border-color: var(--pc); background: color-mix(in srgb, var(--pc) 18%, var(--panel)); transform: scale(1.03); }
+.starter-choice kbd, .modal-actions kbd { display: block; margin-top: 6px; font: 700 10px 'DM Sans', Arial, sans-serif; opacity: .6; }
+.modal-actions { display: flex; justify-content: center; gap: 12px; }
+.modal-actions button { flex: 1; }
+.modal-actions kbd { display: inline; margin: 0 0 0 8px; }
+
+/* ---------- 3, 2, 1, START! countdown ---------- */
+.countdown-overlay { position: fixed; inset: 0; z-index: 40; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 2vh; background: rgba(11, 18, 32, .97); }
+.countdown-text { font: 700 clamp(120px, 28vw, 380px) 'Space Grotesk', Arial, sans-serif; line-height: 1; color: var(--accent); }
+.countdown-text.go { color: var(--green); font-size: clamp(80px, 16vw, 240px); }
+.countdown-text.pop { animation: countdown-pop .9s ease-out; }
+.countdown-starter { font: 700 clamp(18px, 2.5vw, 44px) 'Space Grotesk', Arial, sans-serif; letter-spacing: .08em; text-transform: uppercase; }
+@keyframes countdown-pop { from { opacity: 0; transform: scale(1.6); } 30% { opacity: 1; transform: scale(1); } to { opacity: .85; transform: scale(.95); } }
