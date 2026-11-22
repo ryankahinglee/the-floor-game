@@ -1,0 +1,202 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+spaghetti.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Spaghettoni.jpg
+  Author: Nnaluci
+  Licence: CC BY-SA 3.0
+
+penne.png
+  Source: https://commons.wikimedia.org/wiki/File:Pennelisce_closeup.png
+  Author: Popo le Chien
+  Licence: CC0
+
+fusilli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bunte_Nudeln_20200117.jpg
+  Author: PantheraLeo1359531
+  Licence: CC BY-SA 4.0
+
+farfalle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Farfalle_Pasta.JPG
+  Author: Liveon001 © Travis K. Witt
+  Licence: CC BY-SA 3.0
+
+rigatoni.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rigatoni.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+macaroni.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Macaroni2.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+lasagne.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lasagne_-_stonesoup.jpg
+  Author: jules / stonesoup
+  Licence: CC BY 2.0
+
+ravioli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Flickr_-_cyclonebill_-_Ravioli_med_skinke_og_asparges_i_mascarponecreme.jpg
+  Author: cyclonebill
+  Licence: CC BY-SA 2.0
+
+tortellini.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tortellini_Bolognesi.jpg
+  Author: Angelo.Muratore
+  Licence: CC BY-SA 4.0
+
+linguine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Linguine.jpg
+  Author: Sebastian Zurkuhl (= Circle357)
+  Licence: CC BY-SA 2.0 de
+
+fettuccine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fettucine1.JPG
+  Author: LPLT
+  Licence: CC BY-SA 4.0
+
+pappardelle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pappardelle.jpg
+  Author: Popo le Chien
+  Licence: CC BY-SA 3.0
+
+orecchiette.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Orecchiette_carbonara.jpg
+  Author: Foodista
+  Licence: CC BY 2.0
+
+conchiglie.png
+  Source: https://commons.wikimedia.org/wiki/File:Conchiglie_rigate.png
+  Author: Popo le Chien
+  Licence: CC0
+
+gnocchi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gnocchi_di_ricotta_burro_e_salvia.jpg
+  Author: Paoletta S.
+  Licence: CC BY 2.0
+
+orzo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Orzo.jpg
+  Author: Fazal Majid
+  Licence: Public domain
+
+bucatini.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bucatini.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+cannelloni.png
+  Source: https://commons.wikimedia.org/wiki/File:Cannelloni2.png
+  Author: Popo le Chien
+  Licence: CC0
+
+cavatappi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cellentani2.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+ditalini.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ditalini-230.jpg
+  Author: Spamfeeded
+  Licence: CC BY-SA 3.0
+
+gemelli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gemelli_crop.jpg
+  Author: Fazal Majid, cropped by Luigi Chiesa
+  Licence: Public domain
+
+campanelle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gigli.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+radiatori.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Radiatori.jpg
+  Author: Popo le Chien
+  Licence: CC BY-SA 4.0
+
+rotelle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rotelle2.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+paccheri.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paccheri3.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+capellini.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Capelli_angelo_front.jpg
+  Author: Popo le Chien
+  Licence: CC BY-SA 4.0
+
+strozzapreti.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Strozzapreti_bulk.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+trofie.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Trofie_pasta_macro.jpg
+  Author: Tom dl
+  Licence: CC BY-SA 3.0
+
+casarecce.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Casarecce2.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+mafaldine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Reginette.jpg
+  Author: Popo le Chien
+  Licence: CC0
+
+stelline.jpg
+  Source: https://commons.wikimedia.org/wiki/File:It._pasta_(stelline,_pl._gwiazdki).jpg
+  Author: MOs810
+  Licence: CC BY-SA 3.0
+
+fregola.jpg
+  Source: https://commons.wikimedia.org/wiki/File:UncookedFregula.jpg
+  Author: Emily Parkhurst
+  Licence: CC BY-SA 2.0
+
+malloreddus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sardo_Cucina,_Fitzrovia,_London_(5147126888).jpg
+  Author: Ewan Munro from London, UK
+  Licence: CC BY-SA 2.0
+
+garganelli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Garganelli_(10348149363).jpg
+  Author: Jameson Fink from New York, USA
+  Licence: CC BY 2.0
+
+pici.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pici_con_albume.jpeg
+  Author: fugzu from Pistoia, Italia
+  Licence: CC BY 2.0
+
+anelli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Uncooked_anellini_pasta.jpg
+  Author: Topquark22
+  Licence: Attribution
+
+alphabet-pasta.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AlphabetPasta.jpg
+  Author: Pierre Lindenbaum
+  Licence: CC BY-SA 3.0
+
+corzetti.png
+  Source: https://commons.wikimedia.org/wiki/File:Croxetti.png
+  Author: Popo le Chien
+  Licence: CC0
+
+lanterne.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lanterne.jpg
+  Author: Fazal Majid
+  Licence: Public domain
+
+busiate.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Busiate.jpg
+  Author: Popo le Chien
+  Licence: CC0

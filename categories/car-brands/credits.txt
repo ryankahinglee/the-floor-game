@@ -1,0 +1,255 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+acura.png
+  Source: https://commons.wikimedia.org/wiki/File:Acura_logo.svg
+  Author: Basavarajtalwar
+  Licence: Public domain
+
+audi.png
+  Source: https://commons.wikimedia.org/wiki/File:Audi-Logo_2016.svg
+  Author: Strichpunkt / KMS Team
+  Licence: Public domain
+
+bentley.png
+  Source: https://commons.wikimedia.org/wiki/File:Bentley.svg
+  Author: Kai xzzrs
+  Licence: CC0
+
+cadillac.png
+  Source: https://commons.wikimedia.org/wiki/File:Cadillac_Logo_2021.svg
+  Author: Cadillac
+  Licence: Public domain
+
+chery.png
+  Source: https://commons.wikimedia.org/wiki/File:Chery_symbol.svg
+  Author: Chery
+  Licence: Public domain
+
+chevrolet.png
+  Source: https://commons.wikimedia.org/wiki/File:Chevrolet_bowtie_2023.svg
+  Author: Chevrolet
+  Licence: Public domain
+
+citroen.png
+  Source: https://commons.wikimedia.org/wiki/File:Citro%C3%ABn-Logo.svg
+  Author: Unknown authorUnknown author PSA Peugeot Citroën AG
+  Licence: Public domain
+
+cupra.png
+  Source: https://commons.wikimedia.org/wiki/File:Cupra_symbol.svg
+  Author: SEAT S.A.
+  Licence: Public domain
+
+honda.png
+  Source: https://commons.wikimedia.org/wiki/File:Logo_Honda_F1.svg
+  Author: Original: Honda Vector: ReneeWrites
+  Licence: Public domain
+
+hyundai.png
+  Source: https://commons.wikimedia.org/wiki/File:Hyundai_Motor_Company_logo.svg
+  Author: Hyundai Motor Company
+  Licence: Public domain
+
+infiniti.png
+  Source: https://commons.wikimedia.org/wiki/File:Infiniti_logo_1989_-_no_text.svg
+  Author: Infiniti
+  Licence: Public domain
+
+lexus.png
+  Source: https://commons.wikimedia.org/wiki/File:Lexus_Logo.svg
+  Author: Glebushko0703
+  Licence: CC0
+
+lincoln.png
+  Source: https://commons.wikimedia.org/wiki/File:Logo_Lincoln.svg
+  Author: Lincoln Motor Company; Ford Motor Company
+  Licence: Public domain
+
+maserati.png
+  Source: https://commons.wikimedia.org/wiki/File:Maserati_logo_2.svg
+  Author: Maserati
+  Licence: Public domain
+
+mazda.png
+  Source: https://commons.wikimedia.org/wiki/File:Mazda_logo_2024_(vertical).svg
+  Author: Mazda
+  Licence: Public domain
+
+mclaren.png
+  Source: https://commons.wikimedia.org/wiki/File:McLaren_Speedmark.svg
+  Author: Ved havet
+  Licence: Public domain
+
+mercedes-benz.png
+  Source: https://commons.wikimedia.org/wiki/File:Mercedes-Benz_free_logo.svg
+  Author: Unknown authorUnknown author
+  Licence: Public domain
+
+mitsubishi.png
+  Source: https://commons.wikimedia.org/wiki/File:Mitsubishi_logo.svg
+  Author: Mitsubishi
+  Licence: Public domain
+
+opel.png
+  Source: https://commons.wikimedia.org/wiki/File:Opel-Logo_2017.svg
+  Author: Unknown authorUnknown author
+  Licence: Public domain
+
+polestar.png
+  Source: https://commons.wikimedia.org/wiki/File:Polestar_logo_2020.svg
+  Author: Unknown artistUnknown artist
+  Licence: Public domain
+
+renault.png
+  Source: https://commons.wikimedia.org/wiki/File:Renault_2009_logo.svg
+  Author: Renault
+  Licence: Public domain
+
+rolls-royce.png
+  Source: https://commons.wikimedia.org/wiki/File:Rolls-Royce_Motor_Cars_logo.svg
+  Author: unknown
+  Licence: Public domain
+
+seat.png
+  Source: https://commons.wikimedia.org/wiki/File:SEAT_Logo_from_2017.svg
+  Author: SEAT S.A.
+  Licence: Public domain
+
+skoda.png
+  Source: https://commons.wikimedia.org/wiki/File:%C5%A0koda_Auto.svg
+  Author: Skoda Auto
+  Licence: Public domain
+
+smart.png
+  Source: https://commons.wikimedia.org/wiki/File:Smart_logo.svg
+  Author: Vascer
+  Licence: Public domain
+
+subaru.png
+  Source: https://commons.wikimedia.org/wiki/File:Subaru_Logo_Abstraktion.svg
+  Author: Unknown authorUnknown author
+  Licence: Public domain
+
+suzuki.png
+  Source: https://commons.wikimedia.org/wiki/File:Suzuki_logo_2025_(symbol).svg
+  Author: Suzuki Motor Corporation
+  Licence: Public domain
+
+tesla.png
+  Source: https://commons.wikimedia.org/wiki/File:Tesla_T_symbol.svg
+  Author: Tesla (logo), Fry1989 eh? (vectorization)
+  Licence: Public domain
+
+toyota.png
+  Source: https://commons.wikimedia.org/wiki/File:Toyota_Logo.svg
+  Author: Toyota Motor Corporation
+  Licence: Public domain
+
+volkswagen.png
+  Source: https://commons.wikimedia.org/wiki/File:Volkswagen_logo_2019.svg
+  Author: Volkswagen
+  Licence: Public domain
+
+abarth.png
+  Source: https://commons.wikimedia.org/wiki/File:Abarth_Trofeo_Slalom.svg
+  Author: see source page
+  Licence: Public domain
+
+changan.png
+  Source: https://commons.wikimedia.org/wiki/File:Changan_icon.svg
+  Author: see source page
+  Licence: CC BY-SA 4.0
+
+dacia.png
+  Source: https://commons.wikimedia.org/wiki/File:Dacia_2021_symbol.svg
+  Author: see source page
+  Licence: Public domain
+
+ds.png
+  Source: https://commons.wikimedia.org/wiki/File:DS_Automobiles_2009_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+geely.png
+  Source: https://commons.wikimedia.org/wiki/File:Geely_Auto_2023.svg
+  Author: see source page
+  Licence: Public domain
+
+hino.png
+  Source: https://commons.wikimedia.org/wiki/File:Hino_Motors_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+jaguar.png
+  Source: https://commons.wikimedia.org/wiki/File:Jaguar-cars-logo-svgrepo-com.svg
+  Author: see source page
+  Licence: CC0
+
+koenigsegg.png
+  Source: https://commons.wikimedia.org/wiki/File:Koenigsegg_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+leapmotor.png
+  Source: https://commons.wikimedia.org/wiki/File:Leapmotor_logo_zh.svg
+  Author: see source page
+  Licence: Public domain
+
+maybach.png
+  Source: https://commons.wikimedia.org/wiki/File:Maybach_symbol.svg
+  Author: see source page
+  Licence: Public domain
+
+mercury.png
+  Source: https://commons.wikimedia.org/wiki/File:Mercury_1984_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+nio.png
+  Source: https://commons.wikimedia.org/wiki/File:NIO_logo_emblem.svg
+  Author: see source page
+  Licence: Public domain
+
+pontiac.png
+  Source: https://commons.wikimedia.org/wiki/File:Pontiac_dart_emblem.svg
+  Author: see source page
+  Licence: Public domain
+
+rivian.png
+  Source: https://commons.wikimedia.org/wiki/File:Rivian_logo_and_wordmark.svg
+  Author: see source page
+  Licence: Public domain
+
+ssangyong.png
+  Source: https://commons.wikimedia.org/wiki/File:Ssangyong_company_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+tata.png
+  Source: https://commons.wikimedia.org/wiki/File:Tata_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+vauxhall.png
+  Source: https://commons.wikimedia.org/wiki/File:Vauxhall_logo_2026.svg
+  Author: see source page
+  Licence: Public domain
+
+wuling.png
+  Source: https://commons.wikimedia.org/wiki/File:Wuling_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+xpeng.png
+  Source: https://commons.wikimedia.org/wiki/File:XPeng_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+zeekr.png
+  Source: https://commons.wikimedia.org/wiki/File:Zeekr_logo.svg
+  Author: see source page
+  Licence: Public domain
+
+All logos are trademarks of their respective car companies, used here only to identify the brands.
+Some logos were cropped to remove the brand name, and converted to PNG.

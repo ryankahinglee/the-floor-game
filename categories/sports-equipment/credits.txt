@@ -1,0 +1,262 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+soccer-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Adidas_Trionda_ball.jpg
+  Author: OhanaUnitedTalk page
+  Licence: CC BY-SA 4.0
+
+basketball.png
+  Source: https://commons.wikimedia.org/wiki/File:Basketball.png
+  Author: Reisio
+  Licence: Public domain
+
+tennis-racquet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Anastasiya_Yakimova,_Damen-Tennis-Bundesliga_Moers.jpg
+  Author: No machine-readable author provided. Steffen Schmitz (more photos) assumed (based on copyright claims).
+  Licence: CC BY-SA 3.0
+
+tennis-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Closeup_of_a_tennis_ball_(2).jpg
+  Author: Miscellaneous contributor
+  Licence: CC0
+
+cricket-bat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:GandM_Flare_DXM_bat-Purist_156g_ball.jpg
+  Author: Marie-Lan Nguyen
+  Licence: CC BY 2.5
+
+cricket-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cricket-ball-red-madeinaustralia.jpg
+  Author: unknown
+  Licence: CC BY 2.0
+
+golf-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Golfball.jpg
+  Author: Lotus Head from Johannesburg, Gauteng, South Africa
+  Licence: CC BY-SA 3.0
+
+baseball-bat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fourbats.jpg
+  Author: The original uploader was Anetode at English Wikipedia.
+  Licence: CC BY 2.0
+
+baseball-glove.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MAYS_THE_CATCH.JPG
+  Author: Davidm8985
+  Licence: CC BY-SA 3.0
+
+ice-hockey-puck.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ice_hockey_puck_-_2.jpg
+  Author: Matt Boulton derivative work: MrPanyGoff
+  Licence: CC BY-SA 2.0
+
+rugby-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lions_signed_ball.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+afl-football.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sherrin_Australian_rules_football.jpg
+  Author: Kerrie _
+  Licence: CC BY-SA 2.0
+
+volleyball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mikasa_VLS300_official_beach_volleyball.jpg
+  Author: Petar Milošević
+  Licence: CC BY-SA 4.0
+
+shuttlecock.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shuttlecocks_Yonex_Aerosensa_20.jpg
+  Author: Arne Nordmann (user:norro), Germany
+  Licence: CC BY-SA 3.0
+
+table-tennis-bat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Long_pips_table_tennis_rubber_on_racket.jpg
+  Author: Awsomaw
+  Licence: CC BY-SA 4.0
+
+boxing-gloves.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sports_Model_John_Quinlan_Autographed_Muay_Thai_Boxing_Gloves.jpg
+  Author: Julieb2768
+  Licence: CC BY-SA 3.0
+
+skis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Interboot_2023,_Friedrichshafen_(P1120640).jpg
+  Author: MB-one
+  Licence: CC BY-SA 4.0
+
+snowboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2020-01-20_Snowboarding_at_the_2020_Winter_Youth_Olympics_%E2%80%93_Women%27s_Halfpipe_%E2%80%93_Final_%E2%80%93_1st_run_(Martin_Rulsch)_25.jpg
+  Author: Martin Rulsch, Wikimedia Commons
+  Licence: CC BY-SA 4.0
+
+surfboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:WaikikiSurfboards.JPG
+  Author: MercolaOverMerck
+  Licence: CC BY-SA 3.0
+
+skateboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zawody_w_skateboardingu_Street_of_Mediateka,_Zag%C5%82%C4%99biowska_Mediateka,_ulica_Ko%C5%9Bcielna,_Sosnowiec,_22_czerwca_2024_01.jpg
+  Author: Krzysztof Popławski
+  Licence: CC BY 4.0
+
+ice-skates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tubeskate.jpg
+  Author: Duckhunter6424
+  Licence: Public domain
+
+roller-skates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Roller-skate.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+dumbbell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TwoDumbbells.JPG
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+barbell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Man_lifting_a_heavy_barbell.jpg
+  Author: Binyamin Mellish
+  Licence: CC0
+
+kettlebell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Competition_kettlebell_16_kilo.jpg
+  Author: Knuckles
+  Licence: CC BY-SA 3.0
+
+discus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Robert_Harting_(2008).jpg
+  Author: Robert_Harting_von_der_Sportfördergruppe_Potsdam_der_Bundeswehr.jpg: Bundeswehr-Fotos derivative work: César
+  Licence: CC BY 2.0
+
+shot-put.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shot_put_ball.JPG
+  Author: Santeri Viinamäki
+  Licence: CC BY 4.0
+
+hurdles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Leichtathletik_Gala_Linz_2018_men%C2%B4s_110m_hurdles_Okafor-6401.jpg
+  Author: Isiwal
+  Licence: CC BY-SA 4.0
+
+recurve-bow.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Viktor_Ruban.jpg
+  Author: Ian Patterson
+  Licence: CC BY 2.0
+
+fencing-foil.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Final_2013_Fencing_WCH_FMS-IN_t200907.jpg
+  Author: Marie-Lan Nguyen
+  Licence: CC BY 3.0
+
+frisbee.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Frisbee_090719.jpg
+  Author: Petey21
+  Licence: Public domain
+
+dartboard.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Darts_in_a_dartboard.jpg
+  Author: PeterPan23
+  Licence: Public domain
+
+cue-stick.jpg
+  Source: https://commons.wikimedia.org/wiki/File:EVD-billar-378.jpg
+  Author: User:Evdcoldeportes
+  Licence: CC BY-SA 2.5 co
+
+curling-stone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:12-01-20-yog-814.jpg
+  Author: Ralf Roletschek (talk) - Fahrradtechnik auf fahrradmonteur.de
+  Licence: CC BY-SA 3.0 at
+
+oar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:OarCollection01.JPG
+  Author: Motmit
+  Licence: CC BY-SA 3.0
+
+saddle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Saddle_with_shabrack_according_to_tradition_linked_with_Hetman_Miko%C5%82aj_Hieronim_Sieniawski.jpg
+  Author: Unknown artistUnknown artist
+  Licence: CC0
+
+swimming-goggles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Butterfly-9318.jpg
+  Author: Isiwal
+  Licence: CC BY-SA 4.0
+
+bike-helmet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bicycle_Helmet_0085.jpg
+  Author: Ashley Pomeroy
+  Licence: CC BY-SA 4.0
+
+cricket-stumps.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Highgate_Cricket_Club_wicket_at_Crouch_End,_Haringey,_London,_England_01.jpg
+  Author: Acabashi
+  Licence: CC BY-SA 4.0
+
+shin-guards.png
+  Source: https://commons.wikimedia.org/wiki/File:Schienbeinsch%C3%BCtzer_adidas.png
+  Author: Luxo
+  Licence: CC BY 2.5
+
+whistle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pea_Whistle.jpg
+  Author: Zephyris at English Wikipedia
+  Licence: CC BY-SA 3.0
+
+stopwatch.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Stoppuhr_digital_noBG.jpg
+  Author: https://commons.wikimedia.org/wiki/User:Lesselich
+  Licence: CC BY-SA 3.0
+
+trampoline.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hometrampoline.jpg
+  Author: Ludraman
+  Licence: Public domain
+
+gymnastics-rings.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Arthur_Zanetti_Rio_2016.jpg
+  Author: Agência Brasil Fotografias
+  Licence: CC BY 2.0
+
+pommel-horse.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2019-06-29_1st_FIG_Artistic_Gymnastics_JWCH_Men%27s_Apparatus_finals_Pommel_horse_(Martin_Rulsch)_080.jpg
+  Author: Martin Rulsch, Wikimedia Commons
+  Licence: CC BY-SA 4.0
+
+balance-beam.jpg
+  Source: https://commons.wikimedia.org/wiki/File:WK_turnen_in_Rotterdam_Romeense_Daniele_Silivas_in_act,_Bestanddeelnr_934-1091.jpg
+  Author: Rob Croes / Anefo
+  Licence: CC0
+
+skipping-rope.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ghanaian_kid_(skipping_rope)_06_(cropped).jpg
+  Author: Pambelle12
+  Licence: CC BY-SA 4.0
+
+punching-bag.jpg
+  Source: https://commons.wikimedia.org/wiki/File:USMC-100509-M-2339L-173.jpg
+  Author: unknown
+  Licence: Public domain
+
+american-football.jpg
+  Source: https://commons.wikimedia.org/wiki/File:American_Football_EM_2014_-_AUT-DEU_-_068.JPG
+  Author: AleXXw
+  Licence: CC BY-SA 3.0 at
+
+golf-tee.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Golf_Club_at_Wescott_Plantation_(9321187216).jpg
+  Author: North Charleston from North Charleston, SC, United States
+  Licence: CC BY-SA 2.0
+
+starting-blocks.jpg
+  Source: https://commons.wikimedia.org/wiki/File:PressureSensitiveStartingBlocks.jpg
+  Author: Andrew Hecker
+  Licence: Public domain
+
+water-polo-ball.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Polobal.jpg
+  Author: Antiflu at Dutch Wikipedia
+  Licence: CC BY-SA 3.0

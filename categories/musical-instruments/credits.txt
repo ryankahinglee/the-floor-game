@@ -1,0 +1,292 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+piano.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG
+  Author: Gryffindor
+  Licence: CC BY-SA 3.0
+
+acoustic-guitar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paramount_Series_acoustic_guitars.jpg
+  Author: Wilfredor
+  Licence: CC BY-SA 4.0
+
+electric-guitar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:E_Guitar_Cutouts_Compo_noBG.jpg
+  Author: Auge=mit
+  Licence: CC BY-SA 4.0
+
+violin.png
+  Source: https://commons.wikimedia.org/wiki/File:Violin_VL100.png
+  Author: Just plain Bill
+  Licence: CC0
+
+cello.png
+  Source: https://commons.wikimedia.org/wiki/File:Cello_front_side.png
+  Author: Georg Feitscher
+  Licence: CC BY 3.0
+
+double-bass.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AGK_bass1_full.jpg
+  Author: User:AndrewKepert
+  Licence: CC BY-SA 3.0
+
+harp.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Salvi_harp_Diana.jpg
+  Author: N.S.M. s.p.a.
+  Licence: CC BY-SA 4.0
+
+flute.png
+  Source: https://commons.wikimedia.org/wiki/File:Fl%C3%BBte_traversi%C3%A8re.png
+  Author: Tubamirum
+  Licence: CC BY-SA 4.0
+
+clarinet.png
+  Source: https://commons.wikimedia.org/wiki/File:Leitner%2BKraus_410_320.png
+  Author: Leitner &amp; Kraus GmbH, Neustadt/Aisch, Editor/Bearbeiter User:Gisbert K
+  Licence: CC BY-SA 4.0
+
+saxophone.png
+  Source: https://commons.wikimedia.org/wiki/File:Eight_saxophone_sizes_smaller.png
+  Author: Jonathanischoice
+  Licence: CC BY 4.0
+
+trumpet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg
+  Author: Yamaha Corporation
+  Licence: CC BY-SA 4.0
+
+trombone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yamaha_Tenor_trombone_YSL-891Z_(re-crop).jpg
+  Author: Yamaha Corporation
+  Licence: CC BY-SA 4.0
+
+french-horn.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yamaha_Horn_YHR-667V.tif
+  Author: Yamaha Corporation
+  Licence: CC BY-SA 4.0
+
+tuba.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yamaha_Bass_tuba_YFB-822.tif
+  Author: Yamaha Corporation
+  Licence: CC BY-SA 4.0
+
+oboe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Oboe_Patricola_Artista_PT1.jpg
+  Author: Fratelli Patricola, Editor/Bearbeiter User:Gisbert K
+  Licence: CC BY-SA 4.0
+
+bassoon.png
+  Source: https://commons.wikimedia.org/wiki/File:FoxBassoon.png
+  Author: Gregory F. Maxwell &lt;gmaxwell@gmail.com&gt; PGP:0xB0413BFA
+  Licence: GFDL 1.2
+
+piccolo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Piccolo.jpg
+  Author: User:Caesura
+  Licence: Public domain
+
+snare-drum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caisse_claire.jpg
+  Author: Chocho at French Wikipedia
+  Licence: FAL
+
+timpani.jpg
+  Source: https://commons.wikimedia.org/wiki/File:USAFE_Band_timpanist.jpg
+  Author: unknown
+  Licence: Public domain
+
+xylophone.png
+  Source: https://commons.wikimedia.org/wiki/File:Xylophone_(PSF).svg
+  Author: SweetCanadianMullet
+  Licence: CC BY-SA 4.0
+
+glockenspiel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Glockenspiel-malletech.jpg
+  Author: flamurai
+  Licence: Public domain
+
+triangle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Triangle_001.jpg
+  Author: AnonymousUnknown author
+  Licence: CC BY-SA 4.0
+
+tambourine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pandeiro_new_30-09-07.jpg
+  Author: Frenciscobcn
+  Licence: CC BY-SA 1.0
+
+maracas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Maracas.jpg
+  Author: Axel Heymann
+  Licence: CC BY-SA 3.0
+
+cymbals.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ZildjianCustomRide.jpg
+  Author: Jdpaschal
+  Licence: CC BY-SA 3.0
+
+bongos.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bongos_Meinl_HB100-NT.jpg
+  Author: http://muzyczny.pl
+  Licence: CC BY-SA 4.0
+
+conga.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Collectie_Nationaal_Museum_van_Wereldculturen_TM-6335-1a_Enkelvellige_tonvormige_buistrom,_onderdeel_van_een_set_Cuba.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+djembe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lenke_djembe_from_Mali.jpeg
+  Author: Djembe Art
+  Licence: CC BY-SA 3.0
+
+cajon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Homemade_caj%C3%B3n.jpg
+  Author: Luislema
+  Licence: CC BY-SA 4.0
+
+accordion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:A_converter_free-bass_piano-accordion_and_a_Russian_bayan.jpg
+  Author: Necz0r
+  Licence: CC BY-SA 3.0
+
+harmonica.jpg
+  Source: https://commons.wikimedia.org/wiki/File:16-hole_chrom_10-hole_diatonic.jpg
+  Author: George Leung
+  Licence: CC BY-SA 3.0
+
+bagpipes.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Scotland_Independence_March,_28_March_2026_(32).jpg
+  Author: Lucas Kendall
+  Licence: CC BY-SA 4.0
+
+banjo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:A_Mandolin-banjo.jpg
+  Author: Sally V
+  Licence: CC BY-SA 4.0
+
+mandolin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mandolin_MET_DP169023_(2).jpg
+  Author: Angelo Mannello
+  Licence: CC0
+
+ukulele.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kumalae_ukulele_of_c._1910.webm
+  Author: St Cecilia's Hall: all things musical instruments
+  Licence: CC BY 3.0
+
+sitar.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sitar,_late_19th_Century.jpg
+  Author: unknown, MET museum
+  Licence: CC0
+
+didgeridoo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Australiandidgeridoos.jpg
+  Author: Hmarin
+  Licence: Public domain
+
+recorder.jpg
+  Source: https://commons.wikimedia.org/wiki/File:VariousRecorderFlutes.jpg
+  Author: Mussklprozz
+  Licence: CC BY-SA 3.0
+
+pan-flute.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Flute_de_pan_MHNT_ETH_AC_NH_31_Sav%C3%A8s.jpg
+  Author: Didier Descouens
+  Licence: CC BY-SA 4.0
+
+ocarina.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2016-01_Ocarina_front.jpg
+  Author: 0x010C
+  Licence: CC BY-SA 4.0
+
+harpsichord.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ClavecinRuckers%26Taskin.JPG
+  Author: Gérard Janot
+  Licence: CC BY-SA 3.0
+
+pipe-organ.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg
+  Author: Ermell
+  Licence: CC BY-SA 4.0
+
+synthesizer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:R.A.Moog_minimoog_2.jpg
+  Author: glacial23
+  Licence: CC BY-SA 2.0
+
+theremin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Etherwave_Theremin_Kit.jpg
+  Author: Hutschi
+  Licence: CC BY-SA 3.0
+
+steelpan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Steelpan_Instruments_at_Trinidad_and_Tobago_Carnival.jpg
+  Author: Kip1234
+  Licence: CC BY-SA 4.0
+
+gong.jpg
+  Source: https://commons.wikimedia.org/wiki/File:COLLECTIE_TROPENMUSEUM_Gong_hangend_in_een_standaard_onderdeel_van_gamelan_Semar_Pagulingan_TMnr_1340-13.jpg
+  Author: Tropenmuseum
+  Licence: CC BY-SA 3.0
+
+castanets.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Castagnetten,_BK-NM-11430-78.jpg
+  Author: Rijksmuseum
+  Licence: CC0
+
+kalimba.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ene_mbira.jpg
+  Author: Zanzambira at English Wikipedia
+  Licence: Public domain
+
+tabla.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Prop._Tabla.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+erhu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Erhu_in_the_Mets.jpg
+  Author: Unknown authorUnknown author
+  Licence: CC0
+
+koto.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Japanese_Koto.jpg
+  Author: Original uploader and author was Smgregory at en.wikipedia
+  Licence: CC BY-SA 3.0
+
+shamisen.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tokyo_Geisha_with_Shamisen_c1870s,.jpg
+  Author: Unknown Artist, Unknown School
+  Licence: Public domain
+
+balalaika.png
+  Source: https://commons.wikimedia.org/wiki/File:3_string_prim_balalaika.png
+  Author: User:MaGz96
+  Licence: CC BY-SA 3.0
+
+lute.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lute_(by_Princess_Ruto,_2013-02-11).jpg
+  Author: Ching
+  Licence: CC BY 2.0
+
+melodica.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Melodica.jpg
+  Author: unknown
+  Licence: Public domain
+
+handpan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Handpans_2020_by_Glenn_Francis.jpg
+  Author: Toglenn
+  Licence: CC BY-SA 4.0
+
+cowbell.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Koebel.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+kazoo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2023_Kazoo_(1).jpg
+  Author: Jacek Halicki
+  Licence: CC BY-SA 4.0

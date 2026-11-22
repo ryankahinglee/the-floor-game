@@ -1,0 +1,317 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+hammer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:IKEA_hammer_(cropped).jpg
+  Author: Jiří Sedláček
+  Licence: CC BY-SA 4.0
+
+screwdriver.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Screw_Driver_display.jpg
+  Author: Fcb981 at English Wikipedia
+  Licence: CC BY 2.5
+
+spanner.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Gedore_No._7_combination_wrenches_6%E2%80%9319_mm.jpg
+  Author: Lucasbosch
+  Licence: CC BY-SA 3.0
+
+pliers.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2023_Szczypce_zaciskowe_Morse%27a.jpg
+  Author: Jacek Halicki
+  Licence: CC BY-SA 4.0
+
+hand-saw.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pily_platnice.jpg
+  Author: Mnemosine
+  Licence: Public domain
+
+drill.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Panasonic_Cordless_Drill_%26_Driver_EY1DD2,_Ottobrunn_(20250410-P1046293).jpg
+  Author: Matti Blume
+  Licence: CC BY-SA 4.0
+
+tape-measure.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tape_Measure_25%27_Klein_Tools.jpg
+  Author: Klein Tools
+  Licence: CC BY-SA 4.0
+
+spirit-level.jpg
+  Source: https://commons.wikimedia.org/wiki/File:DetalleNivelDeBurbuja.jpg
+  Author: aTarom
+  Licence: Public domain
+
+chisel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Carpenter-tools_Beveled-edge-chisel-two-angle-gauges-and-carpenters-pencil-01.jpg
+  Author: CEphoto, Uwe Aranas
+  Licence: CC BY-SA 3.0
+
+spade.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Spade.jpg
+  Author: Rasbak
+  Licence: CC BY-SA 3.0
+
+rake.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg
+  Author: Stephencdickson
+  Licence: CC BY 4.0
+
+wheelbarrow.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2008-07-15_Construction_wheelbarrow_at_Duke.jpg
+  Author: Ildar Sagdejev (Specious)
+  Licence: CC BY-SA 4.0
+
+axe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Felling_axe.jpg
+  Author: タクナワン
+  Licence: CC BY-SA 3.0
+
+sledgehammer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sledgehammers-1.jpg
+  Author: Shakespeare at English Wikipedia
+  Licence: CC BY-SA 3.0
+
+allen-key.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Set_of_eight_hex_allen_keys_on_ring_on_table.jpg
+  Author: Leon Brooks
+  Licence: Public domain
+
+vice.jpg
+  Source: https://commons.wikimedia.org/wiki/File:An_engineer%27s_vise.jpg
+  Author: Dmitry Makeev
+  Licence: CC BY-SA 4.0
+
+clamp.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Clamps.jpg
+  Author: Luigi Zanasi
+  Licence: CC BY-SA 2.0 ca
+
+stanley-knife.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Aaknife2.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+paintbrush.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Paintbrushes.jpg
+  Author: Krestavilis at English Wikipedia
+  Licence: Public domain
+
+paint-roller.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Farbroller.jpg
+  Author: Photocapy
+  Licence: CC BY-SA 2.0
+
+trowel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Masons_trowel.jpg
+  Author: Mike Lupinacci
+  Licence: CC BY-SA 3.0
+
+ladder.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ladder.webp
+  Author: Wikideas1
+  Licence: CC0
+
+soldering-iron.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Soldering_gun.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+jigsaw.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jigsaw_AccuMaster.jpg
+  Author: Артём В.
+  Licence: CC BY-SA 4.0
+
+angle-grinder.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AngleGrinder.jpg
+  Author: unknown
+  Licence: CC BY-SA 2.0
+
+socket-wrench.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Socket_wrench_and_sockets.JPG
+  Author: Kae
+  Licence: CC BY-SA 3.0
+
+file.jpg
+  Source: https://commons.wikimedia.org/wiki/File:File_(tool).jpg
+  Author: Blind cyclist
+  Licence: CC BY-SA 4.0
+
+staple-gun.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tool-heavy-stapler.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+hand-plane.jpg
+  Source: https://commons.wikimedia.org/wiki/File:JackPlane3.jpg
+  Author: Jameslwoodward
+  Licence: CC BY-SA 3.0
+
+mallet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rubber_mallets.jpg
+  Author: MartinMerinsky
+  Licence: CC BY-SA 4.0
+
+pickaxe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pickaxe.jpg
+  Author: Hyena~commonswiki
+  Licence: Public domain
+
+secateurs.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Secateur_ouvert.jpg
+  Author: KoS
+  Licence: Public domain
+
+whisk.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Schneebesen1.JPG
+  Author: No machine-readable author provided. Peng assumed (based on copyright claims).
+  Licence: CC BY-SA 3.0
+
+spatula.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kreta_(GR),_Rethymno,_K%C3%BCchenutensilien_--_2023_--_8185.jpg
+  Author: Dietmar Rabich
+  Licence: CC BY-SA 4.0
+
+ladle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Greek_-_Ladle_-_Walters_57909.jpg
+  Author: Anonymous (Greece)Unknown author
+  Licence: Public domain
+
+rolling-pin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pierogi,_Gniezno,_Polonia1.jpg
+  Author: Diego Delso
+  Licence: CC BY-SA 3.0
+
+colander.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ge%C3%ABmailleerd_vergiet_-_INDUS_V08877.jpg
+  Author: unknown
+  Licence: CC0
+
+grater.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kuechenreibe_(fcm).jpg
+  Author: Photograph: Frank C. Müller, Baden-Baden
+  Licence: CC BY-SA 4.0
+
+peeler.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Peeler_01_Pengo.jpg
+  Author: Pengo
+  Licence: CC BY-SA 3.0
+
+tongs.png
+  Source: https://commons.wikimedia.org/wiki/File:Kitchen-tongs.png
+  Author: Sac86738 at English Wikipedia
+  Licence: Public domain
+
+tin-opener.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kitchen-Modern-Can-Opener.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+corkscrew.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Corkscrews_December_2014-1.jpg
+  Author: Alvesgaspar
+  Licence: CC BY-SA 4.0
+
+garlic-press.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Garlic_Press_and_Garlic.jpg
+  Author: Lee Kindness
+  Licence: CC BY 2.5
+
+mortar-and-pestle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White-Mortar-and-Pestle.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+measuring-cups.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Simple_Measuring_Cup.jpg
+  Author: No machine-readable author provided. Batty~commonswiki assumed (based on copyright claims).
+  Licence: Public domain
+
+chopsticks.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Many-chopsticks.jpg
+  Author: FiveRings at English Wikipedia
+  Licence: CC BY-SA 3.0
+
+cleaver.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Couperet_%C3%A0_d%C3%A9biter_les_lapins_04.jpg
+  Author: Coyau
+  Licence: CC BY-SA 3.0
+
+sieve.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Laboratory_sieves_BMK.jpg
+  Author: User:BMK
+  Licence: CC BY-SA 3.0
+
+potato-masher.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kitchen-Potato-Masher.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+pizza-cutter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pizza-slicer.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+ice-cream-scoop.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kitchen-Scooper-Large.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+wok.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Wok_cooking.jpg
+  Author: Wok to Walk International, S.L.
+  Licence: CC BY-SA 4.0
+
+frying-pan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pfanne_(Edelstahl).jpg
+  Author: unknown
+  Licence: Public domain
+
+mandoline.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cooking_Mandolin_with_Carrot.jpg
+  Author: No machine-readable author provided. Alex Sims assumed (based on copyright claims).
+  Licence: CC BY-SA 2.5
+
+zester.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zesting_an_orange.jpg
+  Author: Dvortygirl
+  Licence: CC BY-SA 3.0
+
+nutcracker.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Benutzung_eines_Nussknackers.gif
+  Author: Joho345
+  Licence: CC BY-SA 4.0
+
+bottle-opener.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kronkorken.gif
+  Author: Joho345
+  Licence: CC BY-SA 4.0
+
+salad-spinner.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Slacentrifuge.jpg
+  Author: Lymantria
+  Licence: CC BY-SA 3.0
+
+funnel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kitchen_Funnel.jpg
+  Author: Donovan Govan.
+  Licence: CC BY-SA 3.0
+
+egg-slicer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Eierschneider.jpg
+  Author: de:user:Rainer Zenz
+  Licence: CC BY-SA 3.0
+
+cookie-cutter.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Keks_ausstechen.jpg
+  Author: Anna reg
+  Licence: CC BY-SA 3.0 at
+
+piping-bag.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Plastic_pastry_bag.JPG
+  Author: No machine-readable author provided. Polyparadigm~commonswiki assumed (based on copyright claims).
+  Licence: CC BY-SA 3.0
+
+saucepan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kupferkasserolle_Stielkasserolle_16_cm_Casserole.jpg
+  Author: Erik Streb
+  Licence: CC BY-SA 3.0

@@ -1,25 +1,91 @@
-# The Floor — Duel Game (starter)
+# The Floor — Duel Game
 
-A static browser game designed for a host to run two-player, image-based category duels.
+A static browser game for a host to run two-player, image-based category duels.
 
-## Included mechanics
-- Host manually judges answers.
-- Each contestant has an individual countdown timer.
-- Only the active contestant's timer runs.
-- Correct switches the turn and advances to the next image.
-- Skip advances to the next image without switching turns or adding a penalty.
-- Pause, restart, reveal answer, full-screen mode and keyboard shortcuts.
-- Images are shuffled at the start of each duel and reshuffled if the category runs out.
+## Folder layout
+```
+the-floor-game/
+├── index.html            ← the game
+├── answers.html          ← host answer sheet (open in a separate tab or on your phone)
+├── css/style.css         ← all styling
+├── js/
+│   ├── categories.js     ← loads category data (shared by both pages)
+│   ├── game.js           ← game logic
+│   └── answers.js        ← answer sheet logic
+└── categories/
+    ├── list.json         ← which category folders to show, in order
+    └── car-brands/       ← one folder per category
+        ├── answers.json  ← category name + every image's answer
+        ├── ferrari.jpg
+        └── ...
+```
+
+## How the game works
+- The home screen lists every category as a clickable tile; pick the time per player there.
+- Each contestant has their own countdown; only the active contestant's clock runs.
+- **Correct** shows the answer for 2 seconds (both clocks stopped), then switches the turn and shows the next image.
+- **Skip** shows the answer for 3 seconds while the same contestant's clock keeps running (the skip penalty), then shows the next image.
+- The first contestant whose clock reaches zero loses.
+- Images appear in a fixed shuffled order for each **category + Round** (Round 1–10, chosen on the home screen). The same round always gives the same order; a different round gives a different order. If a duel runs past the last image it starts again from #1.
+- The image number is shown in the corner of the picture on the TV.
+- The reveal lengths are set at the top of `js/game.js` (`CORRECT_REVEAL_SECONDS` and `SKIP_REVEAL_SECONDS`).
+
+## Host answer sheet (use it on your phone)
+Open `answers.html` (on GitHub Pages: `<your URL>/answers.html`). Pick the **same category and round** as the game, and the answers are listed **1, 2, 3…** in exactly the order the TV shows them. When the TV shows image #12, row 12 on your phone is the answer. Tap a row to highlight it and scroll it to the top. The page remembers your last choice. Thumbnails with a red outline mean an image file couldn't be found.
+
+Tip: use a new round number for each game so players can't learn the order.
+
+## Controls
+- Enter: Correct
+- Space: Skip
+- P: Pause / resume
+- R: Restart duel (starts again from image #1)
+- F: Full screen
+
+## Adding your own images to an existing category
+1. Copy the image into the category's folder, e.g. `categories/car-brands/mclaren.jpg`.
+2. Open that folder's `answers.json` and add a line to the `images` list:
+   ```json
+   { "file": "mclaren.jpg", "answer": "McLaren" }
+   ```
+   Every line except the last needs a comma after its closing `}`.
+3. Open `answers.html` to check the new image shows up (it warns you if a file can't be found).
+
+## Adding a new category
+1. Create a folder inside `categories/`, e.g. `categories/landmarks/`. Use lowercase letters and hyphens, no spaces.
+2. Put the images in it.
+3. Create `answers.json` in that folder:
+   ```json
+   {
+     "name": "Famous Landmarks",
+     "images": [
+       { "file": "eiffel-tower.jpg", "answer": "Eiffel Tower" },
+       { "file": "big-ben.jpg", "answer": "Big Ben", "aliases": ["Elizabeth Tower"] },
+       { "file": "colosseum.jpg", "answer": "Colosseum", "description": "Rome, Italy" }
+     ]
+   }
+   ```
+   - `name` is what appears on the home-screen tile.
+   - `aliases` (optional) are other answers the host should accept.
+   - `description` (optional) is an extra note for the host. It only shows on the answer sheet.
+4. Add the folder name to `categories/list.json`:
+   ```json
+   [
+     "car-brands",
+     "theme-parks",
+     "movie-franchises",
+     "landmarks"
+   ]
+   ```
+
+### Tips
+- **File names are case-sensitive on GitHub Pages.** `Ferrari.JPG` and `ferrari.jpg` are different files online, even though Windows treats them as the same. If it works with Live Server but not online, check the capitals.
+- Use JPG, PNG, WebP or SVG. Keep images reasonably small (under ~500 KB) so they appear instantly.
+- Aim for 15+ images per category so the shuffle rarely repeats.
+- A category needs at least 2 images to start.
 
 ## Run it locally
-Because the app loads `categories.json` with `fetch`, run it through a local web server rather than opening `index.html` directly.
-
-If you have Python installed:
-```bash
-cd the-floor-game
-python -m http.server 8000
-```
-Then open http://localhost:8000
+Open the folder in VS Code and use **Live Server** (right-click `index.html` → Open with Live Server). Double-clicking `index.html` won't work, because browsers block it from loading the JSON files.
 
 ## Publish with GitHub Pages
 1. Create a GitHub repository, e.g. `the-floor-game`.
@@ -27,37 +93,6 @@ Then open http://localhost:8000
 3. In the repository, open **Settings → Pages**.
 4. Under **Build and deployment**, choose **Deploy from a branch**.
 5. Choose branch `main` and folder `/ (root)`, then Save.
-6. Wait for GitHub Pages to publish the site. The URL will appear in the Pages settings.
+6. The URL will appear in the Pages settings once it's published. The answer sheet is at `<your URL>/answers.html`.
 
-## Add your own images and categories
-Edit `categories.json`. Each category is an array of questions:
-```json
-"Category Name": [
-  {
-    "image": "images/category-name/example.jpg",
-    "answer": "Example answer",
-    "aliases": ["Alternative accepted answer"]
-  }
-]
-```
-- Put the image file at the path in `image`.
-- Paths are relative to the repository root and are case-sensitive.
-- Use JPG, PNG, WebP or SVG.
-- Add aliases for spelling variants or alternate names for your host's reference. The starter game does not auto-check answers; aliases are reference notes only.
-- Keep image files reasonably compressed. Avoid uploading huge originals.
-
-## Current starter categories
-- Car Brands
-- Theme Parks
-- Movie Franchises
-
-The included SVGs are labelled placeholders, not real quiz images. Replace each placeholder with an image you have permission to use, keeping the same filename, or update the corresponding path in `categories.json`.
-
-## Controls
-- Enter: Correct answer / switch turn
-- Space: Skip image (same contestant continues)
-- P: Pause / resume
-- R: Restart duel
-
-## Important behaviour choices
-This starter uses a simple host-led flow: a correct answer passes the turn; a skip does not. Both contestants start with the same duration. The first contestant whose timer reaches zero loses. You can change these rules in `game.js`.
+The included SVGs are labelled placeholders, not real quiz images. Replace them with images you have permission to use.

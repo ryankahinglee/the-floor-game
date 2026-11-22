@@ -1,0 +1,130 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org).
+Resized to 800px wide; zeus.jpg cropped to remove the plinth inscription.
+
+zeus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Zeus_Otricoli_Pio-Clementino_Inv257.jpg
+  Author: Unknown artistUnknown artist
+  Licence: Public domain
+
+hera.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hera_Campana_Louvre_Ma2283.jpg
+  Author: Marie-Lan Nguyen
+  Licence: Public domain
+
+athena.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mattei_Athena_Louvre_Ma530_n2.jpg
+  Author: Jastrow
+  Licence: Public domain
+
+apollo.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Italy-3104_-_Apollo_(5378415112).jpg
+  Author: Dennis G. Jarvis
+  Licence: CC BY-SA 2.0
+
+artemis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Diane_de_Versailles_-_Mus%C3%A9e_du_Louvre_AGER_Ma_589.jpg
+  Author: Shonagon
+  Licence: CC0
+
+ares.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%CE%9F_%CE%86%CF%81%CE%B7%CF%82_(Borghese-%CE%9B%CE%BF%CF%8D%CE%B2%CF%81%CE%BF%CF%85).jpg
+  Author: Wikipedia Commons
+  Licence: CC BY-SA 4.0
+
+aphrodite.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cnidus_Aphrodite_Altemps_Inv8619.jpg
+  Author: Copy of Praxiteles; restorer: Ippolito Buzzi (Italian, 1562–1634)
+  Licence: Public domain
+
+hermes.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hermes_Ingenui_Pio-Clementino_Inv544.jpg
+  Author: Unknown
+  Licence: Public domain
+
+dionysus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dionysos_Louvre_Ma87_n2.jpg
+  Author: Marie-Lan Nguyen
+  Licence: CC BY 2.5
+
+eros.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Eros_Farnese_N%C3%A1poles_05.jpg
+  Author: Miguel Hermoso Cuesta
+  Licence: CC BY-SA 4.0
+
+pan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:PanandDaphnis.jpg
+  Author: Unknown
+  Licence: Public domain
+
+helios.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ilion---metopa.jpg
+  Author: original file by Gryffindor
+  Licence: Public domain
+
+atlas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:MAN_Atlante_fronte_1040572.JPG
+  Author: Lalupa
+  Licence: CC BY-SA 4.0
+
+heracles.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Herakles_Farnese_MAN_Napoli_Inv6001_n01.jpg
+  Author: Glycon of Athens (copy), Lysippos (original type)
+  Licence: CC BY 2.5
+
+hecate.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Relief_triplicate_Hekate_marble,_Hadrian_clasicism,_Prague_Kinsky,_NM-H10_4742,_140995.jpg
+  Author: Zde
+  Licence: CC BY-SA 3.0
+
+asclepius.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Asclepius-Rotunda_of_Altes_Museum.jpg
+  Author: Yair Haklai
+  Licence: CC BY-SA 4.0
+
+Additional images:
+
+poseidon.jpg
+  Source: https://www.flickr.com/photos/15923063@N00/141930420
+  Author: CarbonNYC [in SF!]
+  Licence: CC BY 2.0
+
+hades.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Detail_of_Pluto-Serapis,_Statue_group_of_Persephone_(as_Isis)_and_Pluto_(as_Serapis),_from_the_Sanctuary_of_the_Egyptian_Gods_at_Gortyna,_mid-2nd_century_AD,_Heraklion_Archaeological_Museum_(30305313721).jpg
+  Author: Carole Raddato from Frankfurt, Germany
+  Licence: CC BY-SA 2.0
+
+hephaestus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vulcan_by_Bertel_Thorvaldsen.jpg
+  Author: Bertel Thorvaldsen
+  Licence: CC0
+
+persephone.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dante_Gabriel_Rossetti_-_Proserpine_-_Google_Art_Project.jpg
+  Author: Dante Gabriel Rossetti
+  Licence: Public domain
+  Note: cropped to remove the inscribed poem and signature
+
+nike.jpg
+  Source: https://www.flickr.com/photos/101561334@N08/27683232674
+  Author: Gary Lee Todd, Ph.D.
+  Licence: CC0 1.0
+
+prometheus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Peter_Paul_Rubens_-_Prometheus_Bound_-_WGA20279.jpg
+  Author: Frans Snyders / Peter Paul Rubens
+  Licence: Public domain
+
+medusa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Caravaggio_-_Medusa_-_Google_Art_Project.jpg
+  Author: Caravaggio
+  Licence: Public domain
+
+pegasus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Winged_horse_Dodona_Louvre_Br149.jpg
+  Author: Jastrow (Wikimedia Commons user), 2008
+  Licence: CC BY 3.0
+
+minotaur.jpg
+  Source: https://commons.wikimedia.org/wiki/File:George_Frederic_Watts_-_The_Minotaur_-_Google_Art_Project.jpg
+  Author: George Frederic Watts
+  Licence: Public domain

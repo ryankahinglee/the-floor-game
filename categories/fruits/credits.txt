@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+apple.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pink_lady_and_cross_section.jpg
+  Author: fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8
+  Licence: GFDL 1.2
+
+banana.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bunch_of_bananas_on_sale.jpg
+  Author: Wilfredor
+  Licence: CC0
+
+orange.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Oranges_-_whole-halved-segment.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+strawberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Garden_strawberry_(Fragaria_%C3%97_ananassa)_single2.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+grapes.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Grapes,_Rostov-on-Don,_Russia.jpg
+  Author: Vyacheslav Argenberg
+  Licence: CC BY 4.0
+
+watermelon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Watermelon.jpg
+  Author: USDA photo by Scott Bauer
+  Licence: Public domain
+
+pineapple.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%E0%B4%95%E0%B5%88%E0%B4%A4%E0%B4%9A%E0%B5%8D%E0%B4%9A%E0%B4%95%E0%B5%8D%E0%B4%95.jpg
+  Author: Suniltg at Malayalam Wikipedia
+  Licence: CC BY 3.0
+
+mango.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mangos_-_single_and_halved.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+kiwifruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kiwi_aka.jpg
+  Author: André Karwath aka Aka
+  Licence: CC BY-SA 2.5
+
+lemon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:P1030323.JPG
+  Author: Elena Chochkova
+  Licence: CC BY-SA 4.0
+
+lime.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lime_Blossom.jpg
+  Author: Prosthetic Head
+  Licence: CC BY-SA 3.0
+
+cherry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cherry_season_(48216568227).jpg
+  Author: spurekar
+  Licence: CC BY 2.0
+
+peach.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White-Peaches-Bunch.jpg
+  Author: Evan-Amos
+  Licence: CC0
+
+pear.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pears.jpg
+  Author: Keith Weller
+  Licence: Public domain
+
+plum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Plums_African_Rose_-_whole,_halved_and_slice.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+blueberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Blueberries.jpg
+  Author: The original Uploader was Oven Fresh at English Wikipedia
+  Licence: Public domain
+
+raspberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Raspberries_(Rubus_idaeus).jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+blackberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ripe,_ripening,_and_green_blackberries.jpg
+  Author: Ragesoss
+  Licence: CC BY-SA 3.0
+
+coconut.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Coconut_(halved)_(3330701660).jpg
+  Author: Chandrika Nair from Cochin, India
+  Licence: CC BY 2.0
+
+avocado.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Avocado_Hass_-_single_and_halved.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+papaya.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Papaya_cut_half.jpg
+  Author: Maksym Kozlenko
+  Licence: CC BY-SA 4.0
+
+pomegranate.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg
+  Author: Augustus Binu : flickr
+  Licence: CC BY-SA 3.0
+
+grapefruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Grapefruits_-_whole-halved-segments.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+cantaloupe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rockmelons.JPG
+  Author: Toby Hudson
+  Licence: CC BY-SA 3.0
+
+honeydew.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Honeydew.jpg
+  Author: Yotoen
+  Licence: Public domain
+
+fig.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ficus_carica_whole_fruits_and_fruit_cut_open.jpg
+  Author: Garitzko
+  Licence: Public domain
+
+apricot.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Apricot_and_cross_section.jpg
+  Author: Fir0002
+  Licence: GFDL 1.2
+
+dragon-fruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pitaya_cross_section_ed2.jpg
+  Author: SMasters
+  Licence: CC BY-SA 3.0
+
+passion-fruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cut_and_uncut_passion_fruits.jpg
+  Author: Nana Pearls
+  Licence: CC0
+
+lychee.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Litchi_chinensis_fruits.JPG
+  Author: B.navez
+  Licence: CC BY-SA 3.0
+
+durian.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Durian_in_black.jpg
+  Author: مانفی
+  Licence: CC BY-SA 4.0
+
+rambutan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rambutan_white_background_alt.jpg
+  Author: Muhammad Mahdi Karim
+  Licence: GFDL 1.2
+
+mangosteen.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mangosteens_-_whole_and_opened.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+jackfruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_jackfruit_is_holding_on_to_the_tree.jpg
+  Author: This work was made by Tushar Hossain and released under the license(s) stated below. Please feel free to use it for any purpose as long as you credit Tushar Hossain as author and follow the terms of the chosen license. If you use this work outside of the Wikimedia projects, I would very much like to get a note from you. Thanks!
+  Licence: CC BY-SA 4.0
+
+star-fruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Averrhoa_carambola_ARS_k5735-7.jpg
+  Author: unknown
+  Licence: Public domain
+
+persimmon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fuyu_persimmon_fruits,_one_cut_open.jpg
+  Author: Frank Schulenburg
+  Licence: CC BY-SA 4.0
+
+guava.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Guava_pink_fruit.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+gooseberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Stachelbeeren.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+blackcurrant.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ribes_nigrum_a1.JPG
+  Author: Jerzy Opioła
+  Licence: CC BY-SA 3.0
+
+dates.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dates005.jpg
+  Author: Nepenthes
+  Licence: CC BY-SA 3.0
+
+tangerine.jpg
+  Source: https://commons.wikimedia.org/wiki/File:TangerineFruit.jpg
+  Author: Barfooz (Brent Ramerth)
+  Licence: CC BY-SA 3.0
+
+kumquat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Kumquat_from_Spain.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+quince.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Quince_(10928s).jpg
+  Author: Rhododendrites
+  Licence: CC BY-SA 4.0
+
+longan.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Longan_fruit_flesh_%26_skin.jpg
+  Author: Zenyrgarden
+  Licence: CC BY-SA 4.0
+
+loquat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Loquat-0.jpg
+  Author: Aftabbanoori
+  Licence: CC BY-SA 3.0
+
+feijoa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Goiaba-serrana,_ou_guarobi_(do_guarani_%27fruto_verde%27),_Feijoa_sellowiana,_em_Bag%C3%A9,_RS,_Brasil_-_55238473195.jpg
+  Author: Gabriel Collares
+  Licence: CC BY 4.0
+
+soursop.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Annona_muricata_1.jpg
+  Author: Damien Boilley from suburbs of Paris, France
+  Licence: CC BY 2.0
+
+custard-apple.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cherimoya_tree_hg.jpg
+  Author: Hannes Grobe 21:31, 5 November 2006 (UTC)
+  Licence: CC BY-SA 2.5
+
+snake-fruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Salak_(Salacca_zalacca),_2015-05-17.jpg
+  Author: Crisco 1492
+  Licence: CC BY-SA 4.0
+
+breadfruit.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Artocarpus_altilis_(fruit).jpg
+  Author: Hans Hillewaert
+  Licence: CC BY-SA 3.0
+
+cape-gooseberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Uchuva_2005.jpg
+  Author: No machine-readable author provided. JuanseG~commonswiki assumed (based on copyright claims).
+  Licence: Public domain
+
+tamarind.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tamarind_pods_edible_part.jpg
+  Author: Sonja Pauen - Stanhopea
+  Licence: CC BY 2.0 de
+
+horned-melon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cucumis_metuliferus_fruit_-_whole_and_cross_section.jpg
+  Author: Ivar Leidus
+  Licence: CC BY-SA 4.0
+
+asian-pear.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Nashi_pear.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+olive.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Olivesfromjordan.jpg
+  Author: en:User:Nickfraser
+  Licence: CC BY-SA 3.0
+
+ackee.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ackee_001.jpg
+  Author: Jerome Walker
+  Licence: CC BY-SA 3.0
+
+elderberry.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sambucus-berries.jpg
+  Author: Edal Anton Lefterov
+  Licence: CC BY-SA 3.0
+
+sugar-apple.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sugar_apple_on_tree.jpg
+  Author: Muhammad Mahdi Karim
+  Licence: GFDL 1.2
+
+buddhas-hand.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Citrus_medica_var._sarcodactylis_01.JPG
+  Author: Kor!An (Андрей Корзун)
+  Licence: CC BY-SA 3.0
+
+wax-apple.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Wax_apple_(Syzygium_samarangense).jpg
+  Author: Salil Kumar Mukherjee
+  Licence: CC BY-SA 4.0

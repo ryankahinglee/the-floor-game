@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#101827">
+  <title>The Floor — Answer Sheet</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body class="answers-page">
+  <main class="answers-shell">
+    <!-- Sticky bar: stays at the top while you scroll -->
+    <header class="answers-bar">
+      <div class="answers-bar-top">
+        <div class="brand"><span class="brand-mark">F</span><span>ANSWERS <small>HOST ONLY</small></span></div>
+        <a class="answers-back" href="index.html">← Game</a>
+      </div>
+      <div class="answers-pickers">
+        <select id="categoryPicker" aria-label="Category"></select>
+        <select id="roundPicker" aria-label="Round"></select>
+      </div>
+    </header>
+
+    <p id="loadStatus" class="status-line" aria-live="polite">Loading categories…</p>
+    <p id="missingStatus" class="missing-status hidden"></p>
+
+    <!-- Numbered answers, in the same order the TV shows the images -->
+    <ol id="answerList" class="answer-list"></ol>
+  </main>
+  <script src="js/categories.js"></script>
+  <script src="js/answers.js"></script>
+</body>
+</html>

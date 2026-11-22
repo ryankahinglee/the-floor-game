@@ -1,0 +1,30 @@
+{
+  "name": "Greek Mythology",
+  "images": [
+    {"file":"zeus.jpg","answer":"Zeus","aliases":["Jupiter"],"description":"King of the gods"},
+    {"file":"hera.jpg","answer":"Hera","aliases":["Juno"],"description":"Queen of the gods, wife of Zeus"},
+    {"file":"athena.jpg","answer":"Athena","aliases":["Minerva","Athene"],"description":"Goddess of wisdom and war – helmet"},
+    {"file":"apollo.jpg","answer":"Apollo","description":"God of music, light and prophecy"},
+    {"file":"artemis.jpg","answer":"Artemis","aliases":["Diana"],"description":"Goddess of the hunt – quiver and deer"},
+    {"file":"ares.jpg","answer":"Ares","aliases":["Mars"],"description":"God of war – helmet"},
+    {"file":"aphrodite.jpg","answer":"Aphrodite","aliases":["Venus"],"description":"Goddess of love and beauty"},
+    {"file":"hermes.jpg","answer":"Hermes","aliases":["Mercury"],"description":"Messenger god – winged staff (caduceus) and hat"},
+    {"file":"dionysus.jpg","answer":"Dionysus","aliases":["Bacchus","Dionysos"],"description":"God of wine – grapes and vine wreath"},
+    {"file":"eros.jpg","answer":"Eros","aliases":["Cupid"],"description":"God of love – wings"},
+    {"file":"pan.jpg","answer":"Pan","aliases":["Faunus"],"description":"God of the wild – goat legs, horns and pan pipes"},
+    {"file":"helios.jpg","answer":"Helios","aliases":["Sol"],"description":"Sun god – crown of rays, four-horse chariot"},
+    {"file":"atlas.jpg","answer":"Atlas","description":"Titan who holds up the heavens"},
+    {"file":"heracles.jpg","answer":"Heracles","aliases":["Hercules"],"description":"Hero, son of Zeus – club and lion skin"},
+    {"file":"hecate.jpg","answer":"Hecate","aliases":["Hekate"],"description":"Goddess of magic and crossroads – three bodies"},
+    {"file":"asclepius.jpg","answer":"Asclepius","aliases":["Asklepios","Aesculapius"],"description":"God of medicine – staff with a snake"},
+    {"file":"poseidon.jpg","answer":"Poseidon","aliases":["Neptune"],"description":"God of the sea – trident, sea creatures"},
+    {"file":"hades.jpg","answer":"Hades","aliases":["Pluto"],"description":"God of the underworld – with Cerberus, the three-headed dog"},
+    {"file":"hephaestus.jpg","answer":"Hephaestus","aliases":["Vulcan","Hephaistos"],"description":"God of fire and the forge – hammer, tongs, anvil"},
+    {"file":"persephone.jpg","answer":"Persephone","aliases":["Proserpina","Proserpine","Kore"],"description":"Queen of the underworld – the pomegranate"},
+    {"file":"nike.jpg","answer":"Nike","aliases":["Winged Victory","Victoria"],"description":"Goddess of victory – the Winged Victory of Samothrace"},
+    {"file":"prometheus.jpg","answer":"Prometheus","description":"Titan who stole fire – chained, attacked by an eagle"},
+    {"file":"medusa.jpg","answer":"Medusa","aliases":["Gorgon"],"description":"Gorgon with snakes for hair (Caravaggio)"},
+    {"file":"pegasus.jpg","answer":"Pegasus","description":"The winged horse"},
+    {"file":"minotaur.jpg","answer":"Minotaur","aliases":["The Minotaur"],"description":"Half man, half bull (G. F. Watts)"}
+  ]
+}

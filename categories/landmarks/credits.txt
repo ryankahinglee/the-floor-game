@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+eiffel-tower.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg
+  Author: Benh LIEU SONG
+  Licence: Public domain
+
+leaning-tower-of-pisa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Italy_-_Pisa_-_Leaning_Tower.jpg
+  Author: Arne Müseler
+  Licence: CC BY-SA 3.0 de
+
+sydney-opera-house.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_2026.jpg
+  Author: BAVhah
+  Licence: CC BY-SA 4.0
+
+statue-of-liberty.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Front_view_of_Statue_of_Liberty_(cropped).jpg
+  Author: AskALotl
+  Licence: CC0
+
+big-ben.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Elizabeth_Tower_and_the_north_front_of_the_Palace_of_Westminster,_London.jpg
+  Author: Christian David
+  Licence: CC BY-SA 4.0
+
+colosseum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg
+  Author: FeaturedPics
+  Licence: CC BY-SA 4.0
+
+taj-mahal.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg
+  Author: Yann; edited by Jim Carter
+  Licence: CC BY-SA 4.0
+
+great-wall-of-china.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg
+  Author: Severin.stalder
+  Licence: CC BY-SA 3.0
+
+christ-the-redeemer.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Christ_the_Redeemer_-_Cristo_Redentor.jpg
+  Author: Arne Müseler
+  Licence: CC BY-SA 3.0 de
+
+machu-picchu.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg
+  Author: Draceane
+  Licence: CC BY-SA 4.0
+
+pyramids-of-giza.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg
+  Author: KennyOMG
+  Licence: CC BY-SA 4.0
+
+great-sphinx.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Sphinx_with_the_third_pyramid.jpg
+  Author: Hesham Ebaid
+  Licence: CC0
+
+golden-gate-bridge.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Golden_Gate_Bridge_as_seen_from_Battery_East.jpg
+  Author: Frank Schulenburg
+  Licence: CC BY-SA 4.0
+
+tower-bridge.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tower_Bridge_at_Dawn.jpg
+  Author: Fuzzypiggy
+  Licence: CC BY-SA 3.0
+
+burj-khalifa.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Burj_Khalifa_(16260269606).jpg
+  Author: Laika ac
+  Licence: CC BY-SA 2.0
+
+mount-rushmore.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mount_Rushmore_detail_view_(100MP).jpg
+  Author: Thomas Wolf, www.foto-tw.de
+  Licence: CC BY-SA 3.0
+
+stonehenge.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg
+  Author: garethwiscombe
+  Licence: CC BY 2.0
+
+petra.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG
+  Author: Azurfrog
+  Licence: CC BY-SA 3.0
+
+sagrada-familia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg
+  Author: Canaan
+  Licence: CC BY-SA 4.0
+
+acropolis.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Parthenon_in_Athens.jpg
+  Author: Steve Swayne
+  Licence: CC BY 2.0
+
+neuschwanstein-castle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Schloss_Neuschwanstein_(45_mm).jpg
+  Author: AuHaidhausen
+  Licence: CC BY 4.0
+
+st-basils-cathedral.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Saint_Basil%27s_Cathedral_in_Moscow.jpg
+  Author: Tsy1980
+  Licence: CC BY-SA 4.0
+
+angkor-wat.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg
+  Author: Bjørn Christian Tørrissen
+  Licence: CC BY-SA 4.0
+
+mount-fuji.jpg
+  Source: https://commons.wikimedia.org/wiki/File:View_of_Mount_Fuji_from_%C5%8Cwakudani_20211202.jpg
+  Author: Suicasmo
+  Licence: CC BY-SA 4.0
+
+brandenburg-gate.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg
+  Author: Thomas Wolf, www.foto-tw.de
+  Licence: CC BY-SA 3.0
+
+arc-de-triomphe.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Arc_de_Triomphe_-_Ao%C3%BBt_2026.jpg
+  Author: ZeusUpsistos
+  Licence: CC BY-SA 4.0
+
+empire-state-building.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Empire_State_Building_(aerial_view).jpg
+  Author: Sam Valadi
+  Licence: Public domain
+
+chichen-itza.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg
+  Author: Daniel Schwen
+  Licence: CC BY-SA 4.0
+
+niagara-falls.jpg
+  Source: https://commons.wikimedia.org/wiki/File:3Falls_Niagara.jpg
+  Author: Saffron Blaze
+  Licence: CC BY-SA 3.0
+
+grand-canyon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg
+  Author: Lennart Sikkema
+  Licence: CC BY 3.0
+
+space-needle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Space_Needle_2011-07-04.jpg
+  Author: Jordon Kalilich
+  Licence: Public domain
+
+cn-tower.jpg
+  Source: https://commons.wikimedia.org/wiki/File:CN_Tower_from_Puente_de_Luz,_Toronto,_Ontario,_2025-08-25_01.jpg
+  Author: Chris Woodrich
+  Licence: CC BY-SA 4.0
+
+buckingham-palace.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_01_(cropped).jpg
+  Author: Julian Herzog (Website)
+  Licence: CC BY 4.0
+
+notre-dame.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris,_4_October_2017.jpg
+  Author: Ali Sabbagh
+  Licence: CC0
+
+st-peters-basilica.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Basilica_di_San_Pietro_in_Vaticano_September_2015-1a.jpg
+  Author: Alvesgaspar
+  Licence: CC BY-SA 4.0
+
+trevi-fountain.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Trevi_Fountain_-_Roma.jpg
+  Author: NikonZ7II
+  Licence: CC BY-SA 4.0
+
+louvre-pyramid.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Louvre_museum_01.jpg
+  Author: Maksim Sokolov (maxergon.com)
+  Licence: CC BY-SA 4.0
+
+moscow-kremlin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Moscow_Kremlin_(8281675670).jpg
+  Author: Pavel Kazachkov from Moscow, Russia
+  Licence: CC BY 2.0
+
+forbidden-city.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Beijing_Forbidden_City_Hall_of_Central_Harmony_terraces-20071018-RM-143613.jpg
+  Author: Reinhold Möller Ermell
+  Licence: CC BY-SA 4.0
+
+marina-bay-sands.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Marina_Bay_Sands_(I).jpg
+  Author: This Photo was taken by Supanut Arunoprayote. Feel free to use any of my images, but please mention me as the author and may send me a message. (สามารถใช้ภาพได้อิสระ แต่กรุณาใส่เครดิตผู้ถ่ายและอาจส่งข้อความบอกกล่าวด้วย) Please do not upload an updated image here without consultation with the Author. The author would like to make corrections only at his own source. This ensures that the changes are preserved.Please if you think that any changes should be required, please inform the author.Otherwise you can upload a new image with a new name. Please use one of the templates derivative or extract.
+  Licence: CC BY 4.0
+
+merlion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Singapore_Skyline_2019-10.jpg
+  Author: Unwicked
+  Licence: CC BY-SA 4.0
+
+petronas-towers.jpg
+  Source: https://commons.wikimedia.org/wiki/File:2016_Kuala_Lumpur,_Petronas_Towers_(21).jpg
+  Author: Marcin Konsek
+  Licence: CC BY-SA 4.0
+
+moai.jpg
+  Source: https://commons.wikimedia.org/wiki/File:AhuTongariki.JPG
+  Author: Ian Sewell
+  Licence: CC BY 2.5
+
+uluru.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ULURU.jpg
+  Author: Ek2030372672
+  Licence: CC BY-SA 4.0
+
+hagia-sophia.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Hagia_Sophia_(228968325).jpeg
+  Author: Adli Wahid
+  Licence: CC BY-SA 3.0
+
+alhambra.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Dawn_Charles_V_Palace_Alhambra_Granada_Andalusia_Spain.jpg
+  Author: Jebulon
+  Licence: CC0
+
+mont-saint-michel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mont-Saint-Michel_vu_du_ciel.jpg
+  Author: Amaustan
+  Licence: CC BY-SA 4.0
+
+atomium.jpg
+  Source: https://commons.wikimedia.org/wiki/File:The_Atomium_during_civil_twilight_(DSCF1135).jpg
+  Author: Trougnouf (Benoit Brummer)
+  Licence: CC BY 4.0
+
+edinburgh-castle.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_from_Esplanade_20211019.jpg
+  Author: Daniel Kraft
+  Licence: CC BY-SA 3.0
+
+kinkaku-ji.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Golden_Pavilion_Kinkaku-ji_water_mirror_2024.jpg
+  Author: Nacaru
+  Licence: CC BY-SA 4.0
+
+fushimi-inari.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Torii_path_with_lantern_at_Fushimi_Inari_Taisha_Shrine,_Kyoto,_Japan.jpg
+  Author: Basile Morin
+  Licence: CC BY-SA 4.0
+
+lincoln-memorial.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lincoln_Memorial_east_side.JPG
+  Author: Martin Falbisoner
+  Licence: CC BY-SA 3.0
+
+white-house.jpg
+  Source: https://commons.wikimedia.org/wiki/File:White_House_north_side.JPG
+  Author: Martin Falbisoner
+  Licence: CC BY-SA 3.0
+
+times-square.jpg
+  Source: https://commons.wikimedia.org/wiki/File:New_york_times_square-terabass.jpg
+  Author: Terabass
+  Licence: CC BY-SA 3.0
+
+gyeongbokgung.jpg
+  Source: https://commons.wikimedia.org/wiki/File:%EA%B4%91%ED%99%94%EB%AC%B8_%EC%9B%94%EB%8C%80.jpg
+  Author: 서울관광 아카이브
+  Licence: KOGL Type 1
+
+matterhorn.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Matterhorn_from_Domh%C3%BCtte_-_2.jpg
+  Author: Photo: chil, on Camptocamp.org Derivative work:Zacharie Grossen
+  Licence: CC BY-SA 3.0
+
+cologne-cathedral.jpg
+  Source: https://commons.wikimedia.org/wiki/File:K%C3%B6lner_Dom_-_Westfassade_2022_ohne_Ger%C3%BCst-0968_b.jpg
+  Author: Raimond Spekking
+  Licence: CC BY-SA 4.0
+
+tian-tan-buddha.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tian_Tan_Buddha_2023081302.jpg
+  Author: Huangdan2060
+  Licence: CC BY 4.0
+
+tokyo-skytree.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_2014_%E2%85%A2.jpg
+  Author: Kakidai
+  Licence: CC BY-SA 3.0
+
+blue-mosque.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Istanbul_(34223582516)_(cropped).jpg
+  Author: Pedro Szekely from Los Angeles, USA
+  Licence: CC BY-SA 2.0

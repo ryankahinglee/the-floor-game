@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+united-states.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States.svg
+  Author: Uploaded by Dbenbenn; edited by users such as Zscout370, Jacobolus, Indolences, and Technion.
+  Licence: Public domain
+
+united-kingdom.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg
+  Author: Original: Acts of Union 1800 Vector: Yaddah
+  Licence: Public domain
+
+canada.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg
+  Author: Original: George F. G. Stanley Modified by: The original uploader was Illegitimate Barrister at Wikimedia Commons. The current SVG encoding is a rewrite performed by MapGrid.
+  Licence: Public domain
+
+mexico.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Mexico.svg
+  Author: Omar Alejandro Covarrubias Neri, 9 April 2006. Based on the 1968 arms by Francisco Eppens Helguera and Juan Manuel Gabino Villascán.
+  Licence: Public domain
+
+brazil.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Brazil.svg
+  Author: Raimundo Teixeira Mendes
+  Licence: Public domain
+
+argentina.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Argentina.svg
+  Author: Manuel Belgrano
+  Licence: Public domain
+
+chile.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Chile.svg
+  Author: See file history below for details.
+  Licence: Public domain
+
+colombia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Colombia.svg
+  Author: See File history below for details.
+  Licence: Public domain
+
+jamaica.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Jamaica.svg
+  Author: The SVG code is valid. This vector image was created with Inkscape by SKopp, and then manually edited by Zscout370, Madden and others.
+  Licence: Public domain
+
+france.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_France.svg
+  Author: Original: Unknown Vector: SKopp
+  Licence: Public domain
+
+germany.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Germany.svg
+  Author: User:SKopp, User:Madden, and other users
+  Licence: Public domain
+
+italy.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Italy.svg
+  Author: See below.
+  Licence: Public domain
+
+spain.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Spain.svg
+  Author: RelShot 263, Echando una mano; earlier version was Pedro A. Gracia Fajardo, escudo de Manual de Imagen Institucional de la Administración General del Estado
+  Licence: Public domain
+
+portugal.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Portugal.svg
+  Author: Original: Columbano Bordalo Pinheiro (1910; generic design) Vector: Vítor Luís Rodrigues; António Martins-Tuválkin (2004; this specific vector set: see sources)
+  Licence: Public domain
+
+netherlands.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_Netherlands.svg
+  Author: Zscout370
+  Licence: Public domain
+
+belgium.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Belgium.svg
+  Author: Dbenbenn and others
+  Licence: Public domain
+
+switzerland.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Switzerland.svg
+  Author: Original: Unknown Vector: User:Marc Mongenet Credits: User:-xfi- User:Zscout370
+  Licence: Public domain
+
+ireland.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Ireland.svg
+  Author: Éire
+  Licence: Public domain
+
+sweden.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Sweden.svg
+  Author: Jon Harald Søby and others.
+  Licence: Public domain
+
+norway.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Norway.svg
+  Author: Original: Fredrik Meltzer Vector: Gutten på Hemsen
+  Licence: Public domain
+
+denmark.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Denmark.svg
+  Author: Madden and others
+  Licence: Public domain
+
+finland.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Finland.svg
+  Author: Unknown
+  Licence: Public domain
+
+greece.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Greece.svg
+  Author: Unknown authorUnknown author
+  Licence: Public domain
+
+poland.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Poland.svg
+  Author: See below.
+  Licence: Public domain
+
+ukraine.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Ukraine.svg
+  Author: Government of Ukraine
+  Licence: Public domain
+
+turkey.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Turkey.svg
+  Author: David Benbennick (original author)
+  Licence: Public domain
+
+russia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Russia.svg
+  Author: Peter the Great
+  Licence: Public domain
+
+japan.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Japan.svg
+  Author: Various
+  Licence: Public domain
+
+south-korea.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_South_Korea.svg
+  Author: Original: Government of the Republic of Korea Vector: Great Brightstar and others
+  Licence: Public domain
+
+china.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_People%27s_Republic_of_China.svg
+  Author: Zeng Liansong
+  Licence: Public domain
+
+india.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_India.svg
+  Author: Government of India
+  Licence: Public domain
+
+thailand.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Thailand.svg
+  Author: Zscout370
+  Licence: Public domain
+
+vietnam.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Vietnam.svg
+  Author: See File history below for details.
+  Licence: Public domain
+
+philippines.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_Philippines.svg
+  Author: See File history below for details.
+  Licence: Public domain
+
+indonesia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Indonesia.svg
+  Author: Jayakatwang
+  Licence: Public domain
+
+malaysia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Malaysia.svg
+  Author: MapGrid (old version SKopp, Zscout370 and Ranking Update)
+  Licence: Public domain
+
+singapore.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Singapore.svg
+  Author: Original: Government of Singapore Vector: Zscout370
+  Licence: Public domain
+
+saudi-arabia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Saudi_Arabia.svg
+  Author: The Shura Council
+  Licence: Public domain
+
+israel.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Israel.svg
+  Author: Israel Belkind and Fanny Abramovitch (original) “The Provisional Council of State Proclamation of the Flag of the State of Israel” of 25 Tishrei 5709 (28 October 1948) provides the official specification for the design of the Israeli flag. The color of the Magen David and the stripes of the Israeli flag is not precisely specified by the above legislation. The color depicted in the current version of the image is typical of flags used in Israel today, although individual flags can and do vary. The flag legislation officially specifies dimensions of 220 cm × 160 cm. However, the sizes of actual flags vary (although the aspect ratio is usually retained).
+  Licence: Public domain
+
+egypt.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Egypt.svg
+  Author: See File history below for details.
+  Licence: Public domain
+
+nigeria.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Nigeria.svg
+  Author: Jon Harald Søby.
+  Licence: Public domain
+
+kenya.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Kenya.svg
+  Author: User:Pumbaa80
+  Licence: Public domain
+
+south-africa.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_South_Africa.svg
+  Author: Flag design by Frederick Brownell, image by Wikimedia Commons users
+  Licence: Public domain
+
+australia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Australia_(converted).svg
+  Author: Unknown (Vector graphics image by Ian Fieggen) (only minor code changes by uploader.)
+  Licence: Public domain
+
+new-zealand.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_New_Zealand.svg
+  Author: Original: Albert Hastings Markham Vector: Zscout370, Hugh Jass, s. File history
+  Licence: Public domain
+
+austria.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Austria.svg
+  Author: Bundesministerium für Landesverteidigung
+  Licence: Public domain
+
+czech-republic.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_Czech_Republic.svg
+  Author: Jaroslav Kursa
+  Licence: Public domain
+
+hungary.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Hungary.svg
+  Author: SKopp
+  Licence: Public domain
+
+croatia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Croatia.svg
+  Author: Nightstallion, Elephantus, Neoneo13, Denelson83, Rainman, R-41, Minestrone, Lupo, Zscout370,MaGa (based on Decision of the Parliament)
+  Licence: Public domain
+
+iceland.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Iceland.svg
+  Author: Original: Matthías Þórðarson Vector: Árni Dagur and Magasjukur2
+  Licence: Public domain
+
+peru.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Peru.svg
+  Author: David Benbennick
+  Licence: Public domain
+
+cuba.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Cuba.svg
+  Author: Miguel Teurbe Tolón and Narciso López
+  Licence: Public domain
+
+pakistan.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Pakistan.svg
+  Author: User:Zscout370
+  Licence: Public domain
+
+nepal.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Nepal.svg
+  Author: Drawn by Pumbaa80, Achim1999
+  Licence: Public domain
+
+morocco.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Morocco.svg
+  Author: Denelson83, Zscout370
+  Licence: Public domain
+
+ghana.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Ghana.svg
+  Author: Theodosia Okoh
+  Licence: Public domain
+
+ethiopia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Ethiopia.svg
+  Author: Drawn by User:SKopp
+  Licence: Public domain
+
+united-arab-emirates.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Arab_Emirates.svg
+  Author: Abdulla Mohammed Al Maainah
+  Licence: Public domain
+
+lebanon.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Lebanon.svg
+  Author: Henri Pharaon
+  Licence: Public domain
+
+cambodia.png
+  Source: https://commons.wikimedia.org/wiki/File:Flag_of_Cambodia.svg
+  Author: Unknown authorUnknown author
+  Licence: Public domain

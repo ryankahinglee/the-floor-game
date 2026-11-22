@@ -1,0 +1,302 @@
+Images from Wikimedia Commons (https://commons.wikimedia.org), resized by Wikimedia.
+Where a licence is CC BY or CC BY-SA, credit goes to the author listed.
+
+carrot.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Vegetable-Carrot-Bundle-wStalks.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+potato.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Patates.jpg
+  Author: Scott Bauer, USDA ARS
+  Licence: Public domain
+
+tomato.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Tomato_je.jpg
+  Author: Softeis
+  Licence: CC BY-SA 3.0
+
+broccoli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Broccoli_and_cross_section_edit.jpg
+  Author: Fir0002
+  Licence: GFDL 1.2
+
+cauliflower.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chou-fleur_02.jpg
+  Author: Coyau
+  Licence: CC BY-SA 3.0
+
+cabbage.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cabbage_and_cross_section_on_white.jpg
+  Author: fir0002 flagstaffotos [at] gmail.com Canon 20D + Sigma 150mm f/2.8
+  Licence: GFDL 1.2
+
+lettuce.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Lettuce_in_a_stack.jpg
+  Author: Jeffery Martin
+  Licence: CC0
+
+cucumber.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ryerson_Market_cucumbers_on_sale.jpg
+  Author: Jason Zhang
+  Licence: CC BY-SA 3.0
+
+capsicum.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Green-Yellow-Red-Pepper-2009.jpg
+  Author: Kham Tran - www.khamtran.com
+  Licence: CC BY-SA 3.0
+
+chilli.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg
+  Author: Takeaway
+  Licence: CC BY-SA 4.0
+
+eggplant.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Solanum_melongena_24_08_2012_(1).JPG
+  Author: Joydeep
+  Licence: CC BY-SA 3.0
+
+zucchini.jpg
+  Source: https://commons.wikimedia.org/wiki/File:CSA-Striped-Zucchini.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+pumpkin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:FrenchMarketPumpkinsB.jpg
+  Author: Infrogmation of New Orleans
+  Licence: CC BY-SA 3.0
+
+sweet-potato.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ipomoea_batatas_006.JPG
+  Author: Llez
+  Licence: CC BY-SA 3.0
+
+onion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Mixed_onions.jpg
+  Author: Colin
+  Licence: CC BY-SA 3.0
+
+garlic.jpg
+  Source: https://commons.wikimedia.org/wiki/File:M%C3%BCnster,_Domplatz,_Wochenmarkt_--_2019_--_2678.jpg
+  Author: Dietmar Rabich
+  Licence: CC BY-SA 4.0
+
+spring-onion.jpg
+  Source: https://commons.wikimedia.org/wiki/File:CSA-Red-Spring-Onions.jpg
+  Author: Evan-Amos
+  Licence: Public domain
+
+leek.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Leek_on_white_background_-_0947.jpg
+  Author: Amada44
+  Licence: CC BY-SA 4.0
+
+celery.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Celery_1.jpg
+  Author: Lombroso
+  Licence: Public domain
+
+asparagus.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Asparagus-Bundle.jpg
+  Author: Evan-Amos
+  Licence: CC BY-SA 3.0
+
+kale.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Boerenkool.jpg
+  Author: Rasbak
+  Licence: CC BY-SA 3.0
+
+brussels-sprouts.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Brussels_sprout_closeup.jpg
+  Author: Eric Hunt
+  Licence: CC BY 2.5
+
+peas.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Peas_in_pods_2016_G1.jpg
+  Author: George Chernilevsky
+  Licence: Public domain
+
+green-beans.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Heaps_of_beans.jpg
+  Author: unknown
+  Licence: GFDL 1.2
+
+corn.jpg
+  Source: https://commons.wikimedia.org/wiki/File:VegCorn.jpg
+  Author: The original Uploader was wstoakLL at English Wikipedia
+  Licence: Public domain
+
+mushroom.jpg
+  Source: https://commons.wikimedia.org/wiki/File:ChampignonMushroom.jpg
+  Author: chris_73
+  Licence: CC BY-SA 3.0
+
+beetroot.png
+  Source: https://commons.wikimedia.org/wiki/File:Detroitdarkredbeets.png
+  Author: BriannaWalther
+  Licence: CC BY-SA 3.0
+
+radish.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Radish_3371103037_4ab07db0bf_o.jpg
+  Author: Self, en:User:Jengod
+  Licence: Public domain
+
+turnip.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Turnip_2622027.jpg
+  Author: thebittenword.com
+  Licence: CC BY 2.0
+
+parsnip.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Parsnips_on_a_shelf.jpg
+  Author: Jeffery Martin
+  Licence: CC0
+
+artichoke.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Artichoke_J1.jpg
+  Author: Jamain
+  Licence: CC BY-SA 3.0
+
+okra.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bucket_of_raw_okra_pods.jpg
+  Author: Bill Tarpenning
+  Licence: Public domain
+
+bok-choy.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Bok_Choy_(49553125456).jpg
+  Author: spurekar
+  Licence: CC BY 2.0
+
+celeriac.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Celery_root_(8047803896).jpg
+  Author: Leslie Seaton from Seattle, WA, USA
+  Licence: CC BY 2.0
+
+fennel.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Fennel_bulb.jpg
+  Author: Tiia Monto
+  Licence: CC BY-SA 4.0
+
+kohlrabi.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Brassica_oleracea_var._gongylodes_(kohlrabi).jpg
+  Author: Unknown
+  Licence: CC0
+
+watercress.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Watercress_(2).JPG
+  Author: Masparasol
+  Licence: CC BY 3.0
+
+ginger.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Ginger_Root.jpg
+  Author: Sanjay Acharya
+  Licence: CC BY-SA 4.0
+
+bean-sprouts.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Moyashi-Mung-bean-sprouts.jpg
+  Author: photobeast
+  Licence: CC BY-SA 4.0
+
+taro.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Taro_corms_2.jpg
+  Author: unknown
+  Licence: CC BY-SA 3.0
+
+cassava.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cassava_bunch_in_ososun,_Nigeria.jpg
+  Author: Godmyhelper
+  Licence: CC BY-SA 4.0
+
+daikon.png
+  Source: https://commons.wikimedia.org/wiki/File:Different_kinds_of_White_Radish.png
+  Author: KimYunmi
+  Licence: CC BY-SA 4.0
+
+jerusalem-artichoke.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Jerusalem_artichokes.jpg
+  Author: Robin
+  Licence: CC BY-SA 2.0
+
+bitter-melon.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cucurbitales_-_Momordica_charantia_-_4.jpg
+  Author: Emőke Dénes
+  Licence: CC BY-SA 4.0
+
+choko.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chayote_BNC.jpg
+  Author: Prathyush Thomas
+  Licence: GFDL 1.2
+
+edamame.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Edamame_by_Zesmerelda_in_Chicago.jpg
+  Author: Tammy Green (aka Zesmerelda) from Chicago Upscale Dining + Lounge Republic Pan-Asian Restaurant [1] in Ontario &amp; Rush Street, Chicago, Illinois 60611
+  Licence: CC BY-SA 2.0
+
+rhubarb.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rheum_rhabarbarum.2006-04-27.uellue.jpg
+  Author: Dieter Weber (User:Uellue)
+  Licence: CC BY-SA 3.0
+
+swede.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rutabaga,_variety_nadmorska.JPG
+  Author: Picasa user Seedambassadors
+  Licence: CC BY-SA 3.0
+
+silverbeet.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Chard_(Beta_vulgaris_var_cicla).jpg
+  Author: Neelix at English Wikipedia
+  Licence: Public domain
+
+radicchio.jpg
+  Source: https://commons.wikimedia.org/wiki/File:RadicchioNL.jpg
+  Author: The original uploader was Kasteelhoeve Puth at English Wikipedia.
+  Licence: Public domain
+
+shallot.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shallots_-_sliced_and_whole.jpg
+  Author: No machine-readable author provided. Charles P. assumed (based on copyright claims).
+  Licence: Public domain
+
+broad-beans.jpg
+  Source: https://commons.wikimedia.org/wiki/File:-2021-06-30_Broad_beans_in_the_pod,_Trimingham.JPG
+  Author: Kolforn (Kolforn) I'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope. This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license. You are free: to share – to copy, distribute and transmit the work to remix – to adapt the work Under the following conditions: attribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. share alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/4.0CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 truetrue
+  Licence: CC BY-SA 4.0
+
+bamboo-shoots.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Big_Bamboo_Shoot_(Joi_Ito).jpg
+  Author: Joi Ito
+  Licence: CC BY 2.0
+
+wombok.png
+  Source: https://commons.wikimedia.org/wiki/File:Napa_cabbages.png
+  Author: Bayartai
+  Licence: CC0
+
+lotus-root.jpg
+  Source: https://commons.wikimedia.org/wiki/File:JaRenkonLotus14R.jpg
+  Author: westwind
+  Licence: CC BY-SA 3.0
+
+red-cabbage.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Rotkohl_(Brassica_oleracea_convar).JPG
+  Author: Elrond
+  Licence: CC BY-SA 4.0
+
+butternut-pumpkin.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Cucurbita_moschata_Butternut_2012_G2.jpg
+  Author: George Chernilevsky
+  Licence: Public domain
+
+yam.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Yam_at_monday_market_kaduna_state_01.jpg
+  Author: Dorcas Atule
+  Licence: CC BY-SA 4.0
+
+enoki.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Flammulina_velutipes_(Enokitake,_winter_mushroom).jpg
+  Author: frankenstoen
+  Licence: CC BY-SA 2.0
+
+shiitake.jpg
+  Source: https://commons.wikimedia.org/wiki/File:Shiitakegrowing.jpg
+  Author: frankenstoen from Portland, Oregon
+  Licence: CC BY 2.0
